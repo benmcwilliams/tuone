@@ -1,0 +1,172 @@
+Article 1: Why did this happen?
+
+Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy....
+Article 2: Contemporary Amperex Technology Co., Limited (CATL) officially announced it will invest 7.34 billion euros to build a 100 GWh battery plant in Debrecen of east Hungary, which is also its second battery plant in Europe following its German plant. Subject to the shareholder meeting approval, construction of the first production facilities will start within this year.
+
+Covering an area of 221 hectares in the Southern Industrial Park of Debrecen, the project will supply both cells and modules to European automakers.
+
+Debrecen is located at the heart of Europe, and with close proximity to some auto plants of its customers such as Mercedes-Benz, BMW, Stellantis and Volkswagen, CATL’s Debrecen plant will enable it to better cope with the battery demands of the European market, improve its global production network development, and help accelerate e-mobility and energy transition in Europe.
+
+As part of its commitment to reducing the carbon footprint in battery manufacturing, CATL will use electricity from renewable energies, and is considering developing solar power with local partners in the country.
+
+To build a sustainable and circular battery value chain, CATL is also examining the possibility of joining forces with local partners to establish facilities for battery materials in Europe.
+
+“There is no doubt that our plant in Debrecen will enable us to further sharpen our competitive edge, better respond to our European customers, and accelerate the transition to e-mobility in Europe,” said Dr. Robin Zeng, founder and Chairman of CATL. “The greenfield project in Hungary will be a giant leap in CATL’s global expansion, and also an important step in our efforts to make an outstanding contribution to the green energy drive for humankind.”
+
+Péter Szijjártó, Hungarian Minister of Foreign Affairs and Trade, said: “Both the global and the European economies have been faced with tremendous challenges recently. We in Hungary have a clear goal to be a local exception from the continental recession. The best tool to achieve this goal is to attract state-of-the-art investments in the most revolutionary branch of the automotive industry, namely electromobility. We are proud that CATL decided to execute the biggest ever greenfield investment in the history of Hungary. We have recently become one of the leading battery production sites of the world and with this huge investment we further strengthen our position.”
+
+The new project was well received from CATL’s European customers. Markus Schäfer, Member of the Board of Management of Mercedes-Benz Group AG, CTO responsible for development and procurement, said: “This new state-of-the art European CATL plant in Hungary is another milestone for the scale-up of our EV production together with our key partners. With CATL we have a technology-leader as our partner to provide us - as the first and biggest customer of the new plant’s initial capacity - with top-notch CO2 neutral battery cells for our next generation EVs in Europe, hence following our local-to-local approach in procurement. We’re proud to see our Ambition 2039 supported by CATL’s commitment to CO2 neutral production in Hungary.”...
+Article 3: Projects are being launched by newcomers like FREYR and Northvolt, automotive OEMs like Tesla and VW, and established cell producers from East Asia like BYD, LG Chem and CATL. Most planned capacity is set to go to the EV market rather than stationary energy storage, but a bottleneck in the supply of the former has knock-on effects on the latter.
+
+CATL this week announced a second battery gigafactory project in Hungary, after its first in Germany which it told Energy-Storage.news was ‘going smoothly as planned’ and is set to start battery cell production by the end of 2022 as scheduled.
+
+However, many projects will not open on time according to analysts looking at the market.
+
+A snapshot of Europe’s gigafactory projects, taken from Dr Heiner Heimes’ ‘Battery Atlas’ of the European sector. Image: Battery-News.De.
+
+Long lead times
+
+Dr Heiner Heimes, an academic specialising in battery production at RWTH Aachen University in Germany, and co-author of Battery-News.De‘s reports on the topic, told Energy-Storage.news that long lead times for equipment are proving a major challenge.
+
+“Nearly all of the projects have some delay, though not all talk about it. But if you look at the current delivery times it’s clear we’ll see delays because it’s very hard right now to get the different components for the production equipment,” he said.
+
+“But, these delays won’t be critical. A delay of three or six months won’t lead to investors saying ‘we have to stop everything’. And the good thing is, we haven’t seen one project that’s been cancelled entirely.”
+
+Another analyst, research firm Delta-EE’s head of flexibility and storage Jon Ferris, did suggest that some gigafactories might not open at all. He cited a shortage of lithium carbonate as the main bottleneck affecting plans, and that some of the earliest projects have switched to producing lithium iron phosphate (LFP) batteries due to shortages in nickel, manganese and cobalt (NMC).
+
+Delta-EE’s data shows that roughly a quarter of the c.40 major gigafactory projects, outlined in Battery-News.De‘s map, have been delayed. But many have also increased their nameplate capacity plans so overall the picture is still one of growth rather than volumes being pushed back.
+
+First pulled gigafactory project?
+
+One project which has has been widely reported as substantially delayed or even pulled entirely is that of Chinese company Farasis Energy, partner to automotive group Daimler, in Bitterfeld-Wolfen, Germany. An initial production start date of 2022 was reportedly pushed to 2024 and there are now doubts it may happen at all.
+
+Outlet Mitteldeutsche Zeitung reported in May that the urban development contract between Farasis and the local council for the project had been terminated, citing official statements by both parties. But, as Dr Heimes alluded to, plans for a gigafactory project in Europe have not been officially cancelled by the company.
+
+FREYR Battery
+
+One of those to have both pushed back its initial planned start date for commercial production but doubled annual production capacity targets is Norway-based gigafactory company FREYR Battery. Company presentations as recent as February 2022 expected the start-up of production lines in its first gigafactory in late 2023 while the company is now targeting the start of production in the first half of 2024.
+
+However, CEO Tom Jensen told Energy-Storage.news in a recent interview that this change in timeline was due to the company’s capital raise through going public last year happening 4-5 months later than planned, along with the process to combine and optimise its first two gigafactories into one.
+
+“Given Covid, given everything, we like to say that we’re reasonably in line with what we’ve said previously. Of course, there is a month here and there because of things like the China shutdown and so on, but we’ve been able to mitigate the worst of that. In that way we can get up to the nameplate capacity a steady run rate of volume more or less in line with what we’ve been saying before,” he said.
+
+“But it’s been a very difficult environment in which to do that. So when we’re saying that we’re reasonably on track, of course, it’s not one-to-one but it’s roughly there.”
+
+Discussing how the company has been able to double capacity targets, he explained: “We see that we can upscale production with the 24M platform, that we have a replicable industrialisation blueprint which can be exported to other jurisdictions, and of course we see that both the incentives and demand in the market are booming.”
+
+Kontrolmatik
+
+In the same press release announcing an expansion of its planned US facility, Turkish company Kontrolmatik Technologies said its LFP gigafactory on home soil ‘…will begin production by the second quarter of 2023’.
+
+When asked if this meant a delay, considering previous statements by the subsidiary responsible for the projects that its first phase of capacity would ‘head to production by end of 2022‘ and ‘be fully operational by 2022 Q4‘, Kontrolmatik’s USA CEO Bahadir Yetki told Energy-Storage.news:
+
+“There are no delays in our factory construction in Turkey indeed as planned. Factory will be completed at the end of this year, but commercial production will start as of second quarter of 2023 following a quarter of commissioning, training, testing and certification.
+
+“Factory will be finished by the end of 2022 to start its production but commercial production will take another 3 months of pilot production, testing and certification. You can still accept end of 2022 as the completion of the construction and start of the production. We will only start “selling” by the 2Q 2023. If we can make all testing and certification ready before that we can always start commercial operations earlier.”
+
+Changing battery chemistry to get around lithium shortages
+
+One way to get around delays due to difficulties in securing the raw materials needed for production is to switch battery chemistry. Ferris and Dr Heimes both pointed to the switch to LFP amongst some projects although Dr Heimes said the majority are still planning for NMC ones, which have a higher energy density reflecting the market’s focus on EVs.
+
+But shortages in lithium carbonate may open up an opportunity for non-lithium batteries which can at least partially slot in to lithium battery production lines. The founder of potassium-ion battery startup Alex Girau recently pitched its technology as the one most well-placed to do this.
+
+Handful of gigafactory projects online this year
+
+Lithium-ion gigafactories reported to start production this year in Europe include CATL’s in Germany, a second facility in Hungary from SK Innovation, and two in Germany and France from from Automotive Cells Company, a new company backed by Saft, Stellantis and Mercedes.
+
+But with announcements generally only revealing the annual production capacity for latter stages of facilities’ ramp-up, it is unclear how much production capacity these will cumulatively add initially....
+Article 4: Debrecen is located at the heart of Europe, and with close proximity to some auto plants of its customers such as Mercedes-Benz, BMW, Stellantis and Volkswagen, CATL's Debrecen plant will enable it to better cope with the battery demands of the European market, improve its global production network development, and help accelerate e-mobility and energy transition in Europe.
+
+As part of its commitment to reducing the carbon footprint in battery manufacturing, CATL will use electricity from renewable energies, and is considering developing solar power with local partners in the country.
+
+To build a sustainable and circular battery value chain, CATL is also examining the possibility of joining forces with local partners to establish facilities for battery materials in Europe.
+
+"There is no doubt that our plant in Debrecen will enable us to further sharpen our competitive edge, better respond to our European customers, and accelerate the transition to e-mobility in Europe," said Dr. Robin Zeng, founder and Chairman of CATL. "The greenfield project in Hungary will be a giant leap in CATL's global expansion, and also an important step in our efforts to make an outstanding contribution to the green energy drive for humankind."
+
+Péter Szijjártó, Hungarian Minister of Foreign Affairs and Trade, said: "Both the global and the European economies have been faced with tremendous challenges recently. We in Hungary have a clear goal to be a local exception from the continental recession. The best tool to achieve this goal is to attract state-of-the-art investments in the most revolutionary branch of the automotive industry, namely electromobility. We are proud that CATL decided to execute the biggest ever greenfield investment in the history of Hungary. We have recently become one of the leading battery production sites of the world and with this huge investment we further strengthen our position."
+
+The new project was well received from CATL's European customers. Markus Schäfer, Member of the Board of Management of Mercedes-Benz Group AG, CTO responsible for development and procurement, said: "This new state-of-the art European CATL plant in Hungary is another milestone for the scale-up of our EV production together with our key partners. With CATL we have a technology-leader as our partner to provide us - as the first and biggest customer of the new plant's initial capacity - with top-notch CO2 neutral battery cells for our next generation EVs in Europe, hence following our local-to-local approach in procurement. We're proud to see our Ambition 2039 supported by CATL's commitment to CO2 neutral production in Hungary."
+
+SOURCE Contemporary Amperex Technology Co., Limited...
+Article 5: The world's largest electric vehicle battery manufacturer, Contemporary Amperex Technology Co. Limited (CATL), has received the second partial approval for the commissioning of a new cell plant in Thuringia, a state in the eastern part of Germany.
+
+CATL's first battery cell production facility outside of China will have an initial capacity of 8 GWh per year, with plans to increase it to 14 GWh over time.
+
+The Chinese battery maker broke ground on Germany's first battery cell factory in 2019 at the Erfurter Kreuz industrial area in Amt Wachsenburg, Thuringia. Construction of the plant is now in the final stage and the installation of machines is in full swing.
+
+The company expects the first cells to roll off the assembly lines by the end of 2022, when the plant will employ some 1,500 people. Eventually, the Chinese battery giant plants to achieve a production capacity of 14 GWh and create 2,000 jobs in Germany after a total investment of €1.8 billion ($2 billion).
+
+Thuringia Minister of Environment Energy and Nature Conservation Anja Siegesmund and CATL Europe President Matthias Zentgraf
+
+The site consists of two buildings: G1, an existing building purchased from another company and where cells are assembled to modules, and G2, a newly-built plant where cells will be produced. The approval on Monday was issued to permit cell production in the G2 building.
+
+CATL's German subsidiary operates as Contemporary Amperex Technology Thuringia GmbH (CATT).
+
+"CATT provides a fundamental impetus for the urgently needed energy transition, and we are glad to be the first company to receive approval to manufacture batteries 'Made in Germany.'" Matthias Zentgraf, CATL's President for Europe
+
+CATL says the plant is almost as complex as a chip factory, featuring clean rooms, technical cleanliness and constant humidity. The factory generates part of its power from the solar power panels on the rooftop of the building.
+
+The new battery cell manufacturing facility in Germany marks a significant milestone for CATL's global footprint expansion. It remains to be seen whether the Thuringia factory will supply Tesla's new Gigafactory Berlin-Brandenburg, located some 330 kilometers northeast.
+
+CATL is one of Tesla's main battery cell suppliers, especially in China where the battery packs of the Shanghai-made Model 3 and Model Y EVs mostly feature CATL's lithium iron phosphate (LFP) cells....
+Article 6: There are only five European countries, including Germany, where the majority of announced production capacity is not from European companies. While this makes Germany the country with the most announced production capacity from non-European companies (279 GWh), it also remains the country with the largest announced production capacity from European companies (151 GWh).
+
+In addition to Germany, Sweden (with the extensive announcements of Northvolt) and Italy (ACC, FAAM and Italvolt) each have over 100 GWh announced by European companies. Non-European cell manufacturers can be found besides Germany mainly in Hungary - with announcements of the Chinese companies CATL and EVE, as well as already existing cell productions of the Koreans Samsung SDI and SK On.
+
+Non-Europeans dominate in the short and medium term
+
+These are the announcements until 2030. At least in the medium term, however, the non-European cell manufacturers will still dominate the local cell production. Only after 2025 will the European cell manufacturers catch up with the non-European manufacturers.
+
+Whether and how these announcements will ultimately be translated into reality depends, of course, on many factors - will there be delays or will some projects fail completely? The fact that Asian companies can build large factories in a short time has already been demonstrated on many occasions - CALB in China, for example, is said to have recently built a 50 GWh factory in just over a year. Many Asian companies are already established cell manufacturers, so their plans could be given a higher probability of realization than those of European start-ups, especially when it comes to quickly ramping up production.
+
+For example, the British start-up Britishvolt ran into extensive financing difficulties, so that their expansion plans may be questioned. However, the Chinese players also have to adapt to the European framework conditions, which does not rule out delays in the development of production capacities. The Chinese manufacturer Farasis Energy found out that plans can also fail completely when the city of Bitterfeld-Wolfen (Saxony-Anhalt) canceled the construction of a factory, at least for the time being.
+
+These possible developments underline the importance of observing the build-up of production capacities that is now taking place. For achieving an economic sovereignty in the battery value chain, a successful implementation of the European plans is certainly desirable. In this way, existing market structures can be broken open to give the opportunity for establishing upstream value creation such as component and material production or machine and plant construction in the large emerging battery industry in Europe....
+Article 7: ...
+Article 8: Matthias Zentgraf, president of Europe for China’s CATL, is tasked with localising battery cell production in Europe and meeting new technology requirements. He speaks to AMS ahead of joining a panel on battery cell production at the AMS Automotive Evolution Europe Summit in Munich
+
+CATL, one of the world’s largest lithium-ion battery cell manufacturing and technology companies, is progressing towards its strategic goal of making electric vehicle batteries in Europe. In spring 2022, the Chinese technology company received approval to commission a new plant for battery cell production in Arnstadt, in the German state of Thuringia. The new factory follows the opening of a first plant to produce battery modules last year at the same location. Despite the challenges of the pandemic, rising energy costs and economic uncertainty, the battery producer is set to start production at the end of this year, according to CATL’s president for Europe, Matthias Zentgraf.
+
+The start of cell production will be a major milestone in localising battery manufacturing in Europe. The gigafactory will have an initial capacity of 8 gigawatt hours (GWh) per year, with capacity to expand to 14 GWh.
+
+This past summer, CATL also announced that it will invest €7.33m ($7.63m) to build a battery cell production plant in Debrecen, Hungary, with capacity to eventually reach 100 GWh. The plant will eventually be amongst the most important in Europe. It has already secured contracts from Mercedes-Benz and will be near production sites of Volkswagen, Stellantis and BMW. This latter is currently building a new factory in the same city to build electric vehicles on BMW’s forthcoming Neue Klasse EV platform. CATL will also supply cylindrical battery cells to BMW for the Neue Klasse, which will significantly cut production costs.
+
+These investments in battery cell production capacity and technology will be essential if Europe is to meet its targets for EV production and sales. They will also require other major developments in manufacturing in the automotive industry and in wider European policy and infrastructure, including the transition to renewable energy.
+
+Zentgraf, who is joining a panel on scaling European battery cell production at the first AMS Automotive Evolution summit this December in Munich, points to progress already in renewables and digitalisation in production. In an interview ahead of the event, he highlights key objectives for CATL as it ramps up output in Europe.
+
+Christopher Ludwig: Can you update us on the start of production in Arnstadt – including the status of the brownfield building for battery modules and the greenfield for cell production?
+
+Matthias Zentgraf: The construction of the greenfield plant, which is also the first battery plant in Germany, is in the final stage and the installation of machines is in full swing so that the first cells can roll off the assembly line by the end of 2022. In Q3 2021, CATT (Contemporary Amperax Technology Thuringia) started battery module production, and this April it received approval for battery cell production from the state of Thuringia.
+
+What have been your key challenges in launching serial battery cell production in 2022?
+
+We have faced a number of challenges over the past few years of ramp up including the COVID-19 pandemic, the energy crisis and a broader lack of skilled workers for this new industry.
+
+There are plans to increase production capacity from 8 to 14 GWh. When do you expect to reach that level?
+
+We will try every means to ramp up production to meet our target as scheduled, but the timeline will be dependent on multiple factors including government approval, the market and customer demand as well as our capacity to meet those demands.
+
+With the high cost of energy in Germany and across Europe, have you been able to accelerate the use of renewable energy, or will you also need to pursue other alternatives to natural gas in the short to medium term?
+
+CATL will ramp up the use of electricity from renewable energies in both plants in Arnstadt and in Debrecen. In fact, the German plant generates part of its power from the solar power panels on the rooftop of the building, and our Hungarian plant is considering developing solar power with local partners in the country.
+
+What have been key innovations or focus areas for digitalisation and Industry 4.0 for your Arnstadt plant?
+
+Globally CATL has established an extreme manufacturing system by adopting artificial intelligence, big data, cloud computing, digital twins and other technological means to increase manufacturing efficiency. The system is able to reduce the manufacturing defect rate of cells to almost at the level of PPB – that is, one manufacturing defect per one billion cells.
+
+Our efforts have been recognised by the World Economic Forum, as our Ningde plant and Yibin plant, both in China, have been selected as Lighthouse factories. So far there are only two Lighthouse factories in the battery industry, and both of them are CATL facilities.
+
+This extreme manufacturing system will be applied in each of our global production bases.
+
+The German plant generates part of its power from the solar power panels on the rooftop of the building, and our Hungarian plant is considering developing solar power with local partners in the country.
+
+-Matthias Zentgraf, CATL Europe
+
+Will you have a different production setup and capabilities in Debrecen, including for production and recycling?
+
+Our two factories in Europe are designed to better meet customer needs. CATL will use electricity from renewable energies in both plants. In 2021, CATL has reached agreement with European partners to work on battery recycling and remanufacturing to promote CATL’s localisation in Europe.
+
+Do you foresee challenges in meeting EU localisation requirements and battery passport requirements?
+
+There will be challenges but we will work closely with our customers and partners in Europe to meet those requirements....

@@ -3,12 +3,14 @@ import requests
 from newspaper import Article
 from requests.exceptions import RequestException
 from newspaper.article import ArticleException
-bing_api_key = "dd1943ebe53d44c7b0cad1ec3836d972"  # Replace with your actual API key
+import os
+bing_api_key = "dd1943ebe53d44c7b0cad1ec3836d972"  
+return_results_no = 10
 
 def get_bing_search_results(query, bing_api_key):
     """Perform a web search using Bing Search API."""
     headers = {"Ocp-Apim-Subscription-Key": bing_api_key}
-    params = {"q": query, "count": 4, "offset": 0, "mkt": "en-US"}
+    params = {"q": query, "count": return_results_no, "offset": 0, "mkt": "en-US"}
     response = requests.get("https://api.bing.microsoft.com/v7.0/search", headers=headers, params=params)
     return response.json()
 
@@ -22,12 +24,17 @@ def scrape_article(url):
         article = Article(url)
         article.download(input_html=response.text)
         article.parse()
-        article_text =article.text
 
-        # Example: Extract all paragraph texts from the article
-        #soup = BeautifulSoup(response.text, 'html.parser')
-        #article_text = ' '.join([p.get_text() for p in soup.find_all('p')])
-        return article_text
+        article ={
+            "title": str(article.title),
+            "published_date": str(article.publish_date),
+            "keywords": article.keywords,
+            "text": str(article.text),
+        }
+        return article
+    
+        # article_text = article.text
+        # return article_text
     
     except RequestException as req_e:
         error_message = f"Network-related error scraping {url}: {req_e}"
@@ -55,38 +62,22 @@ def main(bing_api_key):
 
     #Scrape articles
     articles = []
-    for result in search_results["webPages"]["value"][:4]:
+    for result in search_results["webPages"]["value"][:8]:
         url = result["url"]
         article_content = scrape_article(url)
         articles.append(article_content)
     return articles, user_input
 
-#Example usage
+# call function
 articles, user_input = main(bing_api_key)
 
-filename = f"{user_input}.txt"
+folder_path = 'article_scrape/output/company'
+filename = os.path.join(folder_path, f"{user_input}.txt")
+
 with open(filename, 'w', encoding='utf-8') as file:
-   for i, article in enumerate(articles, start=1):
-       file.write(f"Article {i}: {article}...\n")
+    for i, article in enumerate(articles, start=1):
+        file.write(f"Article {i}: {article}...\n")
 print(f"Results saved in file: {filename}")
 
-
-#     import os
-#     if not os.path.exists(user_input):
-#         os.mkdir(user_input)
-
-#     # Scrape and save articles individually
-#     for i, result in enumerate(search_results["webPages"]["value"][:4], start=1):
-#         url = result["url"]
-#         article_content = scrape_article(url)
-#         article_filename = f"{user_input}_{i}.txt"
-#         with open(os.path.join(user_input, article_filename), 'w', encoding='utf-8') as article_file:
-#             article_file.write(article_content)
-#         print(f"Article {i} saved in file: {article_filename}")
-
-#     print(f"Results saved in directory: {user_input}")
-
-# # Example usage
-# main(bing_api_key)
 
 
