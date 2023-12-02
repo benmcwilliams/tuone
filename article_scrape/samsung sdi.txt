@@ -1,0 +1,66 @@
+Article 1: Samsung SDI is considering building a new battery cell factory in Hungary, according to Korean media. The plant is to supply BMW exclusively with round cells for the New Class electric cars and is to be built near Samsung SDI’s existing two battery factories in Göd.
+
+BMW is currently building an electric car plant in Debrecen, Hungary, where series production for the first all-electric New Class vehicle will start in 2025, flanked by a battery assembly line. CATL and Eve Energy, as well as Envision AESC, have so far been confirmed as suppliers of the round cells for the New Class vehicles that will roll off the production lines in Europe, China and the USA. Samsung SDI already supplies battery cells to BMW, but has not yet been officially confirmed as a supplier for the new round cells. However, Samsung SDI is indeed developing such cells.
+
+According to Business Korea, Samsung SDI in Hungary is considering setting up a joint venture for batteries with BMW. However, it would come as a surprise if the trio of suppliers actually became a quartet. In September, the Munich-based carmaker had officially announced that it would have the round cells for the New Class explicitly produced by three partners in a total of six factories. Through the partnerships, BMW wants to buy the battery cells where the production takes place (“local for local”).
+
+In the USA, Envision AESC in South Carolina is to pull the strings. Eve Energy is currently expanding its production capacities in China, for example in Chengdu, Yuxi and Jingmen, so that a China focus is emerging with Eve. In August 2022, CATL announced the construction of a 100 GWh battery cell factory in Debrecen, Hungary, for European car manufacturers, and it stands to reason that, in addition to the confirmed major customer Mercedes-Benz, BMW will also be supplied from the factory. Eve Energy has also been linked to Debrecen – according to reports from the end of March 2022, Eve Energy signed a non-binding letter of intent with the local municipality to acquire 45 hectares in an industrial area in order to build a plant for the production of cylindrical cells there. Since then, however, nothing more has been heard of it.
+
+In recent months there have been growing indications that BMW might change its battery strategy and switch to round cells. In November, the manufacturer clarified the situation: As previously leaked, the new round cells for the New Class will have a uniform diameter of 46 millimetres and different heights (format: 46XX). There will be two different heights (although BMW does not give any concrete millimetre specifications) and the module level will be omitted during installation. The round cells are “flexibly integrated into the installation space in a space-saving manner”. The storage system will play a supporting role in the body structure. In technical jargon, this battery concept is called “pack-to-open-body”. Samsung SDI is already developing such battery cells.
+
+In the current generation of electric vehicles, the Munich company still relies on prismatic cells from suppliers such as CATL and Samsung SDI – for example in the i4, iX and i7. According to the manufacturer, the new round cells will “increase the energy density by more than 20 per cent, increase the charging speed by up to 30 per cent and improve the range by up to 30 per cent”.
+
+businesskorea.co.kr, english.chosun.com...
+Article 2: The Korean battery cell manufacturer Samsung SDI has announced that it will invest the equivalent of around 740 million euros in the expansion of its battery factory in Göd, Hungary, near Budapest.
+
+The factory, from which Samsung SDI supplies cells for BMW and Volkswagen, among others, currently has an annual capacity of 30 GWh and is expected to be able to produce over 40 GWh in the future. Samsung SDI had completed the construction of the factory in 2017. It is not clear from the South Korean media reports when the expansion is to be completed.
+
+With the investment of around one trillion won, which is equivalent to a little more than 900 million US dollars or the aforementioned 740 million euros, the Korean company apparently hopes to expand its position in the electric car market in Europe. The investment is to be partly financed by a capital increase of the Hungarian subsidiary Samsung SDI Hungary Zrt, but also by loans.
+
+In South Korea, an unnamed representative of Samsung SDI told the Reuters news agency that the manufacturer was also considering building a second plant in Hungary. However, a decision or even a timetable for the construction of such a factory had not yet been made. In addition to Hungary, Samsung SDI has plants in South Korea and China. Worldwide, Samsung SDI ranks fifth among battery cell manufacturers.
+
+pulsenews.co.kr, koreaherald.com, reuters.com...
+Article 3: Annual production capacity expanded to 60GWh
+
+High value-added PRiMX products at the forefront
+
+Responding to rising global demand for finished vehicles
+
+Samsung SDI plans to invest 2 trillion won in Europe to expand its electric vehicle battery production. It will expand its existing Hungarian EV battery plant and increase the production capacity. By doing so, it is expected to secure a battery production capacity for 1 million EV installations per year.
+
+
+
+Samsung SDI's board of directors finally confirmed its plan to invest 2 trillion won in expanding Hungary's EV battery production capacity. According to industry insiders, in addition to expanding the Hungary plant, it will expand the production capacity to 60GWh per year by the second half of next year. 60GWh is the production amount that will enable it to install large-capacity batteries to more than 1 million EV. Production could increase by 70-80% compared to the current production capacity of the Hungarian plant.
+
+
+
+Samsung SDI will make further large-scale overseas investments based on future market conditions. Last year alone, the total investment in batteries in all fields including EV, information technology (IT), and energy storage system (ESS), was around 2 trillion won. The 2 trillion won it will spend on EV batteries in Europe is a single scale investment that is estimated to be the largest ever. Although Samsung SDI did not disclose specific investment items, estimates show that investments in EV batteries over the past two years was close to 3 trillion won, excluding mobile and ESS fields which have already been executed.
+
+Samsung SDI's investment in Europe is in response to the demand for EV batteries from the global automobile industry. Demand for EV batteries has surged mainly in Europe, where many automakers are located. Global automakers are also starting to manufacture their own batteries due to the battery supply shortage. It is believed that large-scale investments were made in response to the supply shortage that was so severe that it was difficult to electrify automobiles due to the shortage of batteries.
+
+
+
+This investment is seen as a change from Samsung SDI's strategy, which has prioritized profitability-oriented growth. Samsung SDI managed to achieve record-high profits in the second quarter of this year, surpassing 400 billion won in operating profit. The company expanded its EV battery business centered on 'PRiMX', an independent brand of high value-added EV batteries. The operating profit margin was 6% in the first half of this year, the highest in the domestic battery industry.
+
+Samsung SDI has taken on the challenge of sustainable growth through large-scale investments. The growing number of orders for EV batteries from Samsung SDI is another positive effect. PRiMX will be installed in new premium EV such as Volkswagen, BMW, Audi, Stellantis and Volvo. It is expected to expand its high value-added PRiMX products around the new EV brands of these companies.
+
+
+
+An official at Samsung SDI said, "We cannot offer specific details related to investments to outside.
+
+
+
+By staff reporter Ji-woong Kim (jw0316@etnews.com)...
+Article 4: Samsung seemingly has big plans for the electric vehicle market, and it should, given the looming 2035 ban on gas-powered cars. The Korean tech giant has become one of the major battery suppliers for the EV market, and the company plans to invest even more in the segment.
+
+Samsung SDI reportedly plans to make a 2 trillion won ($1.48 billion) investment to expand its electric vehicle battery plant located in Hungary. The plan was reportedly confirmed by SDI's board of directors (via Korea IT News).
+
+The company aims to increase its EV battery production capacity to 1 million units, or 60GWh per year. Compared to what Samsung's battery plant in Hungary churns out now, the company may be looking at a 70-80% increase in production capacity.
+
+Samsung's largest single-scale investment in EV batteries
+
+Assuming that Samsung SDI goes on with its plan, market watchers say this will be the largest single-scale investment in EV batteries for the European continent.
+
+However, estimates suggest that, over the past two years, Samsung spend nearly 3 trillion won ($2.23) on its EV battery manufacturing infrastructure.
+
+Outside of Europe, Samsung is building a new EV battery mass-manufacturing plant in Malaysia to supply car companies like BMW. Furthermore, Samsung SDI recently established its first EV battery R&D center in the United States. The company said it wants to keep set up more R&D centers in various regions, “starting with the ones in the US and Europe.”...

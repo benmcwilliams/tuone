@@ -1,0 +1,72 @@
+Article 1: A new Tesla Megapack project has become Europe’s biggest battery system capable of backing up power to around 300,000 UK homes for two hours.
+
+Megapack has quickly emerged as the leading battery system for large utility-scale energy storage systems.
+
+It helped Tesla’s energy division accelerate storage deployment, and the company has now built an impressive backlog of orders.
+
+But Tesla is now working faster than ever through its backlog with 42 Megapacks per week produced at Gigafactory Nevada, in addition to the new Megafactory in California recently coming online and trying to ramp up to an ambitious capacity of 40 GWh of Megapacks per year.
+
+The new output is resulting in more projects coming online like this 196 MWh battery system, the Pillswood Project, near Hull in the UK.
+
+Harmony Energy Limited, the project developer, announced that they completed the installation of the Tesla Megapacks and brought the project online – becoming what they believe to be the largest battery system in Europe:
+
+The project will provide critical balancing services to the GB electricity grid network whilst also enabling the replacement of fossil fuels with renewable energy.
+
+Tesla has been deeply involved in the project and managed the installation.
+
+Harmony also confirmed that the project will be operated with Tesla’s Autobidder software:
+
+The project will be operated through Autobidder, Tesla’s algorithmic trading platform, which has demonstrated a strong track record over the past two years in managing the Holes Bay and Contego projects – two existing battery storage projects also developed by Harmony Energy Limited in conjunction with FRV.
+
+In 2020, Electrek spotted a previously unknown new product from Tesla: Autobidder.
+
+It’s a real-time trading and control platform for energy assets like Tesla’s Powerpacks, Powerwalls, and Megapacks, optimized through machine learning to better use and more directly monetize the assets.
+
+As of last year, Tesla Autobidder had over 1.2 GWh of energy storage under management, and it has been adding capacity fast.
+
+Tesla Energy, the company’s energy division deploying stationary energy storage and solar power, is having record quarters one after the other.
+
+Last quarter, Tesla deployed a record high of 2.1 GWh in battery capacity – mostly driven by Megapack growth. The record is expected to be broken again shortly thanks to the new capacity at the Megafactory....
+Article 2: Sign up for daily news updates from CleanTechnica on email. Or follow us on Google News
+
+Originally posted on EVANNEX.
+
+by Charles Morris
+
+You can’t build EVs without batteries, as Elon Musk acknowledged years ago when he announced plans to build the first of Tesla’s Gigafactories (and coined a new word). Musk and others have estimated that the world will need several dozen battery gigafactories once EVs begin to be produced in serious volume.
+
+It’s not just a question of volume—geography and politics also come into play. At the moment, most of the world’s EV battery production is in Asia—an untenable situation for governments in North America and Europe that want to promote EV adoption and create green jobs. And of course, it makes environmental sense to produce batteries as near as possible to where the vehicles will be produced and sold.
+
+So, the world will be getting a lot more gigafactories (and the word will be losing its capitalization). The scene is really heating up in Europe, where government and industry have mounted a major push to produce batteries domestically. According to a new report from the non-profit Transport & Environment (via The Next Web), as of May 2021, there were 38 battery gigafactories being built or planned in Europe and the UK.
+
+EV sales are poised for grand global growth, and as T&E reports, Europe’s strong domestic EV market, a pre-existing industrial base and high environmental standards put the Continent in the catbird seat to capture a healthy slice of the market.
+
+A look at some of the battery gigafactories in the works all across Germany (YouTube: Germany Trade & Invest)
+
+“Battery investments are booming thanks largely to the rapidly growing electric vehicle sales seen across Europe in 2020/21, closely mirroring regulatory requirements, notably the EU car CO2 standards,” says T&E. In 2020 T&E predicted Volkswagen would sell 9.6% EVs in order to hit its CO2 goals. The final sales share was 9.7%.
+
+Of the 38 projects in the pipeline, 17 have secured funding so far, representing approximately $30 billion of total investment. Ten other projects, representing another $16.8 billion, have secured partial financing, and 11 more gigafactories have recently been announced, but have not confirmed financing.
+
+Several national-flagged projects are underway—companies planning plants under public/private partnerships include Verkor in France, Britishvolt in the UK, Italvolt in Italy, Basquevolt-Nabatt in Spain, and Freyr in Norway. Not only European companies have benefitted from the largesse — Tesla’s Berlin Gigafactory received some $1.4 billion in German federal and state support.
+
+If all 38 gigafactories make it to production, they could be delivering as much as 462 GWh worth of battery cells by 2025, and 1,144 GWh by 2030, enough to power over 90% of expected new vehicle sales in that year. According to Transport & Environment’s analysis, this would give Europe a 20% market share of global cell production by 2025, making it second only to China.
+
+Have a tip for CleanTechnica? Want to advertise? Want to suggest a guest for our CleanTech Talk podcast? CleanTechnica Holiday Wish Book Have a tip for CleanTechnica? Want to advertise? Want to suggest a guest for our CleanTech Talk podcast? Contact us here Click to download. Our Latest EVObsession Video I don't like paywalls. You don't like paywalls. Who likes paywalls? Here at CleanTechnica, we implemented a limited paywall for a while, but it always felt wrong — and it was always tough to decide what we should put behind there. In theory, your most exclusive and best content goes behind a paywall. But then fewer people read it!! So, we've decided to completely nix paywalls here at CleanTechnica. But... Like other media companies, we need reader support! If you support us, please chip in a bit monthly to help our team write, edit, and publish 15 cleantech stories a day! Thank you! Advertisement CleanTechnica uses affiliate links. See our policy here...
+Article 3: By
+
+Tesla won public funding from one of the EU Commission’s Important Project of Common European Interest (IPCEI) programs. The funding will likely support Tesla’s plans for a massive battery cell factory near Giga Berlin in Grünheide.
+
+In January, the Commission approved €2.9 billion worth of funds dedicated to a project called “European Battery Innovation,” which focuses on the research and innovation of the local battery value chain. The EU’s battery value chain concentrates on four categories, all of which Tesla falls under. The exact sum Tesla will receive in public funding has not been divulged by the Commission, though local government sources have noted that the funding will be in the “single-digit billions.”
+
+“The state aid framework for [IPCEIs] is based in principle on expenditure for research activities,” explained a spokesperson from the Ministry of Economic Affairs to Business Insider. “Investments in scaling are only recognized under state aid law insofar as the scaling is a result of research and development activities and itself includes an important research and development component. A general formula or similar for calculating the Funding does not therefore exist.”
+
+With the European Battery Innovation project, the Commission seems hopeful that the EU will hold a strong position in the growing global battery industry, alongside China and the United States. Supporting Tesla might be a good step toward the EU Commission’s goals given the company’s extensive background, research, and developments in battery technology.
+
+Tesla plans to build an advanced battery production plant to produce its 4680 battery cells near Gigafactory Berlin, which would then be used in vehicles like the Made-in-Germany Model Y. The EV automaker already received pre-approval for the battery cell factory for its Germany-based plant.
+
+Do you have tips to share with the Teslarati Team about Tesla’s 4680 cells or battery production line? We’d love to hear from you, email us at tips@teslarati.com or reach out to me at maria@teslarati.com.
+
+State Aid Commission Approves 2.9 Billion Public Support by Twelve Member States for a Second Pan-European… by Maria Merano on Scribd
+
+Tesla granted billions in EU public funding to develop battery cell technology in Germany...
+Article 4: "Saying that their whole supply chain has components that are green and sustainably manufactured is a very good message to go out to consumers with," says Ms Fitzpatrick, "as opposed to using components that are flown in and have a high carbon footprint because they are transported from all over the world and are produced with very coal-intensive methods"....

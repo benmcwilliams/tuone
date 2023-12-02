@@ -1,0 +1,112 @@
+Article 1: Why did this happen?
+
+Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy....
+Article 2: Battery manufacturing behemoth, CATL, shared news that its upcoming plant in Thuringia, Germany has received 2nd partial approval for cell production. This milestone brings the Chinese company one step closer to opening its first battery manufacturing facility outside of China later this year.
+
+Contemporary Amperex Technology Co Ltd., better known as CATL, is a global energy technology company and the leading EV battery manufacturer in China. It’s expansive presence in the battery world has helped solidify its reign as the world’s largest by installed battery capacity for a fifth-straight year.
+
+The company has made recent efforts to integrate more sustainability into the battery manufacturing process, announcing a new $5 billion recycling facility as well as a zero-carbon plant in China. Despite these new facilities to support its goal of global carbon neutrality, CATL has yet to expand outside its home in China… at least for now.
+
+In 2019, CATL broke ground on a new battery manufacturing plant in Thuringia, Germany which will be known as Contemporary Amperex Technology Thuringia GmbH (CATT). The plant is on schedule to begin battery cell production before year’s end, and should create up to 1,500 jobs in the German state.
+
+However, there is still some red tape and some dotted lines to sign before CATL can start making batteries in Germany. But with today’s news, the company is ever-closer.
+
+Thuringia’s Minister of Environment, Energy and Nature Conservation, Anja Siegesmund, handing permit to Matthias Zentgraf, CATL’s President for Europe / Source: CATL
+
+CATL approved for battery cell production in Germany
+
+The battery manufacturer announced this latest announcement in a press release out of Germany today, marking progress of its European expansion despite the woes of the pandemic. Matthias Zentgraf, CATL’s President for Europe, spoke to the 2nd partial approval in Germany:
+
+CATT provides a fundamental impetus for the urgently needed energy transition, and we are glad to be the first company to receive approval to manufacture batteries ‘Made in Germany.’
+
+In addition to being CATL’s first battery manufacturing plant outside of China, CATT will also be the first to arrive in Germany. German Ministers like Wolfgang Tiefensee hope this initial footprint can lead to further expansions in the state and more battery manufacturers calling Germany home:
+
+For Thuringia, CATT is one of the most important industrial investments in recent decades. At the same time, the project could be the initial spark for the emergence of a ‘Battery Valley Thuringia,’ as the first batch of CATL’s supplier companies have settled around the area.
+
+The initial CATT footprint will consist of two buildings – G1, an existing building CATL purchased from another company where battery cells are assembled into modules, and G2 – a new plant built by CATT where the cells will be produced. The latest approval from the press release pertains to a successful permit issued for the cell production of G2.
+
+To further promote sustainability, the CATT plant will generate a portion of its power from solar panels on its roof. CATL shared that it will invest a total of 1.8 billion euro (~$1.96 billion) in the German plant, with a goal to eventually achieve 14 GWh of annual battery capacity and provide over 2,000 jobs.
+
+CATL’s battery cell production in Germany is expected to begin before the end of 2022....
+Article 3: Projects are being launched by newcomers like FREYR and Northvolt, automotive OEMs like Tesla and VW, and established cell producers from East Asia like BYD, LG Chem and CATL. Most planned capacity is set to go to the EV market rather than stationary energy storage, but a bottleneck in the supply of the former has knock-on effects on the latter.
+
+CATL this week announced a second battery gigafactory project in Hungary, after its first in Germany which it told Energy-Storage.news was ‘going smoothly as planned’ and is set to start battery cell production by the end of 2022 as scheduled.
+
+However, many projects will not open on time according to analysts looking at the market.
+
+A snapshot of Europe’s gigafactory projects, taken from Dr Heiner Heimes’ ‘Battery Atlas’ of the European sector. Image: Battery-News.De.
+
+Long lead times
+
+Dr Heiner Heimes, an academic specialising in battery production at RWTH Aachen University in Germany, and co-author of Battery-News.De‘s reports on the topic, told Energy-Storage.news that long lead times for equipment are proving a major challenge.
+
+“Nearly all of the projects have some delay, though not all talk about it. But if you look at the current delivery times it’s clear we’ll see delays because it’s very hard right now to get the different components for the production equipment,” he said.
+
+“But, these delays won’t be critical. A delay of three or six months won’t lead to investors saying ‘we have to stop everything’. And the good thing is, we haven’t seen one project that’s been cancelled entirely.”
+
+Another analyst, research firm Delta-EE’s head of flexibility and storage Jon Ferris, did suggest that some gigafactories might not open at all. He cited a shortage of lithium carbonate as the main bottleneck affecting plans, and that some of the earliest projects have switched to producing lithium iron phosphate (LFP) batteries due to shortages in nickel, manganese and cobalt (NMC).
+
+Delta-EE’s data shows that roughly a quarter of the c.40 major gigafactory projects, outlined in Battery-News.De‘s map, have been delayed. But many have also increased their nameplate capacity plans so overall the picture is still one of growth rather than volumes being pushed back.
+
+First pulled gigafactory project?
+
+One project which has has been widely reported as substantially delayed or even pulled entirely is that of Chinese company Farasis Energy, partner to automotive group Daimler, in Bitterfeld-Wolfen, Germany. An initial production start date of 2022 was reportedly pushed to 2024 and there are now doubts it may happen at all.
+
+Outlet Mitteldeutsche Zeitung reported in May that the urban development contract between Farasis and the local council for the project had been terminated, citing official statements by both parties. But, as Dr Heimes alluded to, plans for a gigafactory project in Europe have not been officially cancelled by the company.
+
+FREYR Battery
+
+One of those to have both pushed back its initial planned start date for commercial production but doubled annual production capacity targets is Norway-based gigafactory company FREYR Battery. Company presentations as recent as February 2022 expected the start-up of production lines in its first gigafactory in late 2023 while the company is now targeting the start of production in the first half of 2024.
+
+However, CEO Tom Jensen told Energy-Storage.news in a recent interview that this change in timeline was due to the company’s capital raise through going public last year happening 4-5 months later than planned, along with the process to combine and optimise its first two gigafactories into one.
+
+“Given Covid, given everything, we like to say that we’re reasonably in line with what we’ve said previously. Of course, there is a month here and there because of things like the China shutdown and so on, but we’ve been able to mitigate the worst of that. In that way we can get up to the nameplate capacity a steady run rate of volume more or less in line with what we’ve been saying before,” he said.
+
+“But it’s been a very difficult environment in which to do that. So when we’re saying that we’re reasonably on track, of course, it’s not one-to-one but it’s roughly there.”
+
+Discussing how the company has been able to double capacity targets, he explained: “We see that we can upscale production with the 24M platform, that we have a replicable industrialisation blueprint which can be exported to other jurisdictions, and of course we see that both the incentives and demand in the market are booming.”
+
+Kontrolmatik
+
+In the same press release announcing an expansion of its planned US facility, Turkish company Kontrolmatik Technologies said its LFP gigafactory on home soil ‘…will begin production by the second quarter of 2023’.
+
+When asked if this meant a delay, considering previous statements by the subsidiary responsible for the projects that its first phase of capacity would ‘head to production by end of 2022‘ and ‘be fully operational by 2022 Q4‘, Kontrolmatik’s USA CEO Bahadir Yetki told Energy-Storage.news:
+
+“There are no delays in our factory construction in Turkey indeed as planned. Factory will be completed at the end of this year, but commercial production will start as of second quarter of 2023 following a quarter of commissioning, training, testing and certification.
+
+“Factory will be finished by the end of 2022 to start its production but commercial production will take another 3 months of pilot production, testing and certification. You can still accept end of 2022 as the completion of the construction and start of the production. We will only start “selling” by the 2Q 2023. If we can make all testing and certification ready before that we can always start commercial operations earlier.”
+
+Changing battery chemistry to get around lithium shortages
+
+One way to get around delays due to difficulties in securing the raw materials needed for production is to switch battery chemistry. Ferris and Dr Heimes both pointed to the switch to LFP amongst some projects although Dr Heimes said the majority are still planning for NMC ones, which have a higher energy density reflecting the market’s focus on EVs.
+
+But shortages in lithium carbonate may open up an opportunity for non-lithium batteries which can at least partially slot in to lithium battery production lines. The founder of potassium-ion battery startup Alex Girau recently pitched its technology as the one most well-placed to do this.
+
+Handful of gigafactory projects online this year
+
+Lithium-ion gigafactories reported to start production this year in Europe include CATL’s in Germany, a second facility in Hungary from SK Innovation, and two in Germany and France from from Automotive Cells Company, a new company backed by Saft, Stellantis and Mercedes.
+
+But with announcements generally only revealing the annual production capacity for latter stages of facilities’ ramp-up, it is unclear how much production capacity these will cumulatively add initially....
+Article 4: Contemporary Amperex Technology Co., Limited (CATL) officially announced today a massive new battery plant investment in Europe.
+
+The Chinese manufacturer intends to invest €7.34 billion ($7.5 billion) to build a 100 GWh EV battery plant in Debrecen, Hungary. Once approved at the shareholder meeting, construction of the first production facilities will start before the end of this year.
+
+That would be CATL's second battery plant in Europe, as the first one (much smaller) is expected to start production this year in Erfurt, Germany (8 GWh annually initially and 14 GWh annually in the future). This project was started in 2019.
+
+According to CATL, the factory in Hungary will produce cells and modules (undisclosed chemistry) for European automakers. The location is in relatively close proximity to some plants of CATL's customers, including Mercedes-Benz, BMW, Stellantis and Volkswagen. Mercedes-Benz specifically said that it is the first and the biggest customer of the new plant’s initial capacity.
+
+The company explains that the new 100 GWh plant will "enable it to better cope with the battery demands of the European market, improve its global production network development, and help accelerate e-mobility and energy transition in Europe."
+
+The factory will be powered by renewable electricity sources. The Chinese investment (the largest ever in the region) is expected to create up to 9,000 jobs.
+
+According to the press release, there is also a potential to "establish facilities for battery materials in Europe", which means that we might see more CATL investments.
+
+Dr. Robin Zeng, founder and Chairman of CATL said:
+
+“There is no doubt that our plant in Debrecen will enable us to further sharpen our competitive edge, better respond to our European customers, and accelerate the transition to e-mobility in Europe. The greenfield project in Hungary will be a giant leap in CATL’s global expansion, and also an important step in our efforts to make an outstanding contribution to the green energy drive for humankind.”
+
+Péter Szijjártó, Hungarian Minister of Foreign Affairs and Trade, said:
+
+“Both the global and the European economies have been faced with tremendous challenges recently. We in Hungary have a clear goal to be a local exception from the continental recession. The best tool to achieve this goal is to attract state-of-the-art investments in the most revolutionary branch of the automotive industry, namely electromobility. We are proud that CATL decided to execute the biggest ever greenfield investment in the history of Hungary. We have recently become one of the leading battery production sites of the world and with this huge investment we further strengthen our position.”
+
+CATL battery plant in Hungary:...
