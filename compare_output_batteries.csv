@@ -1,0 +1,42 @@
+﻿Company,Plant,Country,Planned Capacity,Status,Date online,Note
+Volkswagen,Valencia,Spain,40,Under construction,2026,"Construction underway, expected production of 40 GWh by 2026. Worked backwards from this. "
+Volkswagen,Salzgitter,Germany,40,Under construction,2025,Construction began in July 22. Set to begin operations in 2025
+Verkor,Dunkirk,France,16,Under construction,2025,Construction already began
+Verkor,Dunkirk expansion,France,34,Announcement,,Possible expansion
+Tesla,Berlin,Germany,75,Announcement,,"Berlin factory producing Evs but not significantly batteries for now, application to build 50GWh - 100 GWh battery capacity and 1mil EVS (probably around 60-70 GWh)"
+SVOLT,Brandenburg,Germany,16,Under construction,2025,Planning to start production early 2025
+SVOLT,Saarland,Germany,24,Announcement,,"Details of a plan for 24 GWh online, but nothing concrete"
+SK On,Komarom 1,Hungary,7.5,Operational,2019,Already operational
+SK On,Komarom 2,Hungary,9.8,Operational,2022,Was set to come into operation end of 2022
+SK On,Ivancsa,Hungary,30,Announcement,2028,"State aid granted, SK On expect to be operational by 2028"
+Samsung SDI,God,Hungary,30,Announcement,2019,Vague plans to expand but difficult to understand clearly
+QuantumScape,Saltzgitter,Germany,20,Announcement,,"1 GWh facility planned, with plans to expand to 20 GWh at same site"
+ProLogium,Dunkirk,France,48,Announcement,2026,"1.5 bn grant from French government, construction to begin 2024, production 2026"
+Phi4Tech,Badajoz,Spain,10,Announcement,2023,Planned to grow modularly by 2GWh
+Phi4Tech,Badajoz expansion,,10,Announcement,,Mentions option to add an extra 10 GW depending on conditions
+Northvolt,Skelleftea,Sweden,40,Operational,2023,"Shipments began in 2022, I assume capacity from 2023 and growth to the initial 40 GWh"
+Northvolt,Heide (Three),Germany,60,Under construction,2025,Has received support from Germany under second IPCEI; construction to begin 2023; operation in 2025
+Northvolt,Gothenburg,Sweden,50,Under construction,2025,"With Volvo. Construction to begin 2023, be operational by 2025. "
+Northvolt,Skelleftea expansion,Sweden,20,Announcement,na,"EU funding suggests capacity will grow to 40 GWh, T&E cite growth to 60 GWh which is less clear. "
+Morrow Batteries,Arendal,Norway,43,Announcement,2024,"Funding secured to start project (100m), plans to scale to 43 GWh; slightly tentative"
+LG Energy,Wroclaw,Poland,115,Operational,2022,"Already online, expansion to 115 GWh planned"
+Italvolt,Scaramongo,Italy,45,Announcement,2025,"Seemingly no news since a MoU signed in 2022, so this is uncertain (may drop to start date not clear)"
+Inobat,Production facility,Slovakia,10,Announcement,,"Pilot plant built, plans to scale to 10 GWh do not yet appear concrete"
+Inobat,Valladoid,Spain,,Announcement,,"MoU signed in Spain, excluded because Inobat still considering other locations"
+Freyr,Mo i Rana; Giga Artic,Norway,29,Under construction,2024,Construction has begun; operation planned for start 2024
+Freyr,Mo i Rana; Giga Artic expansion,Norway,14,Announcement,na,Transport & Environment see 43 GWh total capacity
+Freyr,Vassa,Finland,40,Announcement,na,"T&E see 40GWh, but very little announcements from Freyr side. "
+Eve Energy,Debrecen,Hungary,26,Announcement,2026,"Plans confirmed, expected to be operational in 2026"
+Envision AESC,Douia (Renault site),France,29,Announcement,2026,"Construction is set to begin in 2024, aim is for 3x9 GWh plants and one 4.5 GWh plant by 2029. This one is tentative."
+Envision AESC,Navalmoral de la Mata,Spain,50,Announcement,2025,Online by 2025
+CATL,Thuringia/Erfurt,Germany,14,Operational,2022,"Production began in 2021 Q3, granted production permit from German government for 8 GWh in 2022. Plans to expand to 14 GWh. "
+CATL,Debrecen,Hungary,100,Under construction,2025,"First unit is planned to come online in May25, a second two units should accompany this scaling to 100 GWh by 2030. CATL has announced 7bn EUR funding."
+CATL,Thuringia/Erfurt Expansion,Germany,10,Announcement,na,CATL speaks of potentially expanding to 24 GWh but not clear plans. Even higher estimates of up to 100 GWh are quoted in press. 
+CALB,Sines,Portugal,45,Announcement,,"MoU signed with CALB, aiming to launch 15 GWh production by 2025 growing to 45 GWh by 2028, but not yet clear"
+Beyonder,Haugaland,Norway,10,Under construction,2024,Expected to be fully operational by 2024
+BasqueVolt,Vitoria-Gasteiz,Spain,10,Announcement,2025,"Production at first 1GWh plant in 2025, scaling to 10 GWh by 2028 is the plan. A bit tentative. "
+ACC,Termoli,Italy,40,Announcement,2026,"Existing ICE plant, conversion expected to start in 2024. Production in 2026. "
+ACC,Douvrin,France,13,Under construction,2023,"Under construction, to begin production by end 2023"
+ACC,Kaiserslautern,Germany,13,Announcement,2025,Factory expected to begin production in 2025
+ACC,Douvrin expansion,France,27,Announcement,,"Planned expansion of an additional two units at Douvrin, not specified when yet"
+ACC,Kaiserslautern expansion,Germany,27,Announcement,,"Aiming to add two units to bring capacity to 40 GWh by 2030, but no clear announcement"
