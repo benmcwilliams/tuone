@@ -57,7 +57,7 @@ def scrape_article(url):
 def main(bing_api_key):
 
     # Create a search query
-    query = company + "solar manufacturing projects europe"
+    query = company + "battery manufacturing projects europe"
 
     # Get search results from Bing
     search_results = get_bing_search_results(query, bing_api_key)

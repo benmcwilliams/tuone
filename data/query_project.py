@@ -7,6 +7,8 @@ import os
 bing_api_key = "dd1943ebe53d44c7b0cad1ec3836d972"  
 return_results_no = 5
 
+projects = ["Tesla Berlin","Verkor Dunkirk","SVOLT Brandenburg"]
+
 def get_bing_search_results(query, bing_api_key):
     """Perform a web search using Bing Search API."""
     headers = {"Ocp-Apim-Subscription-Key": bing_api_key}
@@ -48,8 +50,8 @@ def scrape_article(url):
 def main(bing_api_key):
 
     # Create a search query
-    user_input = input("Enter the project you wish to search for: ")
-    query = user_input + "battery manufacturing project latest"
+    #user_input = input("Enter the project you wish to search for: ")
+    query = project + "battery manufacturing project latest"
 
     # Get search results from Bing
     search_results = get_bing_search_results(query, bing_api_key)
@@ -60,18 +62,20 @@ def main(bing_api_key):
         url = result["url"]
         article_content = scrape_article(url)
         articles.append(article_content)
-    return articles, user_input
+    return articles
 
 # call function
-articles, user_input = main(bing_api_key)
+for project in projects:
 
-folder_path = 'data/output/project'
-filename = os.path.join(folder_path, f"{user_input}.txt")
+    articles = main(bing_api_key)
 
-with open(filename, 'w', encoding='utf-8') as file:
-    for i, article in enumerate(articles, start=1):
-        file.write(f"Article {i}: {article}...\n")
-print(f"Results saved in file: {filename}")
+    folder_path = 'data/output/project'
+    filename = os.path.join(folder_path, f"{project}.txt")
+
+    with open(filename, 'w', encoding='utf-8') as file:
+        for i, article in enumerate(articles, start=1):
+            file.write(f"Article {i}: {article}...\n")
+    print(f"Results saved in file: {filename}")
 
 
 
