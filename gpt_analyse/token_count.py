@@ -1,12 +1,12 @@
 import tiktoken
-company = 'catl'
+company = 'SVOLT'
 
 # read in text file
 def read_file(file_path):
     with open(file_path, 'r') as file:
         return file.read()
 
-file_contents = read_file('/Users/ben/Documents/bruegel/DATAn/WORKING/TUONE/tuone/article_scrape/output/company/{}.txt'.format(company))
+file_contents = read_file('/Users/ben/Documents/bruegel/DATAn/WORKING/TUONE/tuone/data/output/company/{}.txt'.format(company))
 
 # count tokens 
 encoding = tiktoken.encoding_for_model("gpt-3.5-turbo")

@@ -1,11 +1,11 @@
 import requests
-#from bs4 import BeautifulSoup
 from newspaper import Article
 from requests.exceptions import RequestException
 from newspaper.article import ArticleException
 import os
+
 bing_api_key = "dd1943ebe53d44c7b0cad1ec3836d972"  
-return_results_no = 10
+return_results_no = 5
 
 def get_bing_search_results(query, bing_api_key):
     """Perform a web search using Bing Search API."""
@@ -33,9 +33,6 @@ def scrape_article(url):
         }
         return article
     
-        # article_text = article.text
-        # return article_text
-    
     except RequestException as req_e:
         error_message = f"Network-related error scraping {url}: {req_e}"
 
@@ -48,21 +45,18 @@ def scrape_article(url):
     print(error_message)
     return(error_message)
 
-    #except Exception as e:
-    #    return f"Error scraping {url}: {e}"
-
 def main(bing_api_key):
 
     # Create a search query
-    user_input = input("Enter the company you wish to search for: ")
-    query = user_input + "battery manufacturing projects europe"
+    user_input = input("Enter the project you wish to search for: ")
+    query = user_input + "battery manufacturing project latest"
 
     # Get search results from Bing
     search_results = get_bing_search_results(query, bing_api_key)
 
     #Scrape articles
     articles = []
-    for result in search_results["webPages"]["value"][:8]:
+    for result in search_results["webPages"]["value"][:6]:
         url = result["url"]
         article_content = scrape_article(url)
         articles.append(article_content)
@@ -71,7 +65,7 @@ def main(bing_api_key):
 # call function
 articles, user_input = main(bing_api_key)
 
-folder_path = 'article_scrape/output/company'
+folder_path = 'data/output/project'
 filename = os.path.join(folder_path, f"{user_input}.txt")
 
 with open(filename, 'w', encoding='utf-8') as file:

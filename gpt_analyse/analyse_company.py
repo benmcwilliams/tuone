@@ -5,7 +5,7 @@ from io import StringIO
 from openai import OpenAI
 import os
 
-company = 'northvolt'
+company = 'norsun'
 
 def read_file(file_path):
     with open(file_path, 'r') as file:
@@ -16,7 +16,7 @@ file_contents = read_file('/Users/ben/Documents/bruegel/DATAn/WORKING/TUONE/tuon
 
 client = OpenAI(
     # defaults to os.environ.get("OPENAI_API_KEY")
-    api_key="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",
+    api_key="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",
 )
 
 completion = client.chat.completions.create(
@@ -35,7 +35,7 @@ completion = client.chat.completions.create(
     #  manufacturing capacity (in energy units). 
     #  """}
     {"role": "system", "content": f'''
-     You are an energy investment analyst. Your task is to read news article concerning battery projects run by {company} and identifty projects the company is running. Extract the following information on all projects you find: 
+     You are an energy investment analyst. Your task is to read news article concerning solar manufacturing projects run by {company} and identifty projects the company is running. Extract the following information on all projects you find: 
      1. project name,
      2. company operating the project,
      3. country where plant is located, 
