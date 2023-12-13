@@ -1,0 +1,135 @@
+title,date,text,url
+QuantumScape (QS) Q3 2023: prototype solid-state test cells exceed performance targets,2023-10-26,"Following the close of Q3 2023, solid-state battery developer QuantumScape has updated the public to its progress the last three months, which includes some encouraging results. In addition to catching a peep at mockups of its production-intent QSE-5 cell design, QuantumScape’s prototype has done better than expected with one automotive OEM in particular. Are solid-state EVs closer than we imagined? QuantumScape says maybe, but it still has some work to do.
+
+If you don’t know the name QuantumScape ($QS) by now, you should probably start educating yourself (don’t worry, we have plenty of previous coverage for you to study). The advanced battery technology company has been working for over a decade to develop scalable, energy-dense solid-state battery cells that can one day achieve cost parity with traditional lithium-ion cells popular in current EV models.
+
+While there are plenty of competitors out there chasing a future powered by safer and more efficient solid-state cells, QuantumScape hit its own major breakthrough in 2020 by utilizing a proprietary ceramic separator. This technology led to single-layer prototype cell testing, followed by 10-layer cells, then 16-layer prototypes.
+
+By Q2 of 2022, QuantumScape’s solid-state had expanded to 24 layers, setting the stage for vigorous internal testing and the beginning of a three-step journey (A, B, and C prototype cells) before entering automotive qualification and (hopefully) commercialized production.
+
+In December of 2022, QuantumScape began delivering the first 24-layer A0 prototype cells to automotive partners to test themselves, and by Q1 of 2023, testing had been completed by at least one unnamed EV OEM.
+
+At that same time, QuantumScape shared that its first commercial solid-state product will be an ~5 Ah cell called QSE-5 (seen above), which also began shipping to OEM partners as of Q2 2023. Now, QuantumScape has posted its Q3 2023 report, and A0 prototype testing has delivered results that were better than expected.
+
+A mockup of QuantumScape’s QSE-5 solid-state cell with FlexFrame / Credit: QuantumScape
+
+QuantumScape rolls in Q3, shares FlexFrame format
+
+As previously mentioned, QuantumScape’s first planned commercial product will be a solid-state cell called the QSE-5, based upon the aforementioned A0 prototype cells. QS states that the cell consists of a unique format it calls FlexFrame, which combines the conventional pouch and prismatic cell designs in order to address the “uniaxial expansion of lithium metal as it plates and strips during charging and discharging.”
+
+The battery developer shared that a primary goal for 2023 is to improve the packaging of its QSE-5 cells compared to the A0 prototypes, as the former will contain higher-loading cathodes than the former, sustaining higher current densities built with tighter margins, putting more stress on the cell.
+
+For comparison, QuantumScape says the QSE-5 cells are designed to deliver a capacity around 5 amp-hours (Ah), while 2170 battery designs currently used by some of the top EV automakers offer an average capacity of around 4.5–5 Ah. In this case, QuantumScape sits on the cusp of performance parity if not better, using smaller, lighter, and safer cells.
+
+Switching back to the A0 prototypes that will enable the production of the QSE-5 cells someday, QuantumScape provided further room for optimism in its Q3 2023 report. The company states that although its commercial target for its solid-state cells remains at 80% energy retention through 800 charge cycles, one prospective automotive customer found much better results testing the A0 cells.
+
+Those labs completed over 1,000 full cycle equivalents and achieved over 95% discharge energy retention using test conditions of C/3 charge and C/2 discharge with QuantumScape’s standard temperature and pressure conditions, and 100% depth of discharge. In the Q3 report, QuantumScape patted itself on the back for this encouraging result, but isn’t shopping for yachts any time soon – there is still plenty of room for improvement. Per the company:
+
+We emphasize that this is the best-performing cell and we have work to do on aspects such as reliability. Nonetheless, this is an exceptional result. We are not aware of any automotive-format lithium-metal battery that has shown such high discharge energy retention over a comparable cycle count, at room temperature and modest pressure, regardless of C-rate. We believe that no competing electrolyte — solid or liquid — has demonstrated sufficient stability with lithium metal to achieve this, and that this result sets a new high-water mark for lithium-metal battery performance.
+
+Credit: QuantumScape Q3 Report
+
+Looking ahead, QuantumScape states that its work beyond Q3 2023 will remain focused on QSE-5 development, which could find much success in several applications serving all vehicles from passenger EVs, to commercial trucks, motorcycles, and even consumer electronics. In regard to electronics, QuantumScape’s Q3 report states that the company’s single-layer solid-state cells have now achieved between 1,500 to 2,000 cycles with approximately 80% discharge energy retention with zero externally applied pressure. For comparison, QS states that 500 to 1,000 charge-discharge cycles represents the key life cycle threshold for most consumer electronics applications.
+
+On the manufacturing side, QuantumScape has completed equipment installation for its “Raptor” fast separator heat treatment process (3x as fast as previous processes) and remains on track to deploy the process by year’s end. It also continues to make progress in implementing its “Cobra” process to support the QSE-5 B0 prototype production in the future.
+
+Financials look good as well. The Q3 report detailed $1.1 billion in liquidity as QuantumScape raised $300 million in gross proceeds the past three months. The company’s current forecast offers enough runway to continue solid-state cell development into 2026. Per QuantumScape:
+
+Our focus for 2023 is simple: turn the corner from prototype to product. Our key milestones are all aimed at advancing product development to build a sufficient level of technical and manufacturing maturity to enable initial production of QSE-5. With just a few months remaining in the year, we are maintaining aggressive near-term schedules and remain focused on bringing a potentially disruptive first product to market in the near future.
+
+But strategically, our mission is bigger than a series of near-term objectives. We have been pursuing a next-generation electric vehicle battery for over a decade, and with a mission as challenging and as important as this, long-term thinking is indispensable. Moreover, the market opportunity for our technology platform is massive, potentially in the hundreds of billions of dollars annually for decades to come.",https://electrek.co/2023/10/26/quantumscape-qs-q3-2023-prototype-solid-state-cells-exceed-targets/
+"QuantumScape solid-state cell reaches 1,000+ cycles in tests",2023-10-27,"QuantumScape reports its latest A0 prototype cell achieved over 1,000 full cycle equivalents with over 95% discharge energy retention in one of its prospective customer’s battery testing labs. This exceeded QuantumScape targets for commercialisation – namely 800 cycles and 80 per cent energy retention.
+
+“QS is not aware of any automotive-format lithium-metal battery that has shown such high discharge energy retention over a comparable cycle count, at room temperature and modest pressure,” writes QuantumScape.
+
+The company stresses, however, that this is the best-performing cell and that aspects such as reliability still need to be worked on.
+
+“Nonetheless, this is an exceptional result.” QuantumScape in its Letter to Shareholders
+
+The result is indeed significant because the A0 prototype cell, like the cell intended for production, has 24 layers and features QuantumScape’s proprietary cell format. However, producing these cells in large quantities with high quality and reliability poses “significant challenges”.
+
+“Since QSE-5 will have higher-loading cathodes and more efficient packaging than our A0 prototype cell, it will sustain higher current densities and be built with tighter margins, resulting in more stress on the cell. We also must continue to work on producing these cells in large volumes with high quality and reliability.”
+
+QuantumScape introduced the 24-layer cell design in 2022 when it increased from 16 layers within a few months. The design accommodates Li-metal batteries’ expansion and contraction characteristics during charge and discharge.
+
+The design shall build the base of QuantumScape’s first product. The QSE-5 announced this summer is to exhibit a charging capacity of around 5 Ah with an energy density of over 800 Wh/L. This is the performance some tests now exceeded. Moreover, QS explicitly references “the 2170 battery used in several leading EV models” – that’s Tesla – which has a typical capacity of ~4.5–5 Ah.
+
+The company does not specify at which “potential customer” the tests occurred. In the summer, QuantumScape explicitly mentioned cooperation with a potential launch partner for the first time. Whether it is Volkswagen remains open.
+
+Today’s report confirms “a prospective launch customer in the automotive sector” for QSE-5, but QS adds that the scale of this initial application is “small by design”. It still represents “an important vehicle proof of concept” to the company with the “potential to lead to other programs in the future”. The report further mentions applications across motorsport, passenger and commercial vehicles, including motorcycles, cars, trucks and SUVs.
+
+QS summarises: “Together with the higher-loading cathode results (…), we have now separately demonstrated three key aspects of our production-intent cell design: 24 layers, higher cathode loading (~5mAh/cm2 ), and our new cell format. When these aspects are combined with improvements to packaging efficiency and manufacturing process control and automation for improved reliability, it forms the core of our first commercial product, QSE-5.”
+
+The company also developed a new name for the hybrid cell format to be used in said first commercial product. Now called FlexFrame, the form combines conventional pouch and prismatic cell designs and is designed to pack the same number of layers, with more energy per layer, into a slimmer package to occupy less space in EVs, writes QS. More specifically, FlexFrame combines a rigid frame, which provides structural stability, with a flexible polymer outer layer, which allows the face of the cell to expand and contract within the fixed exterior dimensions of the frame.
+
+Design and development aside, manufacturing (at scale), of course, remains the main challenge. QS reports it began the qualification of its fast separator heat treatment process (Raptor), which involved producing films, gathering data on their quality and consistency, and using that feedback to refine specs. QS claims Raptor is designed to deliver up to three times as much throughput using similar equipment as our last-generation process while applying less energy per separator. “We continue to target deployment of Raptor by the end of the year,” says QS.
+
+The company already mentioned improving separator manufacturing in autumn 2022 to avoid impurities. In Quantumscape cells, a ceramic separator isolates the cathode from the anode, allowing the company to experiment with otherwise incompatible materials. The design offers better low-pressure performance, improved low-temperature behaviour at -30 degrees Celsius, better high-rate support, and enhanced cell reliability compared to the first-generation catholyte, the company says.
+
+Separator production and cell assembly of sample cells still happen on the QS-0 pilot line in San José. Automation, such as unit-cell assembly equipment, commences. QS says, “Overall, we are pleased with our manufacturing scale-up progress, but more work remains, including continuing to drive our defect reduction and quality improvement initiatives, integrating advanced metrology and data collection, and developing additional process automation”.
+
+Regarding said scale-up, QS hired Dr Siva Sivaram as President this autumn. He is charged with bringing battery technology into high-volume production. Sivaram served as President at Western Digital, a global solid-state and magnetic data storage company. Before that, he held leadership roles at technology companies, including SanDisk, Matrix Semiconductor and Intel.
+
+quantumscape.com",https://www.electrive.com/2023/10/27/quantumscape-solid-state-cell-reaches-1000-cycles-in-tests/
+QuantumScape update: Solid-state cells will cut EV charging time in half and increase volumetric density over 50%,2022-04-26,"In a letter to shareholders outlining its progress through Q1 of 2022, solid-state battery manufacturer QuantumScape has shared some exciting updates. These include a new 16-layer, solid-state cell – an initial proof of concept of the company’s proprietary cell format. Additionally, QuantumScape shared news of scaled manufacturing and plans for increased production capacity. There’s lots to unfold here, so let’s hop in.
+
+Quick recap
+
+QuantumScape ($QS) is a battery technology company founded in 2010 with the goal of developing scalable, effective solid-state batteries.
+
+In December of 2020, the battery developer announced it had reached a “major breakthrough” in its technology by utilizing a ceramic separator, leading to the successful testing of single-layer prototype cells. After doubling the size of its initial pilot manufacturing line, Quantumscape revealed it had also developed a 10-layer cell.
+
+In February, QuantumScape shared another industry first with a single-layer cell that completed 400 consecutive 15-minute fast-charge cycles, replenishing from 10% to 80% capacity while still retaining over 80% of its initial energy.
+
+In its latest Q1 letter to shareholders, QuantumScape has continued its momentum with a bunch of additional solid-state updates.
+
+Source: QuantumScape
+
+The following information was taken from QuantumScape’s quarterly letter to shareholders recapping Q1 of 2022. The details can be rather … dense, so we recommend checking out the full letter for yourself, but here are some of the key takeaways.
+
+The 16-layer solid-state cell
+
+Continuing its trend of developing and testing multi-layered cells that perform under the company’s “gold standard” conditions, QuantumScape shared that it has developed a 16-layer solid-state battery cell that has already endured over 500 charge cycles. So far, the cell’s energy retention and cycling have behaved similarly to the cells that came before it (see graphic above).
+
+In addition to containing more layers, this new cell is the first to showcase QuantumScape’s proprietary cell architecture, which is flexible enough to support an anode-free format. The company describes this initial cell as “an encouraging proof of concept” for the flexible format but admits much work still needs to be done before it can truly be commercialized.
+
+Manufacturing scaled up
+
+QuantumScape also offered updates to the scale of its operations, including a ramping up of separator production – a key goal for 2022 to reach weekly starts over 8,000. This past quarter, the company recorded average weekly starts over 3,700, up from 2,000 in Q4 of 2021.
+
+This increase was made possible by QuantumScape’s updates to production tooling on its Phase 1 engineering line. Speaking of which, the battery developer also shared a detailed strategy of its initial scaling of production capacity. It consists of three planned phases:
+
+Phase 1 Engineering Line – QuantumScape’s current core of development capabilities to date (supports R&D, process development, and pre-A sample customer sampling)
+
+Phase 2 Engineering Line – Builds upon the capabilities of Phase 1 but integrates larger-scale equipment with higher levels of automation
+
+QS-0 Pre-Pilot Production Line – Planned to feature film production in large continuous kilns with automated film handling and cell assembly This line remains on track to produce candidate B-sample cells in 2023 (B samples are made using production processes).
+
+
+
+We can explain the rest, but QuantumScape offers its own production line updates best:
+
+In Q2, we aim to complete production qualification for the majority of the tooling for the Phase 2 engineering line, including automated cell assembly tools, ultrasonic welders and cell testing systems. We continue to target delivery of A-sample cells to at least one customer in 2022. The A sample is planned to have dozens of layers and is intended to demonstrate the core functionality of the battery cells.
+
+In the letter, QuantumScape admits it does not believe it’s possible to improve both the power and energy of battery cells simultaneously given their current chemistry. However, its solid-state lithium-metal technology offers the potential to improve both. Not just simultaneously, but dramatically (see graph above).
+
+According to QuantumScape, it has five consumer sampling agreements, three of which are with top-10 automotive OEMs, one of which has already reserved at least 5 MWh of capacity on the QS-0 pre-production line. Here’s another update as it pertains to automakers actually testing solid-state batteries:
+
+We have shipped multiple generations of cells to various customers across automotive and other applications. In Q1, our 10-layer cells were successfully tested by one automotive customer and entered the testing phase with another. These intermediate steps represent concrete progress toward our goal of shipping A sample cells in 2022.
+
+We know that one of those automakers is Porsche, which is owned by Volkswagen Group, an early funder of QuantumScape. The rest of the letter is financials, which aren’t too important right now as the company’s products are still very much in the developmental phase.
+
+These are big goals for QuantumScape for 2022, but its latest updates provide evidence that the company continues to scale and improve its solid-state battery technology. Until next quarter!",https://electrek.co/2022/04/26/quantumscape-updates-q1-2022-report-includes-new-16-layer-solid-state-cell-and-scaled-manufacturing/
+QuantumScape considers cell production in Salzgitter,2021-05-16,"QuantumScape could produce solid-state batteries in the German city of Salzgitter with Volkswagen in the future. According to an agreement between the two companies, the location for the planned pilot plant with VW is to be determined this year.
+
+According to the US battery specialist, Salzgitter is currently being considered for the pilot plant location. The plant, called QS-1, will initially have a capacity of 1 GWh, which will later be successively expanded to a total capacity of 21 GWh for series production.
+
+Despite the announcement by its cooperation partner, Volkswagen says that no final decision has yet been made on the construction of a pilot plant for solid fuel cells in Salzgitter. “This technology of the future can only be built up in Germany with state support – because without such support Salzgitter has little chance in European and international comparison,” says a VW spokesperson. “The final decision on further steps towards a solid fuel cell pilot plant will be made in the fourth quarter at the latest.”
+
+At QuantumScape, things sound much more optimistic. “Our goal has been to bring our solid-state lithium-metal batteries to market as soon as possible,” says Jagdeep Singh, CEO and co-founder of QuantumScape. “This joint venture brings together QuantumScape’s core battery technology with Volkswagen’s deep understanding of high-volume, high-quality production, and maximizes our ability to bring this technology into industrial production.”
+
+Although the agreement was officially with Volkswagen Group of America, the fact that the Salzgitter site is being considered makes it clear that the group’s headquarters in Wolfsburg is the driver behind the cooperation.
+
+Salzgitter is already a very important location for Wolfsburg’s battery plans: it is home to the pilot production facility for battery cells that will open in 2019. This project was initially driven forward with their battery partner Northvolt. After the Wolfsburg company announced at Power Day in March just passed that it would develop Salzgitter into one of the six European battery factories, it became clear that VW is now pushing ahead with the project alone. Salzgitter is also home to the pilot recycling plant for battery materials that opened in January 2021.
+
+In February, QuantumScape announced the construction of a pilot plant called QS-0 in San José, California. At the end of March, QuantumScape announced in a stock offering that it would build a pilot plant with VW. A few weeks later, Volkswagen invested a further $100 million in the battery specialist, as QuantumScape’s cells had met contractually agreed requirements.",https://www.electrive.com/2021/05/16/quantumscape-considers-cell-production-in-salzgitter/

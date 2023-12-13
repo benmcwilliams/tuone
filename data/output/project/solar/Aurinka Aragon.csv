@@ -1,0 +1,90 @@
+title,date,text,url
+Aurinka wants to open 300MW solar module factory in Spain,2022-03-04 00:00:00,"From pv magazine Spain
+
+Spanish solar manufacturer Aurinka is planning to build a solar module manufacturing facility at an undisclosed location in Spain's eastern Aragon region. “The turbulent geopolitical situation has seemed to us to be a good scenario for the return of manufacturing to Spain,” the company's CEO, Benjamín Llaneza, told pv magazine, noting that strong demand for solar products and high freight costs were also two decisive factors for the decision to construct the factory. “Its construction will depend on a 1.2 GW solar project currently under development in Andorra.”
+
+The factory is expected to begin operating with an annual capacity of 300 MW and to produce bifacial modules with a power output of 600 W.
+
+“Another leg of the Aurinka industrial project, which is not tied to the project in Andorra, consists of the building of a facility for repairing second-life panels or recycling non-repairable modules,” Llaneza added. The location is yet to be defined and logistics will play a key role.”
+
+Aurinka has been investing in research and development for more than two years. “We are looking for an economically and technically viable solution that respects the environment, following the criteria of the circular economy. We do not want to opt for a destructive solution for the photovoltaic module with a low rate of recovery of the materials and we are developing our own technology, which will allow the recovery of almost 100% of the materials of the module.”
+
+Popular content
+
+Aurinka also aims to produce UMG silicon manufacturing in Puertollano, Castile-La Mancha, in central Spain. The company says its patented low-carbon production process offers low enough manufacturing costs to compete with Asian rivals.",https://www.pv-magazine.com/2022/03/04/aurinka-wants-to-open-600-mw-solar-module-factory-in-spain/
+Low outdoor degradation for 20.76%-efficient solar cells made of UMG silicon,2021-04-15 00:00:00,"Scientists in Spain claim to have demonstrated that solar cells fabricated with upgraded metallurgical grade silicon (UMG-Si), a type of solar grade silicon produced by a directional solidification process, show the same degradation rate as conventional solar grade polysilicon.
+
+The research group includes Eduardo Forniés, the technology manager of Spanish PV manufacturer Aurinka Group, which is building a UMG silicon factory in Puertollano, central Spain. “The construction works are finishing but at very low speed,” he told pv magazine.
+
+In 2019, the research group had achieved a 20.76% efficiency for a multicrystalline solar cell made of 100% UMG silicon. The result was achieved in a mass production test on a conventional production line. Two years later, the same group has provided further details on that test in the paper UMG silicon for solar PV: From defects detection to PV module degradation, published in Solar Energy, in which it came to the conclusion that this kind of silicon has not only proven to be appropriate for photovoltaic applications, but has also shown the same degradation rate as conventional polysilicon.
+
+
+
+The cells' lifetime and degradation potential were assessed using two different kinds of wafers: a product developed with the standard UMG silicon of Ferroglobe unit, Ferrosolar; and a wafer produced with the same process but deliberately with more contaminated silicon material. “The purpose of manufacturing contaminated wafers, mainly with metals, is to give a range for solar cell performance depending on the concentration of metals and dopants in the silicon feedstock,” the paper notes. “This would be the starting point to obtain an empirical correlation between the solar cell efficiency and the contaminant concentration.”
+
+Chemical analysis was used to study the concentration of dopants and metals. To assess the presence of contaminants and the bulk lifetime of both wafers, the group turned to injection-dependent lifetime spectroscopy (IDLS), which involves measuring lifetimes across a range of excess carrier concentrations. The materials were then sent to a production line to manufacture aluminum back surface field (Al-BSF) solar cells.
+
+Popular content
+
+The analysis showed that solar modules built with cells based on the UMG silicon exhibit the same degradation rate as modules made of conventional polysilicon. “While the loss of efficiency due to the usage of UMG had been clearly determined and quantified in the previous studies mentioned above, the degradation had not been determined so far,” the scientists explained. The modules were tested for 24 months of sun exposure at a performance ratio of 25 Celsius degrees.
+
+The process for producing UMG silicon is claimed to be three times lower in greenhouse gas emissions compared to the conventional polysilicon. “The particularity of this process is that it takes the advantage of using a by-product, silicon tetrachloride (STC), recycling it in the beginning of the process, to transform the metallurgical grade silicon into TCS,” the Spanish group stated, adding that the lower emissions are also due to Spain's energy mix with a high share of renewables.
+
+The research group included scientists from the Solar Energy Institute (IES) at the Technical University of Madrid and Spain's metal products provider Ferroglobe.",https://www.pv-magazine.com/2021/04/15/low-outdoor-degradation-for-20-76-efficient-solar-cells-made-of-umg-silicon/
+Researchers in Spain and Turkey project 22%-efficient UMG solar cell,2021-07-05 00:00:00,"One of the cells made of UMG silicon. Made using PERC and black silicon technology, it has a record efficiency of 20.76%.
+
+From pv magazine Spain
+
+Silicon purified metallurgically through the ‘FerroSolar' process has been shown to achieve, on a conventional production line, up to 20.76% efficiency in multicrystalline cells made with upgraded metallurgical-grade (UMG) silicon. Such devices also significantly reduce the cost of purification and the environmental impact of manufacturing modules, which can have a 25% lower carbon footprint as a result.
+
+However, UMG has to demonstrate it is able to follow the “moving target” of the conversion efficiency of conventional solar cells, a level which is continuously increasing. In recent years, the rate has been sustained at around 0.4-0.5% annually.
+
+After the avenues for improvement of conventional cells – covered entirely by aluminum on the back surface – were exhausted, it was the leap to PERC technology that maintained increasing efficiencies, by replacing the aluminum with one or more dielectric layers pierced to make contact.
+
+The first results obtained from PERC cells on UMG silicon were very promising, with average efficiencies of 20.1% plus or minus 0.6%, compared to 20.41% for conventional multicrystalline.
+
+P-type TopCon cells on UMG: up to 22% efficiency
+
+Those results were the basis for the ‘Cheer-Up' project somewhat tortuously constructed as an acronym from “low Cost, High-EfficiEnt and Reliable UMG PV cells. Part of the European Solar-Era.Net energy technology R&D network, the project is a collaboration between the Madrid-based Instituto de Energía Solar (IES-UPM), Spanish solar company Aurinka PV, the Nanophotonics Technology Center in Valencia and Turkey's Center for Solar Energy Research and Applications (GÜNAM), in Ankara.
+
+The project aims to adapt PERC technology with slight variations in some of the industrial process steps to achieve 21% efficiency with UMG. By incorporating advanced processing technology, the material is expected to be capable of up to 22% efficiency. One such advanced technology, for example, is the passivation of contacts with an ultrathin oxide and doped polysilicon – tunnel‐oxide passivated contact, or TOPCon.
+
+Popular content
+
+The Cheer-Up project will seek to demonstrate that with UMG, efficiencies similar to those of conventional materials can be achieved at lower cost and with less environmental impact. The researchers also hope to demonstrate UMG can be used to manufacture the most advanced cell structures.
+
+“The approach is to make a TOPCon device on a p-type wafer in which the rear TOPCon structure would be made with boron-doped polysilicon, and for the front part we are evaluating the option of having a front phosphor emitter or a selective structure,” IES-UPM director Carlos del Cañizo told pv magazine, noting it would be premature to assess possible degradation. The work will be carried out next year in collaboration with German research body the Fraunhofer ISE. The team has so far obtained “remarkable results,” said Del Cañizo, with the three-year project having been under way for 15 months.
+
+Reduce LeTID
+
+The most important steps to achieve the project's objectives include plasma nanotexturing – known as black silicon because it achieves such a low reflectivity the substrate appears black – and designing the thermal steps of the process to maximize the removal of impurities and improve the quality of the substrate, making it comparable with that of conventional polysilicon substrates.
+
+“With regard to the characterization of the material, we have played with the conditions of the phosphor diffusion step and with those of the deposit of the dielectric layers in the back of the cell, and we have observed improvements in the quality of the material, measured in terms [of] lifetime, which exceed 300 microseconds, and in some cases have reached 600 microseconds,” del Cañizo said. “To get an idea of the meaning of these values, it must be taken into account that the simulations indicate that with lifetimes of 150 microseconds at the point of maximum power, we would already reach 21% efficiency in the cell.”
+
+The research team is also studying the process conditions to drastically reduce the degradation some cell technologies experience with lighting and temperature when they are in operation, a phenomenon that can be regulated by controlling the amount of hydrogen that the rear dielectric layer diffuses towards the substratum.
+
+Specifically, the researchers are looking at PERC's light and elevated temperature induced degradation (LeTID), the scope of which depends on the starting material. The team is initially gauging how important it is for UMG, and is introducing changes in the manufacturing process – including hydrogen in the dielectric, firing temperatures and forward polarization – to reduce it.",https://www.pv-magazine.com/2021/07/05/researchers-in-spain-and-turkey-project-22-efficient-umg-solar-cell/
+Spain's Aurinka PV plans EUR-100m investment in polysilicon plant - report,,"Spanish firm Aurinka Photovoltaic Group plans to spend between EUR 60 million (USD 67m) and EUR 100 million to buy and upgrade Silicon Solar's polysilicon production plant in Puertollano, where it wants to deploy a new technology.
+
+The factory has been closed since 2012. Aurinka’s executive director Benjamin Llaneza Caruana told local newspaper La Tribuna de Ciudad Real that his company intends to reopen the facility in the second half of 2017.
+
+Caruana said, as cited by the paper, that the company’s new technology would allow for the production of wafers that are competitive in any market, including China. The upgraded plant is expected to have an annual production capacity of 3,000 tonnes of polysilicon.
+
+The project is likely to create jobs for former Silicon Solar employees, according to the report.
+
+Aurinka is currently waiting for a court approval of the sale, since Silicon Solar is in bankruptcy proceedings. The company has offered EUR 7 million for the existing plant, the newspaper said.
+
+(EUR 1.0 = USD 1.122)
+
+Choose your newsletter by Renewables Now. Join for free!",https://renewablesnow.com/news/spains-aurinka-pv-plans-eur-100m-investment-in-polysilicon-plant-report-525683/
+Aurinka wants to open 300MW solar module factory in Spain – pv magazine International – Supply Chain Council of European Union,2022-03-04 10:22:59+01:00,"From pv magazine Spain
+
+Spanish solar manufacturer Aurinka is planning to build a solar module manufacturing facility at an undisclosed location in Spain’s eastern Aragon region. “The turbulent geopolitical situation has seemed to us to be a good scenario for the return of manufacturing to Spain,” the company’s CEO, Benjamín Llaneza, told pv magazine, noting that strong demand for solar products and high freight costs were also two decisive factors for the decision to construct the factory. “Its construction will depend on a 1.2 GW solar project currently under development in Andorra.”
+
+The factory is expected to begin operating with an annual capacity of 300 MW and to produce bifacial modules with a power output of 600 W.
+
+“Another leg of the Aurinka industrial project, which is not tied to the project in Andorra, consists of the building of a facility for repairing second-life panels or recycling non-repairable modules,” Llaneza added. The location is yet to be defined and logistics will play a key role.”
+
+Aurinka has been investing in research and development for more than two years. “We are looking for an economically and technically viable solution that respects the environment, following the criteria of the circular economy. We do not want to opt for a destructive solution for the photovoltaic module with a low rate of recovery of the materials and we are developing our own technology, which will allow the recovery of almost 100% of the materials of the module.”
+
+Aurinka also aims to produce UMG silicon manufacturing in Puertollano, Castile-La Mancha, in central Spain. The company says its patented low-carbon production process offers low enough manufacturing costs to compete with Asian rivals.",https://scceu.org/aurinka-wants-to-open-300mw-solar-module-factory-in-spain-pv-magazine-international/

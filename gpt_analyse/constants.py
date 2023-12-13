@@ -1,7 +1,7 @@
 ### Summarise pipeline
 ### Build your database :) 
 
-summarise_company = 'CALB'
+summarise_company = 'Freyr'
 
 version = 'v1'
 

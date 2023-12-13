@@ -1,0 +1,24 @@
+Project name,Company,Location (country),Location (area),Manufacturing component(s),Capital investment (in million euros),Government subsidies (yes/no/uncertain),Government subsidies (in million euros),"Government subsidies geography (European, National, Regional)",Capacity (in GW/year),Announcement date (actual or expected),Investment date (actual or expected),Operation date (actual or expected),Current status
+NorSun Ardal,NorSun AS,USA,,"Ingot, wafer",8.0,yes,54.0,European,5.0,17-08-2023,,,announced
+MeyerBurger Freiberg,Meyer Burger,Germany,Freiberg,"Cell, module",0.0,yes,390.0,National,2.0,,,July 2023,operational
+3Sun Sicily,Enel,Italy,Catania,"Cell, module",600.0,yes,188.0,European,3.0,01-04-2022,01-04-2022,01-07-2024,operational
+NexWafe Bitterfeld-Wolfen,NexWafe GmbH,Germany,Bitterfeld-Wolfen,Wafer,30.0,uncertain,,,0.0,31-05-2023,,,announced
+CARBON Marseille Gigafactory,CARBON,France,"Fos-sur-Mer, Grand Port Maritime de Marseille","Polysilicon, ingot, wafer, cell, module",,uncertain,,European,5.0,03-03-2023,,end of 2025,announced
+Vallis Solaris Silbenik,Vallis Solaris,Croatia,Šibenik,"Polysilicon, ingot, wafer, cell, solar glass, system components, inverters",1000.0,uncertain,,National,10.0,2019-02-08,2023-10-19,,announced
+Iberdrola Langreo,Iberdrola,Spain,Langreo,Module,20.0,uncertain,,European,0.0,22-02-2023,22-02-2023,,announced
+Giga PV Raciborz,GigaPV S.A.,Poland,Racibórz,Cell,86.0,uncertain,52.0,European,1.0,Q1 2021,Q2 2023,Q4 2025,announced
+AstraSun Turnu Magurele,Astrasun Solar Kft.,Romania,Turnu Magurele,"Ingot, wafer, cell, module",267.0,yes,0.0,European,1.0,2022-05-20,,2024,announced
+MCPV Groningen,MCPV,Netherlands,unspecified,"Cell, module",,yes,312.0,National,3.0,2023-07-17,,2026,announced
+FuturaSun Padua,FuturaSun,Italy,"Cittadella, Padua",Module,25.0,uncertain,,European,2.0,2023-03-09,,,announced
+Aurinka Aragon,Aurinka,Spain,Aragon,"Module, UMG silicon, Polysilicon",100.0,uncertain,,,0.3,2022-03-04,,,announced
+Silicon Valen,Silicon Valen SL,Spain,Valencia,"Cell, module",500.0,yes,0.362,Regional,5.0,2021-05-11,2022-07-04,2023-10-01,operational
+AE Solar Horizon Kyustendil,AE Solar Horizon AD,Bulgaria,Kyustendil,Module,20.0,uncertain,,,1.0,2023-01-12,2023-06-01,2024-12-01,announced
+Midsummer Sweden,Midsummer,Sweden,,Cell,0.0,yes,32.0,European,0.0,2023-07-17,,2026-01-01,announced
+Holosolis Moselle,Holosolis,France,Hambach,"Cell, module",,uncertain,,European,5.0,2023-08-31,2023-08-31,2025-01-01,operational
+Reden Solar Roquefort,Reden Solar,France,Roquefort,Module,4.0,uncertain,,,0.0,2023-04-26,,,announced
+EXE Solar Yambol,EXE Solar,Bulgaria,Yambol,Module,6.0,uncertain,,,0.6,2022-11-23,2023-04-01,2024-12-31,announced
+Solitek Benevento,Solitek,Italy,Benevento,"Module, battery",50.0,yes,,European,0.0,2023-03-20,,2024-04-01,announced
+Belinus Belgium,Belinus,Belgium,unspecified,Module,,uncertain,,uncertain,5.0,2023-03-14,2024-03-31,2025-12-31,operational
+Solar Nord Niedersachsen,NorSun,United States,not available,"Ingot, wafer",0.0,uncertain,,,5.0,,,,announced
+Heckert Wattcraf Thuringia,"Heckert Solar, Wattkraft Systems GmbH & Co. KG, Interfloat Corporation",Germany,"Langenwetzendorf, Thuringia; Frankfurt am Oder, Brandenburg","Polysilicon, solar cells, solar glass",2000.0,uncertain,,,5.0,2023-08-21,2023-08-21,,announced
+Heckert Wattcraff Frankfurt,"Heckert Solar, Wattkraft, Interfloat",Germany,Frankfurt,"Polysilicon, wafer, cell, module",2000.0,uncertain,,National,5.0,2023-08-21,2023-08-21,,announced
