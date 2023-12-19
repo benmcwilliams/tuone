@@ -1,5 +1,5 @@
 ### Summarise pipeline
-### Build your database :) 
+### Build your database
 
 summarise_company = 'Freyr'
 

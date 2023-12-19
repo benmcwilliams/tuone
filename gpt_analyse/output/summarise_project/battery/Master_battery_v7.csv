@@ -1,0 +1,33 @@
+Project name,Company,Location (country),Location (area),Manufacturing component(s),Investment,Investment type,Existing Capacity (in GWh/year),Planned Future Capacity (in GWh/year),Capital investment (in million euros),Jobs,Announcement date,Investment date,Operation date,Current status
+ACC Douvrin,Automotive Cells Company (ACC),France,"Billy-Berclau Douvrin, Hauts-de-France","Cathode/anode active material manufacture, cell manufacture or fabrication, module assembly",yes,Expansion,13.0,40.0,850.0,600.0,2020-01-01,,2023-12-31,operational
+ACC Kaiserslautern,Automotive Cells Company (ACC),Germany,Kaiserslautern,Cell manufacturing,yes,New Build,0.0,24.0,2000.0,2000.0,2020-09-03,,2025,announced
+Termoli,Automotive Cells Company (ACC),Italy,Termoli,"Cell manufacturing, module assembly",yes,Expansion,0.0,120.0,,2000.0,2020-08-01,,2026-01-01,announced
+BasqueVolt Vitoria-Gasteiz,Basquevolt,Spain,Vitoria-Gasteiz,"Cell manufacturing, prototype cell development",yes,New Build,,10.0,700.0,800.0,2022-06-10,,2027,announced
+Beyonder Haugaland,Beyonder,Norway,Haugalandet,Cell manufacturing,yes,Expansion,,0.0,0.0,0.0,2019-06-13,,2024,announced
+Sines Battery Manufacturing Project,China Aviation Lithium Battery Technology (CALB),Portugal,Sines,"Cell manufacturing, module assembly",yes,New Build,0.0,45.0,1570.0,0.0,2017-06-08,,2025-12-31,announced
+CATL Thuringia,Contemporary Amperex Technology Co. Limited (CATL),Germany,Thuringia,"Cell manufacturing, module assembly",yes,Expansion,8.0,14.0,1800.0,2000.0,2018-07-12,,2022-12-31,operational
+Debrecen,"Contemporary Amperex Technology Co., Limited (CATL)",Hungary,Debrecen,Cell and module manufacturing,yes,New Build,,100.0,7340.0,9000.0,2022-08-12,,,announced
+VENERGY+,Envision AESC,Spain,Navalmoral de la Mata,"Cell manufacturing, module assembly",yes,New Build,,50.0,900.0,3000.0,2022-06-07,,2025,announced
+Eve Energy Debrecen,Eve Energy,Hungary,Debrecen,Cell manufacturing,yes,New Build,,28.0,400.0,1000.0,2023-05-09,,2026,announced
+FREYR Mo i Rana,FREYR Battery,Norway,Mo i Rana,"Cell manufacturing, module assembly",yes,Expansion,0.0,29.0,1700.0,723.0,2022-11-29,,,announced
+GigaVaasa,FREYR Battery,Finland,Vaasa,Cell manufacturing,yes,New Build,,43.0,,0.0,12-08-2021,,,announced
+InoBat Production Facility,InoBat Auto,USA,Indiana,"Battery module and pack assembly, R&D facility",yes,New Build,,2.0,91.0,80.0,04-01-2022,,,announced
+Valladolid,InoBat Auto,Spain,Valladolid,"Cell manufacturing, module assembly",yes,Expansion,0.0,,2900.0,2000.0,2022-10-19,,,announced
+Scarmagno Gigafactory,Italvolt,Italy,Scarmagno,"Cell manufacturing, module assembly",yes,New Build,45.0,70.0,4000.0,4000.0,2021-02-15,,,announced
+LG Energy Wroclaw,LG Energy Solution,Poland,Wroclaw,"Cell manufacturing, module assembly",yes,Expansion,70.0,115.0,1500.0,1800.0,2020-03-26,,,announced
+Morrow Batteries Arendal,Morrow Batteries,Norway,Arendal,Cell manufacturing,yes,New Build,1.0,43.0,470.0,2000.0,2020-12-29,,,announced
+Gothenburg,Volvo Cars and Northvolt,Sweden,Gothenburg,Cell manufacturing,yes,New Build,0.0,50.0,30000.0,3000.0,2022-02-04,,2025,announced
+Northvolt Skellefteå,Northvolt,Sweden,Skellefteå,Cell manufacturing,yes,Expansion,16.0,60.0,1522.0,2000.0,16-10-2018,,,announced
+Phi4Tech Badajoz,Phi4tech,Spain,Badajoz,"Cell manufacturing, cathode factory",yes,New Build,0.0,10.0,400.0,500.0,24-03-2021,,,announced
+Dunkirk Gigafactory,ProLogium,France,Dunkirk,"Cell manufacturing, R&D center",yes,New Build,,48.0,5200.0,3000.0,2023-05-09,,2026-12-31,announced
+QS-1,QuantumScape,Germany,Salzgitter,Cell production,yes,New Build,,21.0,,,2021-05-16,,,announced
+God,Samsung SDI,United States,Indiana,"Cell manufacturing, module assembly",yes,Expansion,30.0,40.0,740.0,1400.0,2021-02-24,,2027-01-01,announced
+SK On Ivancsa,SK Innovation,Hungary,Iváncsa,"Cell manufacturing, module assembly",yes,New Build,17.0,47.0,1623.0,2500.0,2021-01-29,2021-01-01,,investment made
+SK On Komarom 1,SK Innovation,Hungary,Komárom,Cell manufacture,yes,Expansion,7.0,40.0,750.0,2500.0,28-02-2019,,,announced
+SK On Komarom 2,SK Innovation,Hungary,Komárom,Cell manufacturing,yes,Expansion,10.0,40.0,750.0,2500.0,2019-02-28,,2022,announced
+SVOLT Brandenburg,"SVOLT Energy Technology Co., Ltd.",Germany,"Lauchhammer, Brandenburg",Cell manufacturing,yes,New Build,,16.0,,,09-09-2022,,,announced
+SVOLT Saarland,SVOLT Energy Technology,Germany,Saarland,"Cell manufacturing, module assembly",yes,New Build,,24.0,2000.0,2000.0,2020-11-07,,,announced
+Gigafactory Berlin,Tesla,Germany,Grünheide,"Battery cell production, vehicle production",yes,New Build,,100.0,5000.0,2000.0,2020-01-01,,,announced
+Verkor Dunkirk,Verkor,France,Dunkirk,Cell manufacturing,yes,New Build,16.0,50.0,2000.0,1200.0,01-02-2022,,2025-07-01,announced
+Mission SalzGiga,Volkswagen,Germany,Salzgitter,Cell manufacturing,yes,New Build,,40.0,20000.0,20000.0,2022-07-07,,2025-01-01,announced
+Valencia,Volkswagen Group,Spain,Sagunt near Valencia,Cell manufacturing,yes,New Build,0.0,40.0,3000.0,3000.0,2021-03-23,,2026,announced

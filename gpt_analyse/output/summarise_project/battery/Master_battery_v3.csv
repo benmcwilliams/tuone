@@ -1,0 +1,33 @@
+Project name,Company,Location (country),Location (area),Manufacturing component(s),Current Capacity (in GWh/year),Future Capacity (in GWh/year),Capital investment (in million euros),Jobs,Announcement date (actual or expected),Investment date (actual or expected),Operation date (actual or expected),Current status
+ACC Douvrin,Automotive Cells Company (ACC),France,Billy-Berclau/Douvrin,Cell manufacturing,13.0,40.0,,600.0,30-05-2023,,end of 2023,operational
+Kaiserslautern ACC Battery Cell Plant,Automotive Cells Company (ACC),Germany,Kaiserslautern,"Cell manufacturing, module assembly",0.0,24.0,2000.0,2000.0,01-01-2020,01-01-2023,01-01-2025,investment made
+Termoli,Automotive Cells Company (ACC),Italy,Termoli,Cell manufacturing,,40.0,,2000.0,23-03-2022,2024,2026,announced
+Basquevolt Vitoria-Gasteiz,Basquevolt,Spain,Vitoria-Gasteiz,"Cell manufacturing, module assembly",,10.0,700.0,800.0,2022-06-16,2025,2027,announced
+Beyonder Haugaland,Beyonder,Norway,Haugalandet,Cell manufacturing,,,,500.0,2022-04-04,,,announced
+Sines Lithium Battery Unit,China Aviation Lithium Battery Technology (CALB),Portugal,Sines,"Cell manufacturing, electrode production, battery casing production, battery assembly",15.0,15.0,,,02-11-2022,,2025-12-31,announced
+CATL Thuringia,Contemporary Amperex Technology Co. Limited (CATL),Germany,Thuringia,"Cell manufacturing, module assembly",8.0,14.0,1800.0,1500.0,2019-04-04,2022-12-31,2022-12-31,operational
+Debrecen,CATL,Hungary,Debrecen,"Cell manufacturing, module assembly",,100.0,7340.0,,12-08-2022,,,announced
+VENERGY+,Envision AESC,Spain,Navalmoral de la Mata,"Cell manufacturing, module assembly",10.0,50.0,900.0,3000.0,2022-07-18,2025,2025,operational
+Debrecen,Eve Energy,Hungary,Debrecen,Cell manufacturing,0.0,28.0,1000.0,1000.0,2023-05-09,,2026,announced
+Mo i Rana,FREYR Battery,Norway,Mo i Rana,Cell manufacturing,0.0,35.0,,,2023-11-29,2022-12-31,2022-07-09,operational
+FREYR Vassa,FREYR Battery,Finland,Vaasa,Cell manufacturing,0.0,43.0,,,2021-08-12,2022-05-01,,announced
+InoBat Production Facility,InoBat Auto,Slovakia,Voderady,"Cell manufacturing, module assembly",0.0,40.0,0.0,0.0,15-12-2022,2024,2026,announced
+Valladolid,InoBat Auto,Spain,Valladolid,"Cell manufacturing, module assembly",,,,,2022-10-19,,,announced
+Scarmagno Gigafactory,Italvolt,Italy,Scarmagno and Romano Canavese,Cell manufacturing,45.0,45.0,4000.0,3000.0,12-10-2021,09-2022,2024-06-01,investment made
+LG Energy Wroclaw,LG Energy Solution,Poland,Wroclaw,"Cell manufacturing, module assembly",70.0,,,,2023-08-30,2023-08-30,,announced
+Arendal,Morrow Batteries,Norway,Arendal,Cell manufacturing,0.0,42.0,0.0,0.0,2021-05-28,,2024-06-30,announced
+Gothenburg,Volvo Cars and Northvolt,Sweden,Gothenburg,Cell manufacturing,0.0,50.0,30000.0,3000.0,2022-02-04,2023-10-01,2026-12-31,investment made
+Northvolt Skelleftea,Northvolt,Sweden,Skellefteå,"Cell manufacturing, module assembly",0.0,60.0,2750.0,6000.0,,,2023-01-01,operational
+Phi4Tech Badajoz,Phi4Tech,Spain,Badajoz,"Cell manufacturing, cathode manufacturing",0.0,20.0,1000.0,1300.0,24-03-2021,,,announced
+Dunkirk Gigafactory,ProLogium,France,Dunkirk,"Cell manufacturing, module assembly",,48.0,5200.0,3000.0,2023-05-13,2024-09-01,2026-12-31,announced
+QS-1,QuantumScape,Germany,Salzgitter,Cell production,1.0,21.0,,,2021-05-16,,,Announced
+Samsung SDI God Expansion,Samsung SDI,Hungary,"Göd, near Budapest",Cell manufacturing,30.0,40.0,740.0,0.0,2021-02-24,,,announced
+SK On Ivancsa,SK Innovation,Hungary,Iváncsa,Cell manufacturing,30.0,30.0,1623.0,1900.0,2021-01-29,2021-01-01,2024-01-01,operational
+SK On Komarom 1,SK Innovation,Hungary,Komarom,Cell manufacturing,7.0,30.0,1160.0,2500.0,2021-07-20,2021-07-20,2024-01-01,announced
+SK On Komarom 2,SK Innovation,Hungary,Ivancsa,Cell manufacturing,7.0,30.0,1160.0,2500.0,2020-05-19,2021-07-20,2024-01-01,operational
+SVOLT Brandenburg,"SVOLT Energy Technology Co., Ltd.",Germany,"Lauchhammer, Brandenburg",Cell manufacturing,16.0,32.0,,,2022-09-09,2022-08-31,2025-01-01,announced
+SVOLT Saarland Project,SVOLT,Germany,Saarland,"Cell manufacturing, module assembly",,32.0,2000.0,,2020-11-01,2022-08-31,2025-02-01,announced
+Gigafactory Berlin-Brandenburg,"Tesla, Inc.",Germany,Grünheide (Mark),"Battery production, Model Y assembly",100.0,,4000.0,11500.0,12-11-2019,01-01-2020,22-03-2022,operational
+Verkor Dunkirk,Verkor,France,Dunkirk,Cell manufacturing,16.0,50.0,2000.0,1200.0,2022-02-01,2023-09-14,2025-07-01,investment made
+Salzgitter Battery Factory,Volkswagen,Germany,Salzgitter,"Cell manufacturing, module assembly",,,20000.0,,2022-07-07,2023-04-01,2025-01-01,announced
+Valencia,Volkswagen,Spain,Sagunt,Cell manufacturing,40.0,60.0,10000.0,3000.0,2022-07-01,2023-01-12,2026-01-01,operational

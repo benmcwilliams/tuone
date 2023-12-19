@@ -8,8 +8,8 @@ class NewspaperReaderApp:
         self.root.title("Newspaper Reader")
 
         # Font styles
-        self.title_font = font.Font(family="Times New Roman", size=16, weight="bold")
-        self.text_font = font.Font(family="Times New Roman", size=14)
+        self.title_font = font.Font(family="Times New Roman", size=22, weight="bold")
+        self.text_font = font.Font(family="Times New Roman", size=22)
 
         # Frame for articles list (narrower)
         self.frame_articles = ttk.Frame(root, width=200)
