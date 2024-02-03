@@ -1,0 +1,36 @@
+Location:
+- [insideevs](https://insideevs.com/news/584238/volkswagen-battery-gigafactory-spain-40gwh/, 2022-05-06): - The battery gigafactory is located in Sagunt near Valencia, Spain.
+- [electrive](https://www.electrive.com/2023/01/12/powerco-secures-land-for-volkswagens-next-battery-factory/, 2023-01-12): - The battery cell factory project is located in Sagunt, near Valencia, Spain.
+- [electrive](https://www.electrive.com/2023/03/17/vw-starts-battery-plant-construction-in-valencia-and-plans-third-party-sales/, 2023-03-17): - The project is located in Sagunt, near Valencia, Spain.
+- [batteriesnews](https://batteriesnews.com/volkswagen-seat-electrification-spain-7-billion-euro-investment-battery-cell-factory-valencia-3000-jobs/, 2022-03-25): - The project is located in Valencia, Spain.
+
+Capacity:
+- [insideevs](https://insideevs.com/news/584238/volkswagen-battery-gigafactory-spain-40gwh/, 2022-05-06): - The manufacturing capacity of the gigafactory is planned to be up to 40 GWh of lithium-ion batteries annually.
+- [electrive](https://www.electrive.com/2023/01/12/powerco-secures-land-for-volkswagens-next-battery-factory/, 2023-01-12): - The planned capacity for the PowerCo gigafactory is 40 GWh per year.
+- [electrive](https://www.electrive.com/2023/03/17/vw-starts-battery-plant-construction-in-valencia-and-plans-third-party-sales/, 2023-03-17): - The annual production capacity for manufacturing the 'unit cell' is expected to be 40 gigawatt hours, with potential expansion to 60 GWh. Production is set to start in 2026.
+- [batteriesnews](https://batteriesnews.com/volkswagen-seat-electrification-spain-7-billion-euro-investment-battery-cell-factory-valencia-3000-jobs/, 2022-03-25): - The planned production capacity of the battery cell factory is 40 GWh annually.
+
+Investment amounts:
+- [insideevs](https://insideevs.com/news/584238/volkswagen-battery-gigafactory-spain-40gwh/, 2022-05-06): - The investment for the gigafactory is €3 billion ($3.2 billion). - The project is expected to receive funds from the Strategic Project for Economic Recovery and Transformation program (PERTE) in Spain.
+- [electrive](https://www.electrive.com/2023/01/12/powerco-secures-land-for-volkswagens-next-battery-factory/, 2023-01-12): - PowerCo, the Volkswagen Group's battery division, has invested €63 million to purchase 130 hectares of land in Sagunt. The entire e-mobility value chain in Spain is budgeted to receive an investment of no less than ten billion euros.
+- [electrive](https://www.electrive.com/2023/03/17/vw-starts-battery-plant-construction-in-valencia-and-plans-third-party-sales/, 2023-03-17): - The project is part of a 10-billion-euro investment by Volkswagen, Seat, and other partners in Spain, accompanied by a large government subsidy. Spain’s Prime Minister Pedro Sánchez attended the groundbreaking ceremony.
+- [batteriesnews](https://batteriesnews.com/volkswagen-seat-electrification-spain-7-billion-euro-investment-battery-cell-factory-valencia-3000-jobs/, 2022-03-25): - Volkswagen Group and SEAT plan to invest more than 7 billion euros in the project. - The project is expected to create more than 3,000 jobs in Valencia.
+
+Project progress:
+- [insideevs](https://insideevs.com/news/584238/volkswagen-battery-gigafactory-spain-40gwh/, 2022-05-06): - The construction of the gigafactory is set to start in Q1 2023. - Production is expected to commence in 2026. - The project is expected to create 3,000 new jobs.
+- [electrive](https://www.electrive.com/2023/01/12/powerco-secures-land-for-volkswagens-next-battery-factory/, 2023-01-12): - The plans for the battery cell factory in Sagunt were confirmed in March 2022. The purchase of land has been completed, and the project has been declared part of a Strategic Territorial Project (PTE) by the council of the Generalitat Valenciana. Construction is set to begin in the current quarter, with production scheduled to start in 2026.
+- [electrive](https://www.electrive.com/2023/03/17/vw-starts-battery-plant-construction-in-valencia-and-plans-third-party-sales/, 2023-03-17): - The construction of the battery plant is scheduled to start in the first quarter of 2023, with production set to begin in 2026. The site is expected to create more than 3,000 direct jobs and up to 30,000 indirect jobs with suppliers and partners in Spain.
+- [batteriesnews](https://batteriesnews.com/volkswagen-seat-electrification-spain-7-billion-euro-investment-battery-cell-factory-valencia-3000-jobs/, 2022-03-25): - The project is subject to final approvals, including the PERTE submission, and the construction of the plant is expected to begin by the end of the year. - The goal is to start production in 2026.
+
+Project type:
+- [insideevs](https://insideevs.com/news/584238/volkswagen-battery-gigafactory-spain-40gwh/, 2022-05-06): - The project is a new build gigafactory.
+- [electrive](https://www.electrive.com/2023/01/12/powerco-secures-land-for-volkswagens-next-battery-factory/, 2023-01-12): - The project involves the construction of a new battery cell factory in Sagunt.
+- [electrive](https://www.electrive.com/2023/03/17/vw-starts-battery-plant-construction-in-valencia-and-plans-third-party-sales/, 2023-03-17): - The project is a new build, with the construction of the battery plant starting in 2023.
+- [batteriesnews](https://batteriesnews.com/volkswagen-seat-electrification-spain-7-billion-euro-investment-battery-cell-factory-valencia-3000-jobs/, 2022-03-25): - The project involves the construction of a new battery cell factory in Valencia, Spain.
+
+Value chain stages:
+- [insideevs](https://insideevs.com/news/584238/volkswagen-battery-gigafactory-spain-40gwh/, 2022-05-06): - The gigafactory will cover the stages of cell fabrication, where cathode and anode are combined with an electrolyte.
+- [electrive](https://www.electrive.com/2023/01/12/powerco-secures-land-for-volkswagens-next-battery-factory/, 2023-01-12): - The project covers various stages of the battery manufacturing value chain, including processing raw materials, developing the unified Volkswagen battery, and managing the European gigafactories.
+- [electrive](https://www.electrive.com/2023/03/17/vw-starts-battery-plant-construction-in-valencia-and-plans-third-party-sales/, 2023-03-17): - The facility will cover the stages of cathode and anode manufacturing, cell fabrication, and module assembly. Additionally, the site plans to close the raw material cycle directly on-site, including capacities for recycling and reprocessing.
+- [batteriesnews](https://batteriesnews.com/volkswagen-seat-electrification-spain-7-billion-euro-investment-battery-cell-factory-valencia-3000-jobs/, 2022-03-25): - The facility will cover the entire value chain of battery production, including cell manufacturing.
+

@@ -1,0 +1,24 @@
+Location:
+- [verkor](https://verkor.com/en/verkor-secures-more-than-e2-billion-to-launch-high-performance-battery-gigafactory-in-france-and-accelerate-future-sustainable-mobility/, 2023-09-14): - The project is located in Dunkirk, France.
+- [verkor](https://verkor.com/en/verkor-selects-dunkirk-for-its-first-gigafactory/, 2022-02-01): The project is located in the port city of Dunkirk, Hauts de France, France.
+
+Capacity:
+- [verkor](https://verkor.com/en/verkor-secures-more-than-e2-billion-to-launch-high-performance-battery-gigafactory-in-france-and-accelerate-future-sustainable-mobility/, 2023-09-14): - The initial production capacity of the gigafactory is planned to be 16 GWh/year, with an expected operational date of 2025.
+- [verkor](https://verkor.com/en/verkor-selects-dunkirk-for-its-first-gigafactory/, 2022-02-01): The manufacturing capacity is set to expand from 16 GWh in 2025 to 50 GWh by 2030. The first delivery of low-carbon high-performance batteries for electric vehicles is scheduled for July 2025.
+
+Investment amounts:
+- [verkor](https://verkor.com/en/verkor-secures-more-than-e2-billion-to-launch-high-performance-battery-gigafactory-in-france-and-accelerate-future-sustainable-mobility/, 2023-09-14): - Verkor has secured more than €2 billion in financing, including a minimum of €850m in Series C funding, €600m in debt support from the European Investment Bank, and around €650m in French subsidies, subject to final approval by the European Commission.
+- [verkor](https://verkor.com/en/verkor-selects-dunkirk-for-its-first-gigafactory/, 2022-02-01): The specific capital invested or planned investment amounts are not provided in the given information.
+
+Project progress:
+- [verkor](https://verkor.com/en/verkor-secures-more-than-e2-billion-to-launch-high-performance-battery-gigafactory-in-france-and-accelerate-future-sustainable-mobility/, 2023-09-14): - The financing will accelerate the construction of Verkor’s first gigafactory in Dunkirk, ongoing technological developments at the Verkor Innovation Centre, and strategic investments across the battery value chain. The gigafactory is expected to be operational by 2025 and will create around 1,200 direct and 3,000 indirect jobs.
+- [verkor](https://verkor.com/en/verkor-selects-dunkirk-for-its-first-gigafactory/, 2022-02-01): The construction of the Gigafactory is scheduled to begin in 2023. The company is currently moving forward with the national consultation process for the site. Research and development will continue to be based out of Grenoble where the construction of the Verkor Innovation Centre (VIC) is already underway.
+
+Project type:
+- [verkor](https://verkor.com/en/verkor-secures-more-than-e2-billion-to-launch-high-performance-battery-gigafactory-in-france-and-accelerate-future-sustainable-mobility/, 2023-09-14): - The project involves the construction of Verkor’s first gigafactory in Dunkirk, representing a new build.
+- [verkor](https://verkor.com/en/verkor-selects-dunkirk-for-its-first-gigafactory/, 2022-02-01): The project is a new build, with the construction of the Gigafactory scheduled to begin in 2023.
+
+Value chain stages:
+- [verkor](https://verkor.com/en/verkor-secures-more-than-e2-billion-to-launch-high-performance-battery-gigafactory-in-france-and-accelerate-future-sustainable-mobility/, 2023-09-14): - The facility will cover the stages of cathode and anode manufacturing, cell fabrication, and module assembly.
+- [verkor](https://verkor.com/en/verkor-selects-dunkirk-for-its-first-gigafactory/, 2022-02-01): The project aims to cover the entire value chain, from low-carbon battery manufacturing to the development of an innovation center and a digital 4.0 pilot line. However, specific details about the coverage of cathode and anode manufacturing, cell fabrication, and module assembly are not provided in the given information.
+

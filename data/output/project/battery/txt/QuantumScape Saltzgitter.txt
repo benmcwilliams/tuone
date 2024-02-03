@@ -1,0 +1,36 @@
+Location:
+- [electrive](https://www.electrive.com/2021/05/16/quantumscape-considers-cell-production-in-salzgitter/, 2021-05-16): - The battery production project is planned to be located in Salzgitter, Germany.
+- [greentechmedia](https://www.greentechmedia.com/articles/read/vw-quantumscape-investment, 2018-06-28): N/A
+- [quantumscape](https://www.quantumscape.com/press-release/quantumscape-and-volkswagen-sign-agreement-to-select-location-for-joint-venture-pilot-line-facility/, 2021-05-15): - The joint-venture solid-state battery pilot-line facility, QS-1, is planned to be located in Salzgitter, Germany.
+- [electrive](https://www.electrive.com/2022/07/07/volkswagen-begins-construction-of-battery-cell-factory/, 2022-07-07): - The battery factory project is located in Salzgitter, Germany.
+
+Capacity:
+- [electrive](https://www.electrive.com/2021/05/16/quantumscape-considers-cell-production-in-salzgitter/, 2021-05-16): - The initial capacity of the planned pilot plant, QS-1, is 1 GWh, with a future expansion to a total capacity of 21 GWh for series production.
+- [greentechmedia](https://www.greentechmedia.com/articles/read/vw-quantumscape-investment, 2018-06-28): N/A
+- [quantumscape](https://www.quantumscape.com/press-release/quantumscape-and-volkswagen-sign-agreement-to-select-location-for-joint-venture-pilot-line-facility/, 2021-05-15): - The initial capacity of the QS-1 facility is planned to be 1 gigawatt hour (GWh) for battery cell commercial production. There are intentions to expand the production capacity by a further 20 GWh at the same location.
+- [electrive](https://www.electrive.com/2022/07/07/volkswagen-begins-construction-of-battery-cell-factory/, 2022-07-07): - The factory is planned to produce the Volkswagen unit cell for volume models starting from 2025.
+
+Investment amounts:
+- [electrive](https://www.electrive.com/2021/05/16/quantumscape-considers-cell-production-in-salzgitter/, 2021-05-16): - Volkswagen has invested $100 million in QuantumScape, the US battery specialist.
+- [greentechmedia](https://www.greentechmedia.com/articles/read/vw-quantumscape-investment, 2018-06-28): Volkswagen Group raised its stake in QuantumScape with a $100 million investment. Other investors in QuantumScape include Kleiner Perkins, Prelude Ventures, Lightspeed Venture Partners, Capricorn Investment Group, and Khosla Ventures.
+- [quantumscape](https://www.quantumscape.com/press-release/quantumscape-and-volkswagen-sign-agreement-to-select-location-for-joint-venture-pilot-line-facility/, 2021-05-15): - QuantumScape announced an additional $100 million in funding from Volkswagen after confirming through tests at its labs in Germany that QuantumScape cells met the established technical milestone.
+- [electrive](https://www.electrive.com/2022/07/07/volkswagen-begins-construction-of-battery-cell-factory/, 2022-07-07): - The total investment by PowerCo (with partners) is planned to be 20 billion euros by 2030. - The project did not claim any state subsidies for the battery factory in Salzgitter.
+
+Project progress:
+- [electrive](https://www.electrive.com/2021/05/16/quantumscape-considers-cell-production-in-salzgitter/, 2021-05-16): - The location for the pilot plant with Volkswagen is to be determined this year. - The final decision on further steps towards a solid fuel cell pilot plant in Salzgitter will be made in the fourth quarter at the latest.
+- [greentechmedia](https://www.greentechmedia.com/articles/read/vw-quantumscape-investment, 2018-06-28): QuantumScape, founded in 2010, has been in development for over eight years and aims to achieve full production by 2025 in a joint venture with Volkswagen.
+- [quantumscape](https://www.quantumscape.com/press-release/quantumscape-and-volkswagen-sign-agreement-to-select-location-for-joint-venture-pilot-line-facility/, 2021-05-15): - QuantumScape has secured a facility in San Jose to house the QS-0 line, which is the planned pre-pilot line. The company also announced it was doubling the initial QS-0 capacity to over 200,000 cells annually.
+- [electrive](https://www.electrive.com/2022/07/07/volkswagen-begins-construction-of-battery-cell-factory/, 2022-07-07): - The factory is in the initial stages, with the symbolic laying of the foundation stone having taken place. The factory is expected to start operations in 2025. - The factory will be part of the VW Group’s “Global Battery Hub” and will develop, test, manufacture, and recycle batteries at the component plant.
+
+Project type:
+- [electrive](https://www.electrive.com/2021/05/16/quantumscape-considers-cell-production-in-salzgitter/, 2021-05-16): - The project is a new build, with the construction of a pilot plant called QS-1.
+- [greentechmedia](https://www.greentechmedia.com/articles/read/vw-quantumscape-investment, 2018-06-28): The project involves the development of solid-state battery technology, specifically focusing on lithium metal anodes.
+- [quantumscape](https://www.quantumscape.com/press-release/quantumscape-and-volkswagen-sign-agreement-to-select-location-for-joint-venture-pilot-line-facility/, 2021-05-15): - The project involves the establishment of a joint-venture solid-state battery pilot-line facility, QS-1, in Salzgitter, Germany.
+- [electrive](https://www.electrive.com/2022/07/07/volkswagen-begins-construction-of-battery-cell-factory/, 2022-07-07): - The project is a new build, with the factory being constructed from scratch.
+
+Value chain stages:
+- [electrive](https://www.electrive.com/2021/05/16/quantumscape-considers-cell-production-in-salzgitter/, 2021-05-16): - The facility will cover cell fabrication, as it will bring QuantumScape’s core battery technology into industrial production with Volkswagen's support.
+- [greentechmedia](https://www.greentechmedia.com/articles/read/vw-quantumscape-investment, 2018-06-28): The project is focused on the development of solid-state battery technology, particularly in the area of lithium metal anodes.
+- [quantumscape](https://www.quantumscape.com/press-release/quantumscape-and-volkswagen-sign-agreement-to-select-location-for-joint-venture-pilot-line-facility/, 2021-05-15): - The facility will cover cell fabrication for electric vehicle batteries.
+- [electrive](https://www.electrive.com/2022/07/07/volkswagen-begins-construction-of-battery-cell-factory/, 2022-07-07): - The factory will cover the entire value chain stages, including cathode and anode manufacturing, cell fabrication, and module assembly.
+

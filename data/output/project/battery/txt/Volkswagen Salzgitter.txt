@@ -1,0 +1,24 @@
+Location:
+- [techcrunch](https://techcrunch.com/2022/07/07/volkswagen-breaks-ground-on-first-of-six-battery-factories/, 2022-07-07): - The first battery factory is located in Salzgitter, Germany. A second factory is planned for Valencia, Spain, and there are considerations for expansion to North America. The locations for the four other European factories have not been announced.
+- [arstechnica](https://arstechnica.com/cars/2022/07/volkswagen-starts-building-the-first-of-six-battery-gigafactories/, 2022-07-07): - The project is located in Salzgitter, Germany, with plans for additional battery factories in Valencia, Spain, and potentially in the US.
+
+Capacity:
+- [techcrunch](https://techcrunch.com/2022/07/07/volkswagen-breaks-ground-on-first-of-six-battery-factories/, 2022-07-07): - Battery cell production is expected to begin in 2025 at the Salzgitter factory. The Salzgitter plant is expected to supply about 500,000 EVs. Together, the new factories planned for Europe could supply roughly 3 million EVs.
+- [arstechnica](https://arstechnica.com/cars/2022/07/volkswagen-starts-building-the-first-of-six-battery-gigafactories/, 2022-07-07): - The planned annual production capacity for each plant is 40 GWh, with a goal of reaching a total annual capacity of 240 GWh across European battery plants by 2030.
+
+Investment amounts:
+- [techcrunch](https://techcrunch.com/2022/07/07/volkswagen-breaks-ground-on-first-of-six-battery-factories/, 2022-07-07): - Volkswagen's new company, PowerCo, and its partners will invest more than 20 billion EUR ($20.34 billion) by 2030.
+- [arstechnica](https://arstechnica.com/cars/2022/07/volkswagen-starts-building-the-first-of-six-battery-gigafactories/, 2022-07-07): - Volkswagen Group plans to invest more than $20.4 billion (20 billion euros) in the project by 2030. The company anticipates an equal potential in revenue and the addition of 20,000 new jobs.
+
+Project progress:
+- [techcrunch](https://techcrunch.com/2022/07/07/volkswagen-breaks-ground-on-first-of-six-battery-factories/, 2022-07-07): - The battery cell production is expected to begin in 2025 at the Salzgitter factory. The second cell factory is planned for Valencia, Spain. The standardized model from the Salzgitter factory will be replicated and scaled for future factories.
+- [arstechnica](https://arstechnica.com/cars/2022/07/volkswagen-starts-building-the-first-of-six-battery-gigafactories/, 2022-07-07): - The cell production is scheduled to begin at the Salzgitter factory in 2025. The company has already broken ground on the massive new battery factory at the site and has retrained 1,000 employees from making engines. The battery factory is expected to add another 5,000 jobs over the next few years.
+
+Project type:
+- [techcrunch](https://techcrunch.com/2022/07/07/volkswagen-breaks-ground-on-first-of-six-battery-factories/, 2022-07-07): - The project involves the construction of new battery factories in Europe.
+- [arstechnica](https://arstechnica.com/cars/2022/07/volkswagen-starts-building-the-first-of-six-battery-gigafactories/, 2022-07-07): - The project involves the construction of a new battery factory at the Salzgitter site.
+
+Value chain stages:
+- [techcrunch](https://techcrunch.com/2022/07/07/volkswagen-breaks-ground-on-first-of-six-battery-factories/, 2022-07-07): - The project will manage the value chain from raw materials to recycling, indicating involvement in multiple stages of the battery manufacturing process. However, specific details about the stages covered at the facility are not provided in the given information.
+- [arstechnica](https://arstechnica.com/cars/2022/07/volkswagen-starts-building-the-first-of-six-battery-gigafactories/, 2022-07-07): - The facility will cover all relevant activities from raw materials and cell production to recycling, indicating coverage of cathode and anode manufacturing, cell fabrication, and potentially module assembly.
+

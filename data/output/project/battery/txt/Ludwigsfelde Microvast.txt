@@ -1,0 +1,30 @@
+Location:
+- [microvast](https://microvast.com/microvast-collaborates-with-fpt-industrial-to-develop-and-offer-battery-power-solutions-through-its-new-gigawatt-factory-in-ludwigsfelde/, 2019-11-19): - The project is located in Ludwigsfelde, Germany.
+- [electrive](https://www.electrive.com/2020/07/03/microvast-completes-battery-factory-in-brandenburg/, 2020-07-03): - The battery production project is located in Ludwigsfelde, Germany.
+- [totallyev](https://totallyev.net/battery-manufacturer-microvast-commences-production-in-germany/, 2021-02-05): - The battery production project is located in Ludwigsfelde, Germany.
+
+Capacity:
+- [microvast](https://microvast.com/microvast-collaborates-with-fpt-industrial-to-develop-and-offer-battery-power-solutions-through-its-new-gigawatt-factory-in-ludwigsfelde/, 2019-11-19): - The EMEA Central Production Plant in Ludwigsfelde is planned to deliver a total volume of 1.5 GWh battery modules and systems at the initial stage, with a future capacity of up to 6 GWh.
+- [electrive](https://www.electrive.com/2020/07/03/microvast-completes-battery-factory-in-brandenburg/, 2020-07-03): - The initial production capacity is planned to be 1.5 GWh per year, with a later expansion to up to 6 GWh per year.
+- [totallyev](https://totallyev.net/battery-manufacturer-microvast-commences-production-in-germany/, 2021-02-05): - The project is expected to produce up to 1.5 GWh of battery modules initially, with a final output capacity of up to 6 GWh.
+
+Investment amounts:
+- [microvast](https://microvast.com/microvast-collaborates-with-fpt-industrial-to-develop-and-offer-battery-power-solutions-through-its-new-gigawatt-factory-in-ludwigsfelde/, 2019-11-19): - The specific capital invested in the project is not mentioned in the provided information.
+- [electrive](https://www.electrive.com/2020/07/03/microvast-completes-battery-factory-in-brandenburg/, 2020-07-03): - Microvast has invested around 50 million euros in the first expansion stage of the project.
+- [totallyev](https://totallyev.net/battery-manufacturer-microvast-commences-production-in-germany/, 2021-02-05): - Microvast has invested approximately 50 million euros in the project so far, with plans to create 250 jobs.
+
+Project progress:
+- [microvast](https://microvast.com/microvast-collaborates-with-fpt-industrial-to-develop-and-offer-battery-power-solutions-through-its-new-gigawatt-factory-in-ludwigsfelde/, 2019-11-19): - The construction of the plot covering a total space of 36,000 m2 in Ludwigsfelde is planned to commence in April 2020 and is expected to be completed by December 2020. The project has kicked off the setup of the EMEA Central Production Plant.
+- [electrive](https://www.electrive.com/2020/07/03/microvast-completes-battery-factory-in-brandenburg/, 2020-07-03): - The construction period lasted for three months, and the topping-out ceremony for the new European headquarters and production building was celebrated. - The first production line is planned to be inaugurated in March 2021, with the start of supplying battery modules and packs to customers in Europe.
+- [totallyev](https://totallyev.net/battery-manufacturer-microvast-commences-production-in-germany/, 2021-02-05): - The new premises are expected to initially produce up to 1.5 GWh of battery modules, with plans for expansion to accommodate 250 employees and generate an output of up to 6 GWh. The company has also been awarded a contract by the U.S. Advanced Battery Consortium and announced plans to go public via a merger with Tuscan Holdings Corp.
+
+Project type:
+- [microvast](https://microvast.com/microvast-collaborates-with-fpt-industrial-to-develop-and-offer-battery-power-solutions-through-its-new-gigawatt-factory-in-ludwigsfelde/, 2019-11-19): - The project is a new build, as Microvast GmbH will start the construction of the production plant in Ludwigsfelde.
+- [electrive](https://www.electrive.com/2020/07/03/microvast-completes-battery-factory-in-brandenburg/, 2020-07-03): - The project is a new build, as it involves the construction of a new production building for Li-ion battery systems.
+- [totallyev](https://totallyev.net/battery-manufacturer-microvast-commences-production-in-germany/, 2021-02-05): - The project appears to be a new build, as it involves the setup of a production facility in Ludwigsfelde, Germany.
+
+Value chain stages:
+- [microvast](https://microvast.com/microvast-collaborates-with-fpt-industrial-to-develop-and-offer-battery-power-solutions-through-its-new-gigawatt-factory-in-ludwigsfelde/, 2019-11-19): - The facility will cover the value chain stages of cathode and anode manufacturing, cell fabrication, and module assembly.
+- [electrive](https://www.electrive.com/2020/07/03/microvast-completes-battery-factory-in-brandenburg/, 2020-07-03): - The facility will involve module assembly, as it intends to assemble cells produced by its Chinese sister company Microvast Power Systems in China.
+- [totallyev](https://totallyev.net/battery-manufacturer-microvast-commences-production-in-germany/, 2021-02-05): - The facility covers various stages of the battery manufacturing process, including the production of cathode, anode, electrolyte, membrane separator, and battery management systems, indicating a comprehensive vertical integration capability.
+

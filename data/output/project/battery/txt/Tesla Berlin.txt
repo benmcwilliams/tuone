@@ -1,0 +1,42 @@
+Location:
+- [electrive](https://www.electrive.com/2021/09/06/tesla-to-get-e1-14bn-in-state-funding-for-berlin-battery-plant/, 2021-09-06): - The battery cell production project is planned to be located in Grünheide near Berlin, Germany.
+- [electrek](https://electrek.co/2023/07/19/tesla-reveals-plan-gigafactory-berlin-expansion-battery-production/, 2023-07-19): - Germany, specifically at the Tesla Gigafactory Berlin.
+- [thedriven](https://thedriven.io/2021/09/07/tesla-plans-to-invest-8-billion-into-ev-battery-plant-next-to-giga-berlin/, 2021-09-07): - The battery plant project is located at the site of Tesla's Gigafactory in Grünheide near Berlin, Germany.
+- [electrek](https://electrek.co/2021/09/06/tesla-tsla-over-1-billion-govt-funding-for-battery-factory-gigafactory-berlin/, 2021-09-06): - The project is located in Grünheide near Berlin, Germany.
+- [cleanenergywire](https://www.cleanenergywire.org/news/tesla-berlin-gigafactory-launch-hailed-model-investment-projects-germany, 2022-03-22): - The project is located near Germany's capital, Berlin.
+
+Capacity:
+- [electrive](https://www.electrive.com/2021/09/06/tesla-to-get-e1-14bn-in-state-funding-for-berlin-battery-plant/, 2021-09-06): - The planned capacity of the cell factory is set to be over 100 GWh in the longer term.
+- [electrek](https://electrek.co/2023/07/19/tesla-reveals-plan-gigafactory-berlin-expansion-battery-production/, 2023-07-19): - The new expansion plan includes the production of 1 million vehicles per year and 100 GWh of battery production.
+- [thedriven](https://thedriven.io/2021/09/07/tesla-plans-to-invest-8-billion-into-ev-battery-plant-next-to-giga-berlin/, 2021-09-07): - The planned capacity of the battery plant is 250GWh, making it one of the largest battery plants in the world.
+- [electrek](https://electrek.co/2021/09/06/tesla-tsla-over-1-billion-govt-funding-for-battery-factory-gigafactory-berlin/, 2021-09-06): - N/A
+- [cleanenergywire](https://www.cleanenergywire.org/news/tesla-berlin-gigafactory-launch-hailed-model-investment-projects-germany, 2022-03-22): - The article does not provide specific information about the planned capacity of the gigafactory.
+
+Investment amounts:
+- [electrive](https://www.electrive.com/2021/09/06/tesla-to-get-e1-14bn-in-state-funding-for-berlin-battery-plant/, 2021-09-06): - The total investment volume for the project is estimated to be around five billion euros. - The German Ministry of Economics and Technology (BMVi) may provide 1.135 billion euros in funding for the project. - The ACC joint venture, involving PSA, Opel, and Saft, will receive 437 million euros in state funding for a battery cell plant in Kaiserslautern, with the companies investing around 2 billion euros in the factory.
+- [electrek](https://electrek.co/2023/07/19/tesla-reveals-plan-gigafactory-berlin-expansion-battery-production/, 2023-07-19): - N/A
+- [thedriven](https://thedriven.io/2021/09/07/tesla-plans-to-invest-8-billion-into-ev-battery-plant-next-to-giga-berlin/, 2021-09-07): - Tesla plans to invest around 5 billion euros in cell production for the battery plant. - The German government is expected to decide on whether to invest 1 billion euros towards the project by the end of 2021. - The project is ruled eligible for the European Union’s 2.9 billion euro European Battery Innovation project, with 1.135 billion euros in state funding for the development of the German battery production reportedly earmarked for Tesla.
+- [electrek](https://electrek.co/2021/09/06/tesla-tsla-over-1-billion-govt-funding-for-battery-factory-gigafactory-berlin/, 2021-09-06): - The German government is finalizing a subsidy package that could provide Tesla with over $1 billion in government funding for its new battery factory. - Tesla could secure as much as 1.14 billion euros ($1.35 billion USD) in government support for the new program. - Tesla has previously indicated plans to spend as much as $5 billion on Gigafactory Berlin.
+- [cleanenergywire](https://www.cleanenergywire.org/news/tesla-berlin-gigafactory-launch-hailed-model-investment-projects-germany, 2022-03-22): - The article does not specify the exact amount of capital invested in the gigafactory, nor does it mention any subsidies received for the project.
+
+Project progress:
+- [electrive](https://www.electrive.com/2021/09/06/tesla-to-get-e1-14bn-in-state-funding-for-berlin-battery-plant/, 2021-09-06): - The project is in the process of receiving funding, with the grant notice planned for the 4th quarter of 2021. - The amendments for the battery cell production facility are undergoing approval, and the project has faced difficulties in the public approval procedures.
+- [electrek](https://electrek.co/2023/07/19/tesla-reveals-plan-gigafactory-berlin-expansion-battery-production/, 2023-07-19): - Tesla has submitted plans for a significant expansion that would allow for the production of 1 million vehicles per year and 100 GWh of battery production. The expansion would happen in three stages, with the first one being operational in the first half of 2024 if approved. However, there have been delays in receiving approval.
+- [thedriven](https://thedriven.io/2021/09/07/tesla-plans-to-invest-8-billion-into-ev-battery-plant-next-to-giga-berlin/, 2021-09-07): - The German ministry of economic reportedly gave Tesla the green light to start making preparations in early 2021. - The funding decision from the German government is planned for the fourth quarter of 2021.
+- [electrek](https://electrek.co/2021/09/06/tesla-tsla-over-1-billion-govt-funding-for-battery-factory-gigafactory-berlin/, 2021-09-06): - Tesla has applied for government support for the new battery factory. - The government is expected to make a decision on Tesla’s application by the end of the year. - Tesla has recently indicated plans to start production of the Model Y at Gigafactory Berlin in October.
+- [cleanenergywire](https://www.cleanenergywire.org/news/tesla-berlin-gigafactory-launch-hailed-model-investment-projects-germany, 2022-03-22): - The gigafactory near Berlin has been opened, and the first electric cars have been produced and handed over to clients. The factory's planning and construction took two years, and top-level government representatives attended the opening ceremony.
+
+Project type:
+- [electrive](https://www.electrive.com/2021/09/06/tesla-to-get-e1-14bn-in-state-funding-for-berlin-battery-plant/, 2021-09-06): - The project involves the addition of a battery cell production facility to an existing Tesla plant in Grünheide.
+- [electrek](https://electrek.co/2023/07/19/tesla-reveals-plan-gigafactory-berlin-expansion-battery-production/, 2023-07-19): - Expansion of the existing Gigafactory Berlin.
+- [thedriven](https://thedriven.io/2021/09/07/tesla-plans-to-invest-8-billion-into-ev-battery-plant-next-to-giga-berlin/, 2021-09-07): - N/A
+- [electrek](https://electrek.co/2021/09/06/tesla-tsla-over-1-billion-govt-funding-for-battery-factory-gigafactory-berlin/, 2021-09-06): - The project is an expansion of the gigafactory for electric cars in Grünheide near Berlin to include a large battery cell factory.
+- [cleanenergywire](https://www.cleanenergywire.org/news/tesla-berlin-gigafactory-launch-hailed-model-investment-projects-germany, 2022-03-22): - The gigafactory near Berlin is a new build, representing Tesla's first European e-car production hub.
+
+Value chain stages:
+- [electrive](https://www.electrive.com/2021/09/06/tesla-to-get-e1-14bn-in-state-funding-for-berlin-battery-plant/, 2021-09-06): - The facility will cover at least the cell fabrication stage, where cathode and anode are combined with an electrolyte.
+- [electrek](https://electrek.co/2023/07/19/tesla-reveals-plan-gigafactory-berlin-expansion-battery-production/, 2023-07-19): - The project includes battery production, but specific details about the value chain stages are not provided in the given information.
+- [thedriven](https://thedriven.io/2021/09/07/tesla-plans-to-invest-8-billion-into-ev-battery-plant-next-to-giga-berlin/, 2021-09-07): - N/A
+- [electrek](https://electrek.co/2021/09/06/tesla-tsla-over-1-billion-govt-funding-for-battery-factory-gigafactory-berlin/, 2021-09-06): - N/A
+- [cleanenergywire](https://www.cleanenergywire.org/news/tesla-berlin-gigafactory-launch-hailed-model-investment-projects-germany, 2022-03-22): - The article does not provide information on the specific value chain stages covered at the gigafactory.
+

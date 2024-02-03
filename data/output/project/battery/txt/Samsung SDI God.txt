@@ -1,0 +1,36 @@
+Location:
+- [stellantis](https://www.stellantis.com/en/news/press-releases/2022/may/stellantis-and-samsung-announce-battery-plant-in-kokomo, No date provided): - The project is located in Kokomo, Indiana, United States.
+- [electrive](https://www.electrive.com/2021/02/24/samsung-sdi-expands-battery-production-in-hungary/, 2021-02-24): - Hungary, near Budapest
+- [sme](https://www.sme.org/technologies/articles/2023/september/samsung-sdis-$1.98-billion-investment-accelerates-entry-into-us-ev-battery-market/, No date provided): - United States, specifically in Auburn Hills, Michigan, and Kokomo, Indiana.
+- [electrek](https://electrek.co/2023/04/25/gm-samsung-sdi-build-battery-cell-factory-us/, 2023-04-25): - The new battery cell factory is planned to be built in the United States.
+
+Capacity:
+- [stellantis](https://www.stellantis.com/en/news/press-releases/2022/may/stellantis-and-samsung-announce-battery-plant-in-kokomo, No date provided): - The initial annual production capacity of the plant is targeted to be 23 gigawatt hours (GWh), with an aim to increase to 33 GWh in the next few years.
+- [electrive](https://www.electrive.com/2021/02/24/samsung-sdi-expands-battery-production-in-hungary/, 2021-02-24): - The factory currently has an annual capacity of 30 GWh and is expected to be able to produce over 40 GWh in the future.
+- [sme](https://www.sme.org/technologies/articles/2023/september/samsung-sdis-$1.98-billion-investment-accelerates-entry-into-us-ev-battery-market/, No date provided): - The expansion in Auburn Hills, Michigan, aims to double the manufacturing capacity of the existing plants. The new battery production plant in Kokomo, Indiana, is projected to have an annual capacity of 23 gigawatt hours, with the flexibility to ramp up production to 33 GWh annually.
+- [electrek](https://electrek.co/2023/04/25/gm-samsung-sdi-build-battery-cell-factory-us/, 2023-04-25): - The factory is targeted to have a capacity of "more than 30 GWh" and will bring GM’s total capacity in the US to about 160 GWh.
+
+Investment amounts:
+- [stellantis](https://www.stellantis.com/en/news/press-releases/2022/may/stellantis-and-samsung-announce-battery-plant-in-kokomo, No date provided): - The joint venture company will invest over $2.5 billion (€2.3 billion) and create 1,400 new jobs in Kokomo and the surrounding areas. The investment could gradually increase up to $3.1 billion (€2.9 billion).
+- [electrive](https://www.electrive.com/2021/02/24/samsung-sdi-expands-battery-production-in-hungary/, 2021-02-24): - Samsung SDI will invest around 740 million euros in the expansion of its battery factory in Hungary. - The investment of around one trillion won, equivalent to a little more than 900 million US dollars or 740 million euros, is partly financed by a capital increase of the Hungarian subsidiary Samsung SDI Hungary Zrt, but also by loans.
+- [sme](https://www.sme.org/technologies/articles/2023/september/samsung-sdis-$1.98-billion-investment-accelerates-entry-into-us-ev-battery-market/, No date provided): - Samsung SDI plans to invest $1.98 billion in its second battery factory in collaboration with Stellantis. Additionally, $41 million will be invested to expand the existing facilities in Auburn Hills, Michigan.
+- [electrek](https://electrek.co/2023/04/25/gm-samsung-sdi-build-battery-cell-factory-us/, 2023-04-25): - GM and Samsung SDI plan to invest more than $3 billion in the new battery cell manufacturing plant.
+
+Project progress:
+- [stellantis](https://www.stellantis.com/en/news/press-releases/2022/may/stellantis-and-samsung-announce-battery-plant-in-kokomo, No date provided): - Plant construction activities are scheduled to begin later this year with production operations planned to launch in the first quarter of 2025.
+- [electrive](https://www.electrive.com/2021/02/24/samsung-sdi-expands-battery-production-in-hungary/, 2021-02-24): - The factory construction was completed in 2017. - It is not clear when the expansion is to be completed. - Samsung SDI is considering building a second plant in Hungary, but no decision or timetable has been made yet.
+- [sme](https://www.sme.org/technologies/articles/2023/september/samsung-sdis-$1.98-billion-investment-accelerates-entry-into-us-ev-battery-market/, No date provided): - The joint endeavor between Samsung SDI and Stellantis to construct the EV battery production plant in Kokomo, Indiana, is underway, with production anticipated to commence in 2025.
+- [electrek](https://electrek.co/2023/04/25/gm-samsung-sdi-build-battery-cell-factory-us/, 2023-04-25): - The factory is targeted to begin operations in 2026. The location of the new factory has not been disclosed yet.
+
+Project type:
+- [stellantis](https://www.stellantis.com/en/news/press-releases/2022/may/stellantis-and-samsung-announce-battery-plant-in-kokomo, No date provided): - N/A
+- [electrive](https://www.electrive.com/2021/02/24/samsung-sdi-expands-battery-production-in-hungary/, 2021-02-24): - Expansion of an existing battery site
+- [sme](https://www.sme.org/technologies/articles/2023/september/samsung-sdis-$1.98-billion-investment-accelerates-entry-into-us-ev-battery-market/, No date provided): - The project in Auburn Hills, Michigan, involves the expansion of existing facilities, while the project in Kokomo, Indiana, is a new build for EV battery production.
+- [electrek](https://electrek.co/2023/04/25/gm-samsung-sdi-build-battery-cell-factory-us/, 2023-04-25): - N/A
+
+Value chain stages:
+- [stellantis](https://www.stellantis.com/en/news/press-releases/2022/may/stellantis-and-samsung-announce-battery-plant-in-kokomo, No date provided): - The facility will supply battery modules for a range of vehicles produced at Stellantis’ North American assembly plants. Samsung SDI will be applying its cutting-edge technology PRiMX to producing EV battery cells and modules for the North American market.
+- [electrive](https://www.electrive.com/2021/02/24/samsung-sdi-expands-battery-production-in-hungary/, 2021-02-24): - N/A
+- [sme](https://www.sme.org/technologies/articles/2023/september/samsung-sdis-$1.98-billion-investment-accelerates-entry-into-us-ev-battery-market/, No date provided): - The Kokomo, Indiana plant is expected to cover the stages of cell fabrication and module assembly. The specific details about the value chain stages for the expansion in Auburn Hills, Michigan are not provided.
+- [electrek](https://electrek.co/2023/04/25/gm-samsung-sdi-build-battery-cell-factory-us/, 2023-04-25): - The article does not provide information on the specific value chain stages covered at the facility.
+

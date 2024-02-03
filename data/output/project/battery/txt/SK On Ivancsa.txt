@@ -1,0 +1,42 @@
+Location:
+- [electrive](https://www.electrive.com/2022/03/23/sk-on-receives-funding-for-battery-cell-plant-in-hungary/, 2022-03-23): - The project is located in Iváncsa, in the Közép-Dunántúl region of Hungary.
+- [hipa](https://hipa.hu/news/gigantic-investment-of-sk-innovation-the-largest-greenfield-fdi-project-ever-to-start-in-ivancsa/, No date provided): - Hungary, specifically in Iváncsa.
+- [skbhungary](https://www.skbhungary.com/2021/01/29/minden-idok-legnagyobb-zoldmezos-beruhazasa-ivancsan/, 2021-01-29): - Hungary, Iváncsa
+- [worldbatterynews](https://worldbatterynews.com/sk-innovation-to-expand-battery-investments-in-europe-with-third-plant-in-h-p645-165/, No date provided): - The battery production project is located in Hungary, with the first and second plants situated to the north of Budapest, in Komárom. The third plant is planned to be built at Iváncsa, about 50km southwest of Budapest.
+- [autopro](https://autopro.hu/en/news/sk-innovation-announce-historic-investment-project-in-ivancsa/462927, 2021-01-31): - The battery manufacturing plant is being built in Iváncsa, Hungary.
+
+Capacity:
+- [electrive](https://www.electrive.com/2022/03/23/sk-on-receives-funding-for-battery-cell-plant-in-hungary/, 2022-03-23): - The annual capacity of the plant is planned to be 30 GWh, with a final expansion expected to be reached in 2028.
+- [hipa](https://hipa.hu/news/gigantic-investment-of-sk-innovation-the-largest-greenfield-fdi-project-ever-to-start-in-ivancsa/, No date provided): - The annual capacity of the new production base in Iváncsa will be 30 GWh, enabling the production of 430,000 electric cars per year.
+- [skbhungary](https://www.skbhungary.com/2021/01/29/minden-idok-legnagyobb-zoldmezos-beruhazasa-ivancsan/, 2021-01-29): - The annual capacity of the new production base in Iváncsa is planned to be 30 GWh. The existing production units in Komárom have capacities of 7.5 GWh and 9.5 GWh, which will be supplemented by the new factory's annual production of 30 GWh. The company aims to achieve a total production capacity of 125 GWh by 2025.
+- [worldbatterynews](https://worldbatterynews.com/sk-innovation-to-expand-battery-investments-in-europe-with-third-plant-in-h-p645-165/, No date provided): - The first plant has an annual capacity of 7.5GWh and started commercial production in the first quarter of 2020. The second plant, with a capacity of 9.8GWh, is currently under construction. The third plant is planned to have an annual production capacity of 30GWh.
+- [autopro](https://autopro.hu/en/news/sk-innovation-announce-historic-investment-project-in-ivancsa/462927, 2021-01-31): - The planned capacity of the project is not provided.
+
+Investment amounts:
+- [electrive](https://www.electrive.com/2022/03/23/sk-on-receives-funding-for-battery-cell-plant-in-hungary/, 2022-03-23): - SK On Hungary will invest a total of €1.623 billion in the project, with the EU Commission approving state aid amounting to 209 million euros.
+- [hipa](https://hipa.hu/news/gigantic-investment-of-sk-innovation-the-largest-greenfield-fdi-project-ever-to-start-in-ivancsa/, No date provided): - The greenfield investment for the new factory in Iváncsa is USD 2.29 billion.
+- [skbhungary](https://www.skbhungary.com/2021/01/29/minden-idok-legnagyobb-zoldmezos-beruhazasa-ivancsan/, 2021-01-29): - The greenfield investment for the new factory in Iváncsa is USD 2.29 billion.
+- [worldbatterynews](https://worldbatterynews.com/sk-innovation-to-expand-battery-investments-in-europe-with-third-plant-in-h-p645-165/, No date provided): - The total investment cost for the third plant in Hungary is $2.29bn (1.7bn). The company mentioned the possibility of raising additional funds through external financing if needed.
+- [autopro](https://autopro.hu/en/news/sk-innovation-announce-historic-investment-project-in-ivancsa/462927, 2021-01-31): - The total expenditure for the project is HUF 681 billion. - The project is receiving investment from SK Innovation, a South Korean company.
+
+Project progress:
+- [electrive](https://www.electrive.com/2022/03/23/sk-on-receives-funding-for-battery-cell-plant-in-hungary/, 2022-03-23): - The project started in early 2021, with the subsidy approved in December 2021. The plant is expected to provide at least 1,900 direct jobs.
+- [hipa](https://hipa.hu/news/gigantic-investment-of-sk-innovation-the-largest-greenfield-fdi-project-ever-to-start-in-ivancsa/, No date provided): - Construction of the new facility is set to start at the end of 2021.
+- [skbhungary](https://www.skbhungary.com/2021/01/29/minden-idok-legnagyobb-zoldmezos-beruhazasa-ivancsan/, 2021-01-29): - Construction of the new factory in Iváncsa is set to start at the end of 2021. The existing production units in Komárom are already in operation, with the second unit about to start production.
+- [worldbatterynews](https://worldbatterynews.com/sk-innovation-to-expand-battery-investments-in-europe-with-third-plant-in-h-p645-165/, No date provided): - The first plant has already started commercial production, and the second plant is currently under construction. The third plant's construction is set to start in the third quarter of this year and end in 2028.
+- [autopro](https://autopro.hu/en/news/sk-innovation-announce-historic-investment-project-in-ivancsa/462927, 2021-01-31): - The project is in the construction phase, with an announcement made by Péter Szijjártó, Minister of Foreign Affairs and Trade, regarding the investment and job creation.
+
+Project type:
+- [electrive](https://www.electrive.com/2022/03/23/sk-on-receives-funding-for-battery-cell-plant-in-hungary/, 2022-03-23): - The project is a new build, as it involves the construction of a third battery cell plant in Hungary.
+- [hipa](https://hipa.hu/news/gigantic-investment-of-sk-innovation-the-largest-greenfield-fdi-project-ever-to-start-in-ivancsa/, No date provided): - The project in Iváncsa is a greenfield investment, meaning it is being constructed from scratch.
+- [skbhungary](https://www.skbhungary.com/2021/01/29/minden-idok-legnagyobb-zoldmezos-beruhazasa-ivancsan/, 2021-01-29): - The project in Iváncsa is a greenfield investment, meaning it is a new build.
+- [worldbatterynews](https://worldbatterynews.com/sk-innovation-to-expand-battery-investments-in-europe-with-third-plant-in-h-p645-165/, No date provided): - The third plant is a new build, as it is planned to be constructed from scratch.
+- [autopro](https://autopro.hu/en/news/sk-innovation-announce-historic-investment-project-in-ivancsa/462927, 2021-01-31): - The project is a new build, involving the construction of a new battery manufacturing plant.
+
+Value chain stages:
+- [electrive](https://www.electrive.com/2022/03/23/sk-on-receives-funding-for-battery-cell-plant-in-hungary/, 2022-03-23): - The facility will cover cell fabrication, as SK On is developing LFP batteries for electric vehicles, in addition to its specialization in pouch cells with NMC chemistry.
+- [hipa](https://hipa.hu/news/gigantic-investment-of-sk-innovation-the-largest-greenfield-fdi-project-ever-to-start-in-ivancsa/, No date provided): - The facility will cover cathode and anode manufacturing, cell fabrication, and module assembly.
+- [skbhungary](https://www.skbhungary.com/2021/01/29/minden-idok-legnagyobb-zoldmezos-beruhazasa-ivancsan/, 2021-01-29): - The facilities cover the manufacturing of lithium-ion battery cells, modules, and packs for electric vehicle batteries.
+- [worldbatterynews](https://worldbatterynews.com/sk-innovation-to-expand-battery-investments-in-europe-with-third-plant-in-h-p645-165/, No date provided): - The project covers the stages of cathode and anode manufacturing, cell fabrication, and module assembly.
+- [autopro](https://autopro.hu/en/news/sk-innovation-announce-historic-investment-project-in-ivancsa/462927, 2021-01-31): - The specific value chain stages covered at the facility are not provided.
+

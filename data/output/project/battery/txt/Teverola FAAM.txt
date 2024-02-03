@@ -1,0 +1,42 @@
+Location:
+- [faam](https://faam.com/en/the-italy-of-the-batteries-beats-a-blow-417-mln-e-for-teverola/, 2022-03-10): - The battery production project is located in the province of Caserta, Italy.
+- [faam](https://faam.com/en/italian-made-batteries-start-production-in-teverola/, 2022-12-20): - Italy, Caserta region
+- [electrive](https://www.electrive.com/2021/06/02/stellantis-considers-battery-factory-in-italy/, 2021-06-02): - Italy, with a specific mention of the municipality of Scarmagno near Turin for the Italvolt project.
+- [faam](https://faam.com/en/teverola-1-and-teverola-2/, 2022-08-01): - The project is located in Teverola, Italy.
+- [vogon](https://www.vogon.today/startmag/gigafactory-like-italy-and-europe-trot-with-batteries/2021/04/17/, 2021-04-17): - Italy: One gigafactory is planned for the former Olivetti site in Ivrea, with a potential capacity of 45 GWh, expandable to 70 GWh. Another gigafactory is planned in the former Indesit headquarters in Teverola, near Caserta, with an initial capacity of 7-8 GWh/year.
+
+Capacity:
+- [faam](https://faam.com/en/the-italy-of-the-batteries-beats-a-blow-417-mln-e-for-teverola/, 2022-03-10): - The planned production capacity of the Teverola 2 plant is 7.5-8 GWh of lithium-ion batteries.
+- [faam](https://faam.com/en/italian-made-batteries-start-production-in-teverola/, 2022-12-20): - N/A
+- [electrive](https://www.electrive.com/2021/06/02/stellantis-considers-battery-factory-in-italy/, 2021-06-02): - Stellantis' planned capacity for the battery factory in Italy is not explicitly mentioned. The Italvolt project is planned to have a capacity of 37 GWh.
+- [faam](https://faam.com/en/teverola-1-and-teverola-2/, 2022-08-01): - The capacity of the project is not explicitly mentioned in the provided information.
+- [vogon](https://www.vogon.today/startmag/gigafactory-like-italy-and-europe-trot-with-batteries/2021/04/17/, 2021-04-17): - Ivrea: Planned capacity of 45 GWh, expandable to 70 GWh. - Teverola: Initial capacity of 7-8 GWh/year, expected to be fully operational in 2023-2024.
+
+Investment amounts:
+- [faam](https://faam.com/en/the-italy-of-the-batteries-beats-a-blow-417-mln-e-for-teverola/, 2022-03-10): - The first tranche of financing for the project amounts to almost 506 million euros, with the initial tranche being 417 million euros.
+- [faam](https://faam.com/en/italian-made-batteries-start-production-in-teverola/, 2022-12-20): - N/A
+- [electrive](https://www.electrive.com/2021/06/02/stellantis-considers-battery-factory-in-italy/, 2021-06-02): - The Italian government has earmarked 600 million euros of public money from the EU reconstruction fund for the factory, with total investments of more than one billion euros planned, including further investments from industrial and financial partners.
+- [faam](https://faam.com/en/teverola-1-and-teverola-2/, 2022-08-01): - The specific capital invested in the project or announced planned investment is not provided in the given information.
+- [vogon](https://www.vogon.today/startmag/gigafactory-like-italy-and-europe-trot-with-batteries/2021/04/17/, 2021-04-17): - Ivrea: An investment of 4 billion euros and 4 thousand jobs are planned. - Teverola: The project has a loan of 505 million euros from the European Commission's allocation for the battery sector.
+
+Project progress:
+- [faam](https://faam.com/en/the-italy-of-the-batteries-beats-a-blow-417-mln-e-for-teverola/, 2022-03-10): - The plant is expected to be fully operational in the first half of 2024.
+- [faam](https://faam.com/en/italian-made-batteries-start-production-in-teverola/, 2022-12-20): - The project has begun pilot production of lithium-ion batteries for electric vehicles in the Caserta region at Fib's Teverola 1 plant, a subsidiary of Seri Industrial, located in the former Whirlpool area.
+- [electrive](https://www.electrive.com/2021/06/02/stellantis-considers-battery-factory-in-italy/, 2021-06-02): - Initial talks with the Italian government have taken place, and the Italian government has earmarked 600 million euros of public money from the EU reconstruction fund for the factory. Stellantis' top management has met with the Minister for Energy Transition multiple times. The plan for the battery factory is a public-private partnership and needs approval from Brussels to ensure compatibility with EU competition and state aid rules.
+- [faam](https://faam.com/en/teverola-1-and-teverola-2/, 2022-08-01): - The project has been described as developing a production process using 'water-based' preparations, with a focus on setting up a pilot line for the recovery of end-of-life lithium-ion batteries. It also mentions the company's focus on LFP chemistry in 2017.
+- [vogon](https://www.vogon.today/startmag/gigafactory-like-italy-and-europe-trot-with-batteries/2021/04/17/, 2021-04-17): - Ivrea: The project is in the process of completing the business plan, transferring the company's registered office to Piedmont, starting permit applications and design, with construction expected to begin in 2022 and production capacity by 2024. - Teverola: The project is transitioning to a gigafactory in 2021, with an initial capacity expected to be fully operational in 2023-2024.
+
+Project type:
+- [faam](https://faam.com/en/the-italy-of-the-batteries-beats-a-blow-417-mln-e-for-teverola/, 2022-03-10): - The Teverola 2 plant is a new build project.
+- [faam](https://faam.com/en/italian-made-batteries-start-production-in-teverola/, 2022-12-20): - Conversion of a factory that used to produce something else (former Whirlpool area)
+- [electrive](https://www.electrive.com/2021/06/02/stellantis-considers-battery-factory-in-italy/, 2021-06-02): - The Stellantis project is in the initial stages of discussion with the Italian government. The Italvolt project is a new build, as it was announced to be set up in the municipality of Scarmagno near Turin.
+- [faam](https://faam.com/en/teverola-1-and-teverola-2/, 2022-08-01): - The project appears to be a new build, as it involves the setup of a pilot line for battery recovery and the development of a production process using 'water-based' preparations.
+- [vogon](https://www.vogon.today/startmag/gigafactory-like-italy-and-europe-trot-with-batteries/2021/04/17/, 2021-04-17): - Ivrea: New build. - Teverola: Expansion from an existing battery site.
+
+Value chain stages:
+- [faam](https://faam.com/en/the-italy-of-the-batteries-beats-a-blow-417-mln-e-for-teverola/, 2022-03-10): - The facility will cover cathode and anode manufacturing, cell fabrication, and will also include a line for recycling end-of-life accumulators.
+- [faam](https://faam.com/en/italian-made-batteries-start-production-in-teverola/, 2022-12-20): - N/A
+- [electrive](https://www.electrive.com/2021/06/02/stellantis-considers-battery-factory-in-italy/, 2021-06-02): - N/A
+- [faam](https://faam.com/en/teverola-1-and-teverola-2/, 2022-08-01): - The facility covers various stages of the battery manufacturing process, including cathode and anode assembly, cell formation, module assembly, and the production of battery packs and the Battery Management System (BMS).
+- [vogon](https://www.vogon.today/startmag/gigafactory-like-italy-and-europe-trot-with-batteries/2021/04/17/, 2021-04-17): - Ivrea: N/A - Teverola: The project is currently producing customized lithium batteries and is transitioning to a gigafactory.
+

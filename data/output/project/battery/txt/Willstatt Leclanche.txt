@@ -1,0 +1,30 @@
+Location:
+- [leclanche](https://www.leclanche.com/the-german-government-announces-the-launch-of-a-research-production-facility-for-industrial-scale-lithium-ion-cell-manufacturing-2/, 2019-01-24): - The project is located in Germany.
+- [energy-storage](https://www.energy-storage.news/leclanche-lands-fresh-funding-in-bid-to-treble-cell-manufacturing-capacity/, 2020-02-19): - The battery production project is located in Willstätt, Germany.
+- [pv-magazine](https://www.pv-magazine.com/press-releases/leclanche-receives-order-for-a-15-mwh-battery-storage-project-from-swb-in-germany/, 2017-11-06): - Germany
+
+Capacity:
+- [leclanche](https://www.leclanche.com/the-german-government-announces-the-launch-of-a-research-production-facility-for-industrial-scale-lithium-ion-cell-manufacturing-2/, 2019-01-24): - The Battery Cell Research Production Centre is planned to have a capacity of 1 GWh per year by 2020.
+- [energy-storage](https://www.energy-storage.news/leclanche-lands-fresh-funding-in-bid-to-treble-cell-manufacturing-capacity/, 2020-02-19): - The planned capacity of the project is set to be increased, with a planned uptick in battery cell manufacturing capacity at the plant in Willstätt, Germany. The specific GW capacity is not provided.
+- [pv-magazine](https://www.pv-magazine.com/press-releases/leclanche-receives-order-for-a-15-mwh-battery-storage-project-from-swb-in-germany/, 2017-11-06): - 15 MWh
+
+Investment amounts:
+- [leclanche](https://www.leclanche.com/the-german-government-announces-the-launch-of-a-research-production-facility-for-industrial-scale-lithium-ion-cell-manufacturing-2/, 2019-01-24): - The project will receive an investment of 500 million Euros from the German Federal Ministry of Education and Research (BMBF).
+- [energy-storage](https://www.energy-storage.news/leclanche-lands-fresh-funding-in-bid-to-treble-cell-manufacturing-capacity/, 2020-02-19): - Leclanché has secured a CHF39 million (US$40 million) unsecured convertible loan facility with New Jersey-based Yorkville Advisors. Additionally, a CHF25 million (US$25.4 million) working capital financing convertible facility has been provided by majority shareholder FEFAM. In total, Leclanché has raised around CHF64 million (US$65 million) in growth funding.
+- [pv-magazine](https://www.pv-magazine.com/press-releases/leclanche-receives-order-for-a-15-mwh-battery-storage-project-from-swb-in-germany/, 2017-11-06): - EUR 5 million
+
+Project progress:
+- [leclanche](https://www.leclanche.com/the-german-government-announces-the-launch-of-a-research-production-facility-for-industrial-scale-lithium-ion-cell-manufacturing-2/, 2019-01-24): - Leclanché announced in December 2018 that it would triple the current factory capacity to over 3 million cells per year, or 1 GWh per year by 2020. The production of its proprietary cells, Lithium Titanate Oxide (LT) and Lithium Graphite/NMC, is based in Willstätt, Germany, which is currently the largest lithium-ion pouch cell production facility in Europe operating since 2012 with a capacity of over 1 million cells.
+- [energy-storage](https://www.energy-storage.news/leclanche-lands-fresh-funding-in-bid-to-treble-cell-manufacturing-capacity/, 2020-02-19): - The project has been gradually ramping up its facility's output since 2009, with a one million lithium-ion cell production line installed in 2012 and further ramped up in 2013. The recent investment is aimed at financing a planned expansion of the plant's capacity.
+- [pv-magazine](https://www.pv-magazine.com/press-releases/leclanche-receives-order-for-a-15-mwh-battery-storage-project-from-swb-in-germany/, 2017-11-06): - The project is a hybrid storage solution developed by swb, consisting of six Leclanché storage containers. The commissioning of the complete system is scheduled for March 2018.
+
+Project type:
+- [leclanche](https://www.leclanche.com/the-german-government-announces-the-launch-of-a-research-production-facility-for-industrial-scale-lithium-ion-cell-manufacturing-2/, 2019-01-24): - The project is an expansion of the current factory capacity.
+- [energy-storage](https://www.energy-storage.news/leclanche-lands-fresh-funding-in-bid-to-treble-cell-manufacturing-capacity/, 2020-02-19): - The project is an expansion at an existing battery site in Willstätt, Germany.
+- [pv-magazine](https://www.pv-magazine.com/press-releases/leclanche-receives-order-for-a-15-mwh-battery-storage-project-from-swb-in-germany/, 2017-11-06): - N/A
+
+Value chain stages:
+- [leclanche](https://www.leclanche.com/the-german-government-announces-the-launch-of-a-research-production-facility-for-industrial-scale-lithium-ion-cell-manufacturing-2/, 2019-01-24): - The facility covers cell fabrication, as it will support the development of mass industrial production based on state-of-the-art cell chemistry and cell design.
+- [energy-storage](https://www.energy-storage.news/leclanche-lands-fresh-funding-in-bid-to-treble-cell-manufacturing-capacity/, 2020-02-19): - The facility covers cell fabrication, as it has been producing lithium-ion cells and other chemistry cells.
+- [pv-magazine](https://www.pv-magazine.com/press-releases/leclanche-receives-order-for-a-15-mwh-battery-storage-project-from-swb-in-germany/, 2017-11-06): - N/A
+

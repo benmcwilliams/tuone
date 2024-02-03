@@ -1,0 +1,30 @@
+Location:
+- [whichev](https://www.whichev.net/2022/03/29/acc-to-boost-battery-production-with-new-stellantis-factory-investment-in-italy/, 2022-03-29): - Italy, specifically in Termoli
+- [stellantis](https://www.stellantis.com/en/news/press-releases/2022/march/stellantis-affirms-commitment-to-italy-with-automotive-cells-company-s-acc-planned-battery-plant-investment, No date provided): - The project is located in Termoli, Italy.
+- [electrive](https://www.electrive.com/2022/03/23/acc-to-build-next-battery-factory-in-italy/, 2022-03-23): - The project is located in Termoli, Italy.
+
+Capacity:
+- [whichev](https://www.whichev.net/2022/03/29/acc-to-boost-battery-production-with-new-stellantis-factory-investment-in-italy/, 2022-03-29): - The partners are committed to increasing ACC’s industrial capacity to at least 120 gigawatt hours by 2030.
+- [stellantis](https://www.stellantis.com/en/news/press-releases/2022/march/stellantis-affirms-commitment-to-italy-with-automotive-cells-company-s-acc-planned-battery-plant-investment, No date provided): - The partners have committed to increase ACC’s industrial capacity to at least 120 gigawatt hours (GWh) by 2030.
+- [electrive](https://www.electrive.com/2022/03/23/acc-to-build-next-battery-factory-in-italy/, 2022-03-23): - The planned capacity of the Termoli plant is 40 GWh, with the aim for a total battery cell capacities of at least 120 GWh by 2030.
+
+Investment amounts:
+- [whichev](https://www.whichev.net/2022/03/29/acc-to-boost-battery-production-with-new-stellantis-factory-investment-in-italy/, 2022-03-29): - N/A
+- [stellantis](https://www.stellantis.com/en/news/press-releases/2022/march/stellantis-affirms-commitment-to-italy-with-automotive-cells-company-s-acc-planned-battery-plant-investment, No date provided): - The specific investment amounts are not provided in the given information.
+- [electrive](https://www.electrive.com/2022/03/23/acc-to-build-next-battery-factory-in-italy/, 2022-03-23): - The investment amount for the project has not been explicitly mentioned in the provided information.
+
+Project progress:
+- [whichev](https://www.whichev.net/2022/03/29/acc-to-boost-battery-production-with-new-stellantis-factory-investment-in-italy/, 2022-03-29): - The existing plant in Termoli, Italy is being transformed into a new battery facility by ACC, a joint venture involving Stellantis, Saft, Opel, and soon Mercedes-Benz. - The project has received collaboration with the Ministry of Economic Development in Italy.
+- [stellantis](https://www.stellantis.com/en/news/press-releases/2022/march/stellantis-affirms-commitment-to-italy-with-automotive-cells-company-s-acc-planned-battery-plant-investment, No date provided): - The project involves transforming Stellantis’ existing Termoli plant in Italy into a new battery facility. The partners have finalized the agreement to add Mercedes-Benz as a new, equal partner with TotalEnergies/Saft and Stellantis. The closing of the project is subject to customary closing conditions, including regulatory approvals.
+- [electrive](https://www.electrive.com/2022/03/23/acc-to-build-next-battery-factory-in-italy/, 2022-03-23): - The conversion of Stellantis’ current engine plant in Termoli into a battery factory is set to begin in 2024, with production expected to start by 2026. The plant is expected to reach its total capacity by 2030 with around 2,000 employees.
+
+Project type:
+- [whichev](https://www.whichev.net/2022/03/29/acc-to-boost-battery-production-with-new-stellantis-factory-investment-in-italy/, 2022-03-29): - The project involves the transformation of an existing plant into a new battery facility.
+- [stellantis](https://www.stellantis.com/en/news/press-releases/2022/march/stellantis-affirms-commitment-to-italy-with-automotive-cells-company-s-acc-planned-battery-plant-investment, No date provided): - The project involves transforming an existing plant into a new battery facility.
+- [electrive](https://www.electrive.com/2022/03/23/acc-to-build-next-battery-factory-in-italy/, 2022-03-23): - The project involves the conversion of an existing engine plant into a battery factory.
+
+Value chain stages:
+- [whichev](https://www.whichev.net/2022/03/29/acc-to-boost-battery-production-with-new-stellantis-factory-investment-in-italy/, 2022-03-29): - The facility will cover the stages of battery cell and module production.
+- [stellantis](https://www.stellantis.com/en/news/press-releases/2022/march/stellantis-affirms-commitment-to-italy-with-automotive-cells-company-s-acc-planned-battery-plant-investment, No date provided): - The information about the specific value chain stages covered at the facility is not provided in the given information.
+- [electrive](https://www.electrive.com/2022/03/23/acc-to-build-next-battery-factory-in-italy/, 2022-03-23): - The project will cover the stages of cell fabrication, as it involves the conversion of an engine plant into a battery factory.
+

@@ -1,0 +1,48 @@
+Location:
+- [insideevs](https://insideevs.com/news/432099/mercedes-benz-farasis-energy-strategic-partnership/, 2020-07-03): - The battery cell plant for Mercedes-Benz is being built in Bitterfeld-Wolfen, Germany. Farasis Energy (Ganzhou) Co., Ltd., the Chinese battery cell manufacturer, has a production plant in Zhenjiang, China, and is planning a production site in Bitterfeld-Wolfen, Germany, which will be CO2-neutral from the start. An additional plant in the U.S. is also planned.
+- [electrive](https://www.electrive.com/2022/05/04/bitterfeld-wolfen-is-cancelling-contract-with-farasis/, 2022-05-04): - The planned battery cell factory of Daimler partner Farasis Energy was supposed to be located in Bitterfeld-Wolfen, Saxony-Anhalt, Germany.
+- [electrive](https://www.electrive.com/2020/07/03/mercedes-invests-in-battery-production-with-farasis/, 2020-07-03): - The battery cell plant is planned to be located in Bitterfeld-Wolfen, Germany.
+- [batteriesnews](https://batteriesnews.com/farasis-battery-factory-plans-germany/, 2021-07-12): - The planned battery factory of Farasis is located in Bitterfeld-Wolfen, Saxony-Anhalt, Germany.
+- [eenewseurope](https://www.eenewseurope.com/en/mercedes-deal-catapults-farasis-into-the-battery-big-time-2/, 2020-07-06): - The battery gigafactory and R&D center of Farasis Energy is located in Bitterfeld-Wolfen, Germany.
+- [electrive](https://www.electrive.com/2019/05/09/farasis-energy-plans-battery-plant-in-germany/, 2019-05-09): - The battery production plant is planned to be located in Bitterfeld-Wolfen in Saxony-Anhalt, Germany.
+
+Capacity:
+- [insideevs](https://insideevs.com/news/432099/mercedes-benz-farasis-energy-strategic-partnership/, 2020-07-03): - The planned capacity of the battery cell plant in Bitterfeld-Wolfen, Germany, is not explicitly mentioned in the provided information.
+- [electrive](https://www.electrive.com/2022/05/04/bitterfeld-wolfen-is-cancelling-contract-with-farasis/, 2022-05-04): - The initial plan was to build the first battery cells on-site from the end of 2022, with subsequent capacity expansion to up to ten GWh per year.
+- [electrive](https://www.electrive.com/2020/07/03/mercedes-invests-in-battery-production-with-farasis/, 2020-07-03): - The planned capacity of the plant is 6 GWh from 2022, with a later target of 10 GWh.
+- [batteriesnews](https://batteriesnews.com/farasis-battery-factory-plans-germany/, 2021-07-12): - N/A
+- [eenewseurope](https://www.eenewseurope.com/en/mercedes-deal-catapults-farasis-into-the-battery-big-time-2/, 2020-07-06): - The battery gigafactory is set to start production later this year with an annual target of 6GWh, rising to 10GWh a year.
+- [electrive](https://www.electrive.com/2019/05/09/farasis-energy-plans-battery-plant-in-germany/, 2019-05-09): - The production capacity is initially planned to be 6 GWh per year, with plans to expand to 10 GWh per year by the end of 2022.
+
+Investment amounts:
+- [insideevs](https://insideevs.com/news/432099/mercedes-benz-farasis-energy-strategic-partnership/, 2020-07-03): - Daimler Greater China is investing a multi-million euro amount as part of Farasis' IPO, and is taking a stake of around three percent in Farasis Energy (Ganzhou) Co., Ltd. The equity stake is conditional upon required regulatory approvals.
+- [electrive](https://www.electrive.com/2022/05/04/bitterfeld-wolfen-is-cancelling-contract-with-farasis/, 2022-05-04): - N/A
+- [electrive](https://www.electrive.com/2020/07/03/mercedes-invests-in-battery-production-with-farasis/, 2020-07-03): - Mercedes-Benz is acquiring a stake of around three per cent in Farasis Energy with a "multi-million euro amount."
+- [batteriesnews](https://batteriesnews.com/farasis-battery-factory-plans-germany/, 2021-07-12): - Farasis planned to invest around 600 million euros in the battery factory in Bitterfeld-Wolfen, with the intention of creating 600 jobs.
+- [eenewseurope](https://www.eenewseurope.com/en/mercedes-deal-catapults-farasis-into-the-battery-big-time-2/, 2020-07-06): - The investment amounts and subsidies are not explicitly mentioned in the provided article.
+- [electrive](https://www.electrive.com/2019/05/09/farasis-energy-plans-battery-plant-in-germany/, 2019-05-09): - Farasis Energy plans to invest more than 600 million euros in the new plant.
+
+Project progress:
+- [insideevs](https://insideevs.com/news/432099/mercedes-benz-farasis-energy-strategic-partnership/, 2020-07-03): - Farasis is building a plant for battery cells in Bitterfeld-Wolfen, Germany, creating up to 2,000 new jobs. The site is designed as a CO2-neutral factory from the start. The investment in the battery cell manufacturer is actively driving forward the development of a key technology for electric mobility and its industrialization.
+- [electrive](https://www.electrive.com/2022/05/04/bitterfeld-wolfen-is-cancelling-contract-with-farasis/, 2022-05-04): - Despite contracts, Farasis never started building the plant in Saxony-Anhalt. There was talk of a possible start of production in 2024, but the urban development contract with Farasis Energy Europe has been terminated by the city of Bitterfeld-Wolfen.
+- [electrive](https://www.electrive.com/2020/07/03/mercedes-invests-in-battery-production-with-farasis/, 2020-07-03): - The plant is expected to create up to 2,000 new jobs and is planned to supply the German Mercedes plants. - The capacity expansion is expected to provide planning security for Farasis.
+- [batteriesnews](https://batteriesnews.com/farasis-battery-factory-plans-germany/, 2021-07-12): - The construction of the planned factory in Bitterfeld-Wolfen may face delays, with a potential delay of around two years until autumn 2024. The company is revising its Europe-wide "localization strategy," and more details on the revised strategy are expected within the next six weeks.
+- [eenewseurope](https://www.eenewseurope.com/en/mercedes-deal-catapults-farasis-into-the-battery-big-time-2/, 2020-07-06): - The project is in the phase of setting up the battery gigafactory, with production set to commence later this year.
+- [electrive](https://www.electrive.com/2019/05/09/farasis-energy-plans-battery-plant-in-germany/, 2019-05-09): - Farasis Energy Europe GmbH was founded this year with headquarters in Stuttgart. The company has been leading the search for their European factory location since the middle of last year. The plant is expected to create at least 600 new jobs in the final expansion phase. - Farasis Energy Europe is participating in the expression of interest procedure of the Federal Ministry of Economics and Energy (BMWi) for a project of common European interest (IPCEI) in the field of battery cell production, which would enable them to benefit from state aid through European Commission regulations.
+
+Project type:
+- [insideevs](https://insideevs.com/news/432099/mercedes-benz-farasis-energy-strategic-partnership/, 2020-07-03): - The project involves the construction of a new battery cell plant in Bitterfeld-Wolfen, Germany.
+- [electrive](https://www.electrive.com/2022/05/04/bitterfeld-wolfen-is-cancelling-contract-with-farasis/, 2022-05-04): - N/A
+- [electrive](https://www.electrive.com/2020/07/03/mercedes-invests-in-battery-production-with-farasis/, 2020-07-03): - The project involves the construction of a new battery cell plant in Bitterfeld-Wolfen, Germany.
+- [batteriesnews](https://batteriesnews.com/farasis-battery-factory-plans-germany/, 2021-07-12): - N/A
+- [eenewseurope](https://www.eenewseurope.com/en/mercedes-deal-catapults-farasis-into-the-battery-big-time-2/, 2020-07-06): - The project is a new build, as Farasis is constructing a new battery gigafactory in Bitterfeld-Wolfen, Germany.
+- [electrive](https://www.electrive.com/2019/05/09/farasis-energy-plans-battery-plant-in-germany/, 2019-05-09): - The project is a new build, as Farasis Energy plans to build the electric car battery production plant in Bitterfeld-Wolfen.
+
+Value chain stages:
+- [insideevs](https://insideevs.com/news/432099/mercedes-benz-farasis-energy-strategic-partnership/, 2020-07-03): - The information provided does not explicitly specify the value chain stages covered at the facility.
+- [electrive](https://www.electrive.com/2022/05/04/bitterfeld-wolfen-is-cancelling-contract-with-farasis/, 2022-05-04): - N/A
+- [electrive](https://www.electrive.com/2020/07/03/mercedes-invests-in-battery-production-with-farasis/, 2020-07-03): - The project primarily focuses on battery assembly plants where purchased cells are assembled into modules and ready-to-install packs.
+- [batteriesnews](https://batteriesnews.com/farasis-battery-factory-plans-germany/, 2021-07-12): - N/A
+- [eenewseurope](https://www.eenewseurope.com/en/mercedes-deal-catapults-farasis-into-the-battery-big-time-2/, 2020-07-06): - The facility covers the stages of battery cell manufacturing and is involved in the development and industrialization of new battery cell technologies with higher energy density and fast charging. However, specific details about cathode and anode manufacturing, cell fabrication, and module assembly are not provided in the article.
+- [electrive](https://www.electrive.com/2019/05/09/farasis-energy-plans-battery-plant-in-germany/, 2019-05-09): - The plant will be producing battery cells, as well as modules and packs, covering the stages of cell fabrication and module assembly.
+

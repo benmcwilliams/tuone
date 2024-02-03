@@ -1,0 +1,42 @@
+Location:
+- [northvolt](https://northvolt.com/articles/northvolt-financing-august-2023/, 2023-08-22): - The project is located in Gdańsk, Poland, where Northvolt Dwa has assembled its first energy storage system (ESS) products as part of its commissioning process.
+- [eib](https://www.eib.org/en/projects/pipelines/all/20170359, 2018-10-16): The project is located in Skellefteå, Sweden.
+- [skelleftea](https://skelleftea.se/platsen/eng/business/stories-eng/2021-11-18-northvolts-battery-factory-to-be-built-in-skelleftea, 2021-11-18): - The battery production plant is planned to be located in Skellefteå, Sweden.
+- [forbes](https://www.forbes.com/sites/heatherfarmbrough/2021/06/10/northvolt-to-step-up-battery-cell-output-with-275-billion-equity-round/, 2021-06-10): - The project is located in Skellefteå, Northern Sweden.
+- [politico](https://www.politico.eu/article/battery-venture-northvolt-skelleftea-transform-subarctic-sweden/, 2019-08-29): - The battery production project is located in Skellefteå, Sweden.
+
+Capacity:
+- [northvolt](https://northvolt.com/articles/northvolt-financing-august-2023/, 2023-08-22): - The new 25,000 square meter plant in Gdańsk assembles cells into battery systems for customers in energy storage and industrial markets. The current operational capacity is not specified.
+- [eib](https://www.eib.org/en/projects/pipelines/all/20170359, 2018-10-16): The planned capacity of the lithium-ion battery cell manufacturing facility is 16 GWh, structured into two components, each with a manufacturing capacity of 8 GWh.
+- [skelleftea](https://skelleftea.se/platsen/eng/business/stories-eng/2021-11-18-northvolts-battery-factory-to-be-built-in-skelleftea, 2021-11-18): - The factory is expected to have a total capacity of 32 GWh of battery production per year when fully built in 2023.
+- [forbes](https://www.forbes.com/sites/heatherfarmbrough/2021/06/10/northvolt-to-step-up-battery-cell-output-with-275-billion-equity-round/, 2021-06-10): - The project's capacity is planned to increase from 40 to 60 GWh a year, enabling the production of enough batteries for 1 million electric vehicles annually.
+- [politico](https://www.politico.eu/article/battery-venture-northvolt-skelleftea-transform-subarctic-sweden/, 2019-08-29): - The factory is planned to produce 8 GWh of batteries annually by 2020, with a projected increase to 32 GWh by 2023.
+
+Investment amounts:
+- [northvolt](https://northvolt.com/articles/northvolt-financing-august-2023/, 2023-08-22): - The company has raised $1.2 billion in an extension of the $1.1 billion convertible note signed in July 2022. The investment comes from funds labeled dark green in accordance with Article 9 of the EU's Sustainable Finance Disclosure Regulation. The European Innovation Fund has also provided support for the project. In total, Northvolt has secured over $9 billion in equity and debt.
+- [eib](https://www.eib.org/en/projects/pipelines/all/20170359, 2018-10-16): The total cost of the project is approximately EUR 1522 million, with proposed EIB finance of approximately EUR 400 million.
+- [skelleftea](https://skelleftea.se/platsen/eng/business/stories-eng/2021-11-18-northvolts-battery-factory-to-be-built-in-skelleftea, 2021-11-18): - N/A
+- [forbes](https://www.forbes.com/sites/heatherfarmbrough/2021/06/10/northvolt-to-step-up-battery-cell-output-with-275-billion-equity-round/, 2021-06-10): - An additional $2.75bn equity fund raising has been agreed upon, bringing the total raised by the Swedish startup to over $6.5bn. The investment is led by four Swedish pension funds, OMERS Capital Markets, Goldman Sachs Asset Management, and Volkswagen Group, with institutional investors including AMF, Baillie Gifford, and EIT Inno Energy. Private shareholders include notable investors such as Spotify founder Daniel Ek, Christina Stenbeck, and Norrsken VC.
+- [politico](https://www.politico.eu/article/battery-venture-northvolt-skelleftea-transform-subarctic-sweden/, 2019-08-29): - The European Investment Bank has committed €350 million in loans to Northvolt. - Volkswagen has agreed to invest €900 million in Northvolt, securing a 20 percent stake and a seat on the board.
+
+Project progress:
+- [northvolt](https://northvolt.com/articles/northvolt-financing-august-2023/, 2023-08-22): - Northvolt Dwa has assembled its first energy storage system (ESS) products in Gdańsk, Poland, and is in the final validation of production lines. Customer deliveries are expected to commence later in the year.
+- [eib](https://www.eib.org/en/projects/pipelines/all/20170359, 2018-10-16): As of the latest available information, the project was under appraisal as of 15/06/2018.
+- [skelleftea](https://skelleftea.se/platsen/eng/business/stories-eng/2021-11-18-northvolts-battery-factory-to-be-built-in-skelleftea, 2021-11-18): - Northvolt aims to commence construction in the second half of 2018 and have the first quarter of the plant completed and in production by 2020.
+- [forbes](https://www.forbes.com/sites/heatherfarmbrough/2021/06/10/northvolt-to-step-up-battery-cell-output-with-275-billion-equity-round/, 2021-06-10): - The project, named Northvolt Ett, has been under construction since Summer 2018 and is expected to start production later this year. Production is anticipated to ramp up gradually over the next 3 - 5 years.
+- [politico](https://www.politico.eu/article/battery-venture-northvolt-skelleftea-transform-subarctic-sweden/, 2019-08-29): - The project is currently in the construction phase, with the factory being built in a massive clearing in the woods a couple of kilometers from the town center.
+
+Project type:
+- [northvolt](https://northvolt.com/articles/northvolt-financing-august-2023/, 2023-08-22): - The project involves the construction of a new 25,000 square meter plant in Gdańsk, Poland, to assemble cells into battery systems for energy storage and industrial markets.
+- [eib](https://www.eib.org/en/projects/pipelines/all/20170359, 2018-10-16): The project involves the design, construction, commissioning, and operation of a new lithium-ion battery cell manufacturing facility.
+- [skelleftea](https://skelleftea.se/platsen/eng/business/stories-eng/2021-11-18-northvolts-battery-factory-to-be-built-in-skelleftea, 2021-11-18): - This is a new build project, with the construction of the battery production plant starting from scratch.
+- [forbes](https://www.forbes.com/sites/heatherfarmbrough/2021/06/10/northvolt-to-step-up-battery-cell-output-with-275-billion-equity-round/, 2021-06-10): - The project is a new build, with the gigafactory being constructed from scratch.
+- [politico](https://www.politico.eu/article/battery-venture-northvolt-skelleftea-transform-subarctic-sweden/, 2019-08-29): - The project is a new build, with the factory being constructed from scratch.
+
+Value chain stages:
+- [northvolt](https://northvolt.com/articles/northvolt-financing-august-2023/, 2023-08-22): - The facility covers the stages of cell fabrication, where cathode and anode are combined with an electrolyte, and module assembly.
+- [eib](https://www.eib.org/en/projects/pipelines/all/20170359, 2018-10-16): The facility will cover the manufacturing of lithium-ion electrodes, cells, and batteries, falling under the Environmental Impact Assessment Directive 2014/52/EU.
+- [skelleftea](https://skelleftea.se/platsen/eng/business/stories-eng/2021-11-18-northvolts-battery-factory-to-be-built-in-skelleftea, 2021-11-18): - The facility will cover the entire value chain stages, including cathode and anode manufacturing, cell fabrication, and module assembly.
+- [forbes](https://www.forbes.com/sites/heatherfarmbrough/2021/06/10/northvolt-to-step-up-battery-cell-output-with-275-billion-equity-round/, 2021-06-10): - The facility will be capable of recycling lithium, cobalt, nickel, manganese, and other metals, covering the value chain stages of cathode and anode manufacturing, cell fabrication, and module assembly.
+- [politico](https://www.politico.eu/article/battery-venture-northvolt-skelleftea-transform-subarctic-sweden/, 2019-08-29): - The facility will cover the stages of cathode and anode manufacturing, cell fabrication, and module assembly.
+

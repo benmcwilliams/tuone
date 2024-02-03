@@ -1,0 +1,42 @@
+Location:
+- [amtepower](https://amtepower.com/amte-takes-its-uk-battery-plant-to-the-next-level-with-the-thurso-project/, No date provided): - The battery production project is located in Thurso, Scotland, UK.
+- [amtepower](https://amtepower.com/thurso-powering-our-growth-plans/, No date provided): - The battery production project is located in Thurso, northeast Scotland, UK.
+- [pressandjournal](https://www.pressandjournal.co.uk/fp/business/3261064/amte-electric-vehicles/, 2021-06-24): - The battery production project is located in Thurso, United Kingdom.
+- [pressandjournal](https://www.pressandjournal.co.uk/fp/business/local/4042310/amte-reveals-plan-to-extend-its-thurso-battery-factory/, 2022-03-10): - The battery production project is located in Thurso, Caithness, in the United Kingdom.
+- [insider](https://www.insider.co.uk/news/amte-power-set-expand-thurso-26440803, 2022-03-11): - The project is located in Thurso, UK, with plans for three potential sites in the UK for a Gigafactory.
+
+Capacity:
+- [amtepower](https://amtepower.com/amte-takes-its-uk-battery-plant-to-the-next-level-with-the-thurso-project/, No date provided): - The project aims to upscale AMTE Power’s electrochemical battery cell production facility in Thurso. The expected operational date for a significant new UK facility is 2022.
+- [amtepower](https://amtepower.com/thurso-powering-our-growth-plans/, No date provided): - The project is in the phase of production scale-up to commercial volumes, with a focus on ramping up production of two core cells: Ultra Prime and Ultra Safe. The specific capacity in GW is not provided.
+- [pressandjournal](https://www.pressandjournal.co.uk/fp/business/3261064/amte-electric-vehicles/, 2021-06-24): - No specific information about the planned capacity or current operational capacity is provided.
+- [pressandjournal](https://www.pressandjournal.co.uk/fp/business/local/4042310/amte-reveals-plan-to-extend-its-thurso-battery-factory/, 2022-03-10): - The article does not provide specific information about the planned or current operational capacity of the project.
+- [insider](https://www.insider.co.uk/news/amte-power-set-expand-thurso-26440803, 2022-03-11): - The current turnover is £810,000, up 31% from the previous year, with a planned commercial production in 2025.
+
+Investment amounts:
+- [amtepower](https://amtepower.com/amte-takes-its-uk-battery-plant-to-the-next-level-with-the-thurso-project/, No date provided): - N/A
+- [amtepower](https://amtepower.com/thurso-powering-our-growth-plans/, No date provided): - The exact capital invested or planned investment amounts are not specified in the provided information.
+- [pressandjournal](https://www.pressandjournal.co.uk/fp/business/3261064/amte-electric-vehicles/, 2021-06-24): - The project has received £2.3 million in funding from the UK Government’s Advanced Propulsion Centre (APC) as part of the three-year, £5 million "Ultra" initiative.
+- [pressandjournal](https://www.pressandjournal.co.uk/fp/business/local/4042310/amte-reveals-plan-to-extend-its-thurso-battery-factory/, 2022-03-10): - The article does not specify the exact amount of capital invested in the project. However, it mentions that AMTE Power raised £13.7m when it joined the AIM last March.
+- [insider](https://www.insider.co.uk/news/amte-power-set-expand-thurso-26440803, 2022-03-11): - The company has improved its balance sheet strength to £6.26m in cash or cash equivalents, up from £22,000. The UK Government has invested £130m into a high-rate cell production facility.
+
+Project progress:
+- [amtepower](https://amtepower.com/amte-takes-its-uk-battery-plant-to-the-next-level-with-the-thurso-project/, No date provided): - The project is currently in the phase of determining the feasibility of upscaling the electrochemical battery cell production facility in Thurso. It is also being submitted to Innovate UK’s competition for moving the UK automotive sector to zero emissions.
+- [amtepower](https://amtepower.com/thurso-powering-our-growth-plans/, No date provided): - The project is in the phase of investing further in the Thurso site to improve manufacturing capabilities for scaling up production of Ultra Prime and Ultra Safe cells. The site has been making cells for over 30 years and is now fulfilling orders and shipping prototypes.
+- [pressandjournal](https://www.pressandjournal.co.uk/fp/business/3261064/amte-electric-vehicles/, 2021-06-24): - The project is part of the three-year, government-funded “Ultra” initiative aimed at enabling high volume manufacture of equipment for electric vehicles. The company, AMTE Power, will focus on bringing two lithium-ion batteries to “automotive readiness” during this initiative. The project involves collaboration with leading automotive manufacturers and supply chain companies.
+- [pressandjournal](https://www.pressandjournal.co.uk/fp/business/local/4042310/amte-reveals-plan-to-extend-its-thurso-battery-factory/, 2022-03-10): - AMTE Power has secured planning permission to extend its factory in Thurso. The company is also progressing plans for a new "gigafactory" in the UK, with Dundee being considered as a potential location.
+- [insider](https://www.insider.co.uk/news/amte-power-set-expand-thurso-26440803, 2022-03-11): - AMTE Power has received planning permission to extend its Thurso production facility and is engaging with local authorities and design development for the Gigafactory site. The final decision on site selection is expected in 2022, with commercial production in 2025.
+
+Project type:
+- [amtepower](https://amtepower.com/amte-takes-its-uk-battery-plant-to-the-next-level-with-the-thurso-project/, No date provided): - The project is focused on upscaling an existing battery production facility in Thurso, Scotland.
+- [amtepower](https://amtepower.com/thurso-powering-our-growth-plans/, No date provided): - The project is an expansion at an existing battery site, with a focus on improving manufacturing capabilities for scaling up production.
+- [pressandjournal](https://www.pressandjournal.co.uk/fp/business/3261064/amte-electric-vehicles/, 2021-06-24): - The project is focused on bringing two lithium-ion batteries to “automotive readiness” and is part of a government-funded initiative, indicating that it involves development and preparation for high volume production rather than a new build or expansion.
+- [pressandjournal](https://www.pressandjournal.co.uk/fp/business/local/4042310/amte-reveals-plan-to-extend-its-thurso-battery-factory/, 2022-03-10): - The project involves the extension of an existing battery factory in Thurso and the potential construction of a new "gigafactory" in the UK.
+- [insider](https://www.insider.co.uk/news/amte-power-set-expand-thurso-26440803, 2022-03-11): - The project involves extending the existing Thurso production facility and establishing a new Gigafactory.
+
+Value chain stages:
+- [amtepower](https://amtepower.com/amte-takes-its-uk-battery-plant-to-the-next-level-with-the-thurso-project/, No date provided): - The project aims to develop lean, flexible, and state-of-the-art high volume cell manufacturing capability, focusing on cell production and innovation in high-volume manufacturing techniques and processes within a small-scale facility.
+- [amtepower](https://amtepower.com/thurso-powering-our-growth-plans/, No date provided): - The facility covers cell manufacturing and is focused on scaling up production of Ultra Prime and Ultra Safe cells, designed for industrial environments and energy storage applications.
+- [pressandjournal](https://www.pressandjournal.co.uk/fp/business/3261064/amte-electric-vehicles/, 2021-06-24): - The article does not provide specific information about which value chain stages are covered at the facility.
+- [pressandjournal](https://www.pressandjournal.co.uk/fp/business/local/4042310/amte-reveals-plan-to-extend-its-thurso-battery-factory/, 2022-03-10): - The article does not provide specific information about the value chain stages covered at the facility.
+- [insider](https://www.insider.co.uk/news/amte-power-set-expand-thurso-26440803, 2022-03-11): - The project covers cell manufacturing, with trials and scale-up testing ongoing at the UK Battery Industrialisation Centre. Additionally, a joint venture in Australia is set to license the Ultra Storage cell with initial targets of 200,000 cells per annum, scaling to 2GWh.
+

@@ -1,0 +1,54 @@
+Location:
+- [electrive](https://www.electrive.com/2022/11/04/calb-signs-mou-for-factory-in-portugal/, 2022-11-04): - Portugal, at the port of Sines
+- [scantech](https://scantech.com/news/process-for-lithium-battery-unit-in-sines/, 2023-03-24): - The lithium battery factory for electric cars will be located in the Industrial and Logistics Zone of Sines (ZILS), in the district of Setúbal, Portugal.
+- [portugalresident](https://www.portugalresident.com/mega-chinese-lithium-battery-factory-in-sines-at-risk/, 2023-07-04): - The battery factory project is planned to be located in Sines, Portugal, within the Sines Industrial and Logistics Zone.
+- [clbrief](https://www.clbrief.com/chinas-calb-sees-opportunity-for-battery-factory-in-portugal-with-xpeng-volkswagen-deal/, 2023-08-19): - The battery factory project is located in the municipality of Sines, Portugal.
+- [energytrend](https://www.energytrend.com/news/20221111-30434.html, 2017-06-08): - The battery manufacturing operation is planned to be established in Portugal, specifically in the Sines Industrial and Logistics Zone near the Port of Sines.
+- [energytrend](https://www.energytrend.com/news/20230403-31492.html, 2017-06-08): - The battery manufacturing base is planned to be located in the Portuguese city of Sines.
+- [cnevpost](https://cnevpost.com/2022/11/03/calb-to-build-production-base-in-portugal/, 2022-11-03): - The battery production project is located near the port of Sines, Sebatul, Portugal, in the heart of European logistics.
+
+Capacity:
+- [electrive](https://www.electrive.com/2022/11/04/calb-signs-mou-for-factory-in-portugal/, 2022-11-04): - The first phase of the battery cell factory will have an annual capacity of 15 GWh, with plans to triple production to 45 GWh by 2028.
+- [scantech](https://scantech.com/news/process-for-lithium-battery-unit-in-sines/, 2023-03-24): - The production unit is expected to have a capacity of 15 GWh, to be built on an area of about 50 hectares within the 100-hectare land identified for the factory.
+- [portugalresident](https://www.portugalresident.com/mega-chinese-lithium-battery-factory-in-sines-at-risk/, 2023-07-04): - The planned capacity of the factory is 15GWh, with production scheduled to begin in 2025. It is expected to reach full capacity at cruising speed between 2028 and 2030, representing around 4% of Portuguese GDP.
+- [clbrief](https://www.clbrief.com/chinas-calb-sees-opportunity-for-battery-factory-in-portugal-with-xpeng-volkswagen-deal/, 2023-08-19): - The factory is due to come into operation in 2025, and it is estimated to be CALB’s largest factory in Europe. However, specific capacity details are not provided.
+- [energytrend](https://www.energytrend.com/news/20221111-30434.html, 2017-06-08): - The planned production capacity is not explicitly mentioned in the provided information.
+- [energytrend](https://www.energytrend.com/news/20230403-31492.html, 2017-06-08): - The base is set to have a production capacity of 15GWh per year.
+- [cnevpost](https://cnevpost.com/2022/11/03/calb-to-build-production-base-in-portugal/, 2022-11-03): - N/A
+
+Investment amounts:
+- [electrive](https://www.electrive.com/2022/11/04/calb-signs-mou-for-factory-in-portugal/, 2022-11-04): - N/A
+- [scantech](https://scantech.com/news/process-for-lithium-battery-unit-in-sines/, 2023-03-24): - The company has not disclosed specific investment amounts, but it has signed a memorandum of understanding with a subsidiary of the Agency for Investment and Foreign Trade of Portugal (AICEP) for the acquisition of surface rights to set up the factory.
+- [portugalresident](https://www.portugalresident.com/mega-chinese-lithium-battery-factory-in-sines-at-risk/, 2023-07-04): - The project has entered the environmental licensing process and a contract was signed to reserve surface rights over 92 hectares in the Sines Industrial and Logistics Zone. However, there is no specific information available about the capital invested or any subsidies received for the project.
+- [clbrief](https://www.clbrief.com/chinas-calb-sees-opportunity-for-battery-factory-in-portugal-with-xpeng-volkswagen-deal/, 2023-08-19): - Volkswagen recently announced a EUR 630 million acquisition of a 4.99% stake in Xpeng for the joint development of electric vehicles. However, specific investment amounts for the battery factory project are not provided.
+- [energytrend](https://www.energytrend.com/news/20221111-30434.html, 2017-06-08): - The specific capital invested or announced for the project is not provided in the extracted data.
+- [energytrend](https://www.energytrend.com/news/20230403-31492.html, 2017-06-08): - N/A
+- [cnevpost](https://cnevpost.com/2022/11/03/calb-to-build-production-base-in-portugal/, 2022-11-03): - N/A
+
+Project progress:
+- [electrive](https://www.electrive.com/2022/11/04/calb-signs-mou-for-factory-in-portugal/, 2022-11-04): - CALB has signed a non-binding letter of intent with a subsidiary of the Portuguese Agency for Investment and Foreign Trade (AICEP). The first phase of the battery cell factory is planned to go into operation at the end of 2025, with the aim for CALB batteries to be installed in European cars by the end of the first quarter of 2026. A possible third expansion phase is already being considered.
+- [scantech](https://scantech.com/news/process-for-lithium-battery-unit-in-sines/, 2023-03-24): - The environmental licensing process for the construction project of the Lithium Battery Unit has already started, and a Proposal for Definition of Scope (PDA) of the Environmental Impact Study (EIA) has been presented to the Portuguese Environment Agency (APA). The public consultation for the EIA is ongoing until a specified date.
+- [portugalresident](https://www.portugalresident.com/mega-chinese-lithium-battery-factory-in-sines-at-risk/, 2023-07-04): - A memorandum of understanding for construction of the plant was signed in November. However, there have been no significant developments in the partnerships that CALB appears to have formalized with Portugal. The project remains "active" according to AICEP, but there are uncertainties about its progress due to issues faced by the CALB group in China and the lack of response from the group.
+- [clbrief](https://www.clbrief.com/chinas-calb-sees-opportunity-for-battery-factory-in-portugal-with-xpeng-volkswagen-deal/, 2023-08-19): - CALB has started the environmental licensing process for the project and has gone ahead with a contract to reserve 90 hectares in Sines for the battery factory. The factory is due to come into operation in 2025.
+- [energytrend](https://www.energytrend.com/news/20221111-30434.html, 2017-06-08): - CALB has signed a memorandum of understanding with Global Parques for the establishment of the battery manufacturing operation in Portugal. The company will acquire rights to the land around the Port of Sines to build the manufacturing base. The project is part of CALB's international expansion strategy.
+- [energytrend](https://www.energytrend.com/news/20230403-31492.html, 2017-06-08): - CALB has signed a memorandum of cooperation with the Portuguese government and has initiated the process of obtaining an environmental permit for the planned base. - The construction of the base is expected to take around 30 months, with the base scheduled to enter operation by the end of 2025.
+- [cnevpost](https://cnevpost.com/2022/11/03/calb-to-build-production-base-in-portugal/, 2022-11-03): - CALB signed a memorandum of cooperation with the Portuguese government on November 2, marking a significant milestone in the company's expansion into the international market. The company aims to make the project the world's leading highly intelligent, digital, and automated zero-carbon factory.
+
+Project type:
+- [electrive](https://www.electrive.com/2022/11/04/calb-signs-mou-for-factory-in-portugal/, 2022-11-04): - New build
+- [scantech](https://scantech.com/news/process-for-lithium-battery-unit-in-sines/, 2023-03-24): - The project is a new build, aiming to construct and operate a lithium battery production unit.
+- [portugalresident](https://www.portugalresident.com/mega-chinese-lithium-battery-factory-in-sines-at-risk/, 2023-07-04): - The project is a new build, described as a "world-leading, highly intelligent, computerized and automated factory, with zero carbon emissions."
+- [clbrief](https://www.clbrief.com/chinas-calb-sees-opportunity-for-battery-factory-in-portugal-with-xpeng-volkswagen-deal/, 2023-08-19): - N/A
+- [energytrend](https://www.energytrend.com/news/20221111-30434.html, 2017-06-08): - The project is a new build, as CALB will establish its first battery manufacturing operation in Europe.
+- [energytrend](https://www.energytrend.com/news/20230403-31492.html, 2017-06-08): - The project is a new build, as CALB aims to build a state-of-the-art manufacturing base in the local industrial park of Sines.
+- [cnevpost](https://cnevpost.com/2022/11/03/calb-to-build-production-base-in-portugal/, 2022-11-03): - This is a new build project as CALB is constructing its first production site in Europe in Portugal.
+
+Value chain stages:
+- [electrive](https://www.electrive.com/2022/11/04/calb-signs-mou-for-factory-in-portugal/, 2022-11-04): - 1) Cathode and anode manufacturing - 2) Cell fabrication - 3) Module assembly
+- [scantech](https://scantech.com/news/process-for-lithium-battery-unit-in-sines/, 2023-03-24): - N/A
+- [portugalresident](https://www.portugalresident.com/mega-chinese-lithium-battery-factory-in-sines-at-risk/, 2023-07-04): - The project is expected to cover the stages of cell fabrication, with the factory being a lithium battery production facility.
+- [clbrief](https://www.clbrief.com/chinas-calb-sees-opportunity-for-battery-factory-in-portugal-with-xpeng-volkswagen-deal/, 2023-08-19): - N/A
+- [energytrend](https://www.energytrend.com/news/20221111-30434.html, 2017-06-08): - The specific stages of the battery production value chain covered at the facility are not mentioned in the provided information.
+- [energytrend](https://www.energytrend.com/news/20230403-31492.html, 2017-06-08): - The facility will cover the production of Li-ion battery cells, electrodes, battery casings, and battery assembly (battery packages).
+- [cnevpost](https://cnevpost.com/2022/11/03/calb-to-build-production-base-in-portugal/, 2022-11-03): - N/A
+

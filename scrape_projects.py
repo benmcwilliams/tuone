@@ -54,9 +54,10 @@ def scrape_article(url):
 
         return {
         'title': article.title,
+        'url':url,
         'date': publish_date,
-        'text': article.text,
-        'url':url}
+        'text': article.text
+        }
     
     except RequestException as req_e:
         error_message = f"Network-related error scraping {url}: {req_e}"

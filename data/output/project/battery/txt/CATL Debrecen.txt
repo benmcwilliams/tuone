@@ -1,0 +1,48 @@
+Location:
+- [investmentmonitor](https://www.investmentmonitor.ai/news/catl-to-open-7-5bn-battery-plant-in-debrecen-hungary/, 2022-08-15): - The battery production project is located in Debrecen, Hungary, within the Southern Industrial Park.
+- [insideevs](https://insideevs.com/news/604099/catl-100gwh-battery-plant-hungary/, 2022-08-12): - The battery plant project is located in Debrecen, Hungary.
+- [cleantechnica](https://cleantechnica.com/2022/08/14/catl-to-build-7-6-billion-100-gwh-battery-factory-in-hungary/, 2022-08-14): - The battery production project is located in the Southern Industrial Park in the city of Debrecen in Hungary.
+- [hipa](https://hipa.hu/news/catl-s-new-battery-plant-to-become-hungary-s-largest-greenfield-fdi-project-ever-/, No date provided): - The project is located in Debrecen, Hungary.
+- [hipa](https://hipa.hu/news/catl-s-record-volume-hungarian-project-formally-launched-in-debrecen/, No date provided): - The battery production project is located in Debrecen, Hungary.
+- [chemicalparks](https://chemicalparks.eu/news/catl-european-battery-plant-debrecen-hungary, No date provided): - Hungary, Debrecen
+
+Capacity:
+- [investmentmonitor](https://www.investmentmonitor.ai/news/catl-to-open-7-5bn-battery-plant-in-debrecen-hungary/, 2022-08-15): - The planned capacity of the project is 100 gigawatt hours (GWh).
+- [insideevs](https://insideevs.com/news/604099/catl-100gwh-battery-plant-hungary/, 2022-08-12): - The planned capacity of the new battery plant is 100 GWh.
+- [cleantechnica](https://cleantechnica.com/2022/08/14/catl-to-build-7-6-billion-100-gwh-battery-factory-in-hungary/, 2022-08-14): - The annual production capacity of the battery factory is planned to increase from 170 GWh to 670 GWh by 2025.
+- [hipa](https://hipa.hu/news/catl-s-new-battery-plant-to-become-hungary-s-largest-greenfield-fdi-project-ever-/, No date provided): - The planned capacity of the project is 100 GWh.
+- [hipa](https://hipa.hu/news/catl-s-record-volume-hungarian-project-formally-launched-in-debrecen/, No date provided): - The planned capacity of the project is 100 GWh, making it the largest-ever greenfield project in Hungary. The current e-battery capacity in Hungary is 50 GWh, set to grow to 150 GWh by 2025.
+- [chemicalparks](https://chemicalparks.eu/news/catl-european-battery-plant-debrecen-hungary, No date provided): - Planned capacity: N/A - Current operational capacity: N/A
+
+Investment amounts:
+- [investmentmonitor](https://www.investmentmonitor.ai/news/catl-to-open-7-5bn-battery-plant-in-debrecen-hungary/, 2022-08-15): - CATL has announced plans to invest €7.34bn ($7.49bn) in the project, making it the largest greenfield investment in Hungary’s history.
+- [insideevs](https://insideevs.com/news/604099/catl-100gwh-battery-plant-hungary/, 2022-08-12): - Contemporary Amperex Technology Co., Limited (CATL) intends to invest €7.34 billion ($7.5 billion) in the construction of the 100 GWh EV battery plant in Hungary.
+- [cleantechnica](https://cleantechnica.com/2022/08/14/catl-to-build-7-6-billion-100-gwh-battery-factory-in-hungary/, 2022-08-14): - The project involves a new $7.6 billion battery factory in Hungary.
+- [hipa](https://hipa.hu/news/catl-s-new-battery-plant-to-become-hungary-s-largest-greenfield-fdi-project-ever-/, No date provided): - Contemporary Amperex Technology Co., Limited (CATL) will invest EUR 7.34 billion into the project. - The investment is expected to create over 9,000 new jobs.
+- [hipa](https://hipa.hu/news/catl-s-record-volume-hungarian-project-formally-launched-in-debrecen/, No date provided): - The investment for the project is EUR 7.34 billion, making it the biggest battery-related investment in the entire European Union. The magnitude of this investment nearly equals the total investment volume of the seven largest FDI deals guided by HIPA since 2014.
+- [chemicalparks](https://chemicalparks.eu/news/catl-european-battery-plant-debrecen-hungary, No date provided): - Planned investment: €7.34bn ($8.5bn) - Subsidies: N/A
+
+Project progress:
+- [investmentmonitor](https://www.investmentmonitor.ai/news/catl-to-open-7-5bn-battery-plant-in-debrecen-hungary/, 2022-08-15): - Construction of the new site is subject to shareholder meeting approval and is expected to begin by the end of 2022.
+- [insideevs](https://insideevs.com/news/604099/catl-100gwh-battery-plant-hungary/, 2022-08-12): - The construction of the first production facilities is expected to start before the end of the year, pending approval at the shareholder meeting.
+- [cleantechnica](https://cleantechnica.com/2022/08/14/catl-to-build-7-6-billion-100-gwh-battery-factory-in-hungary/, 2022-08-14): - The project has been announced and is planned to be located on 221 hectares in the Southern Industrial Park in Debrecen, Hungary. It aims to supply both cells and modules to European automakers. The project has received support from Hungarian officials and is part of the country's goal to attract state-of-the-art investments in the electromobility sector.
+- [hipa](https://hipa.hu/news/catl-s-new-battery-plant-to-become-hungary-s-largest-greenfield-fdi-project-ever-/, No date provided): - Construction is scheduled to commence this year on 221 hectares in the Southern Industrial Park of Debrecen. - The project is set to become Hungary’s largest FDI project ever and is expected to strengthen the country's role as one of the world’s leading battery producers.
+- [hipa](https://hipa.hu/news/catl-s-record-volume-hungarian-project-formally-launched-in-debrecen/, No date provided): - The formal launch of the EUR 7.34 billion investment was marked by the signing of a document committing to purchase the relevant plot in Debrecen. The presale purchase agreement of the plot has been formally signed, indicating the project's initiation.
+- [chemicalparks](https://chemicalparks.eu/news/catl-european-battery-plant-debrecen-hungary, No date provided): - Announcement of plans to invest in a new battery plant in Debrecen, Hungary - Consideration of partnering with local firms to establish battery materials facilities in Europe
+
+Project type:
+- [investmentmonitor](https://www.investmentmonitor.ai/news/catl-to-open-7-5bn-battery-plant-in-debrecen-hungary/, 2022-08-15): - The project is a new build, representing CATL's second battery factory in Europe.
+- [insideevs](https://insideevs.com/news/604099/catl-100gwh-battery-plant-hungary/, 2022-08-12): - The project is a greenfield project, indicating that it will be constructed from scratch.
+- [cleantechnica](https://cleantechnica.com/2022/08/14/catl-to-build-7-6-billion-100-gwh-battery-factory-in-hungary/, 2022-08-14): - The project is a new build, as it involves the construction of a new battery factory from scratch.
+- [hipa](https://hipa.hu/news/catl-s-new-battery-plant-to-become-hungary-s-largest-greenfield-fdi-project-ever-/, No date provided): - The project is a new build, with construction scheduled to commence this year.
+- [hipa](https://hipa.hu/news/catl-s-record-volume-hungarian-project-formally-launched-in-debrecen/, No date provided): - The project is a new build, as it is the largest-ever greenfield project in Hungary.
+- [chemicalparks](https://chemicalparks.eu/news/catl-european-battery-plant-debrecen-hungary, No date provided): - New build
+
+Value chain stages:
+- [investmentmonitor](https://www.investmentmonitor.ai/news/catl-to-open-7-5bn-battery-plant-in-debrecen-hungary/, 2022-08-15): - N/A
+- [insideevs](https://insideevs.com/news/604099/catl-100gwh-battery-plant-hungary/, 2022-08-12): - The factory in Hungary will produce cells and modules for European automakers, covering the stages of cell fabrication and module assembly.
+- [cleantechnica](https://cleantechnica.com/2022/08/14/catl-to-build-7-6-billion-100-gwh-battery-factory-in-hungary/, 2022-08-14): - The facility will cover cell fabrication, as it will supply both cells and modules to European automakers.
+- [hipa](https://hipa.hu/news/catl-s-new-battery-plant-to-become-hungary-s-largest-greenfield-fdi-project-ever-/, No date provided): - The project aims to establish facilities for battery materials in Europe to build a sustainable and circular battery value chain.
+- [hipa](https://hipa.hu/news/catl-s-record-volume-hungarian-project-formally-launched-in-debrecen/, No date provided): - N/A
+- [chemicalparks](https://chemicalparks.eu/news/catl-european-battery-plant-debrecen-hungary, No date provided): - Cathode and anode manufacturing - Cell fabrication - Module assembly
+
